@@ -14,30 +14,30 @@
 | 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 팰린드롬의 개수 | - | |
 | 2 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 1 또는 -1 | - | |
 | 3 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 팰린드롬 인코딩 | - | |
-| 4 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 랩싸기 (Lazy Cows) | - | |
-| 5 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 두 수열 (Game) | - | |
+| 4 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 랩싸기 | - | |
+| 5 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 두 수열 | - | |
 | 6 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리 만들기 | - | |
-| 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 거울2 (Box of Mirrors) | https://dmoj.ca/problem/btoi01p3 | |
-| 8 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 신호 장애 (Subway Signalling Error) | - | |
+| 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 거울2 | https://dmoj.ca/problem/btoi01p3 | |
+| 8 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 신호 장애 | - | |
 | 9 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 초고속철도 | - | |
 | 10 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 2,3 거듭제곱의 합 | - | |
 | 11 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | K-Graph Oddity | - | |
-| 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 텔레점프 (Jumping Around) | https://codeforces.com/gym/100134 | |
+| 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 텔레점프 | https://codeforces.com/gym/100134 | |
 | 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Teleporters | https://qoj.ac/problem/12666 | |
-| 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 마라톤 훈련 방해하기 (TRAINING) | https://qoj.ac/problem/13044 | |
+| 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 마라톤 훈련 방해하기 | https://qoj.ac/problem/13044 | |
 | 15 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Hermes | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Utopia Divided | https://qoj.ac/problem/13815 | |
 | 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | お土産購入計画 (Gifts) | https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_f | |
-| 18 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 깃발 (JOI Flag) | - | |
+| 18 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 깃발 | - | |
 | 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 博覧会 | - | |
 | 20 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | ダンジョン | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e | |
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mountain Climbing | - | |
-| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 (Binary Sudoku) | - | |
-| 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 (Cleaning Up) | - | |
+| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | - | |
+| 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 | - | |
 | 24 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Watching | - | |
-| 25 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 무한 게임 (Infinite Game) | - | |
-| 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 두 교수 (Two professors) | - | |
-| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 장비를 정지합니다 (Hydra) | - | |
+| 25 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 무한 게임 | - | |
+| 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 두 교수 | - | |
+| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 장비를 정지합니다 | - | |
 | 28 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Hamsters | - | |
 | 29 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lollipop | - | |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | - | |
@@ -46,16 +46,16 @@
 | 33 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Computer Network | - | |
 | 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | - | |
 | 35 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Spy Network | - | |
-| 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 (Mancala) | - | |
+| 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 | - | |
 | 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | - | |
 | 38 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Bank | https://oj.uz/problem/view/IZhO14_bank | |
 | 39 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | K blocks | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 채우기 | - | |
-| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 (Pinball) | - | |
-| 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 (Food stalls) | - | |
+| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | - | |
+| 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 | - | |
 | 43 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 262144 | - | |
-| 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store (Large) | - | |
-| 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism (Large) | - | |
+| 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store | - | |
+| 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | - | |
 | 46 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | - | |
 | 47 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Balanced Diet | https://qoj.ac/problem/4362 | |
 | 48 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Fox and Card Game | - | |
@@ -95,7 +95,7 @@
 | 82 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Best Tree | https://qoj.ac/problem/832 | |
 | 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | |
 | 84 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Greedy Algorithm | https://qoj.ac/problem/1461 | |
-| 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation (Platinum) | https://qoj.ac/problem/1992 | |
+| 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation | https://qoj.ac/problem/1992 | |
 | 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | - | |
 | 87 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Exercise | https://qoj.ac/problem/1996 | |
 | 88 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Balanced Sequence | - | |
@@ -146,7 +146,7 @@
 | 133 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 니은숲 예술가 | - | |
 | 134 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 대충 카드로 몬스터 잡는 게임 | - | |
 | 135 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Traveling Junkman Problem | - | |
-| 136 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 디지털 회로 (Digital Circuit) | https://qoj.ac/problem/4564 | |
+| 136 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 디지털 회로 | https://qoj.ac/problem/4564 | |
 | 137 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 이분 그래프 놀이 | - | |
 | 138 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 곰곰이와 테트리스 | - | |
 | 139 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 곰곰아 선 넘지마 | - | |
