@@ -24,7 +24,7 @@ solved.ac의 Class 10 문제입니다.
 | 11 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Mole Tunnels | https://qoj.ac/problem/12546 | |
 | 12 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | String Puzzle | https://qoj.ac/problem/3291 | |
 | 13 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 쉬운 최단경로 문제 | - | |
-| 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Double Clique | https://qoj.ac/problem/3015 | [source code](https://github.com/jinhan814/ps-note/blob/main/class10/double-clique/main.cpp) |
+| 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Double Clique | https://qoj.ac/problem/3015 | [source code](./double-clique/main.cpp) |
 | 15 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Utilitarianism | https://qoj.ac/problem/17872 | |
 | 16 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coin Collecting | https://qoj.ac/problem/2765 | |
 | 17 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Eat Economically | https://codeforces.com/problemset/gymProblem/102202/F | |
