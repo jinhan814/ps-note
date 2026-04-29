@@ -11,7 +11,7 @@ BOJ의 문제 번호와 QOJ의 채점 링크를 같이 정리했습니다.
 
 ### 🟢 QOJ Available
 
-| No. | Problem Name | Problem Link | Source Code |
+| BOJ. | Problem Name | Problem Link | Source Code |
 | :--- | :--- | :--- | :---: |
 | 3311 | Traffic | https://qoj.ac/problem/14958 | |
 | 3419 | Racing Car Trail | https://qoj.ac/problem/15983 | |
@@ -46,7 +46,7 @@ BOJ의 문제 번호와 QOJ의 채점 링크를 같이 정리했습니다.
 
 ### 🔴 Missing / Other Platforms
 
-| No. | Problem Name | Problem Link | Source Code |
+| BOJ. | Problem Name | Problem Link | Source Code |
 | :--- | :--- | :--- | :---: |
 | 1659 | 수 (Hard) | ? | |
 | 1763 | 트리 색칠 | ? | |
