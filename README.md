@@ -4,8 +4,8 @@
 
 ## 📂 Repository Structure
 
-- [**Class 9**](./solved-ac/class9/README.md): solved.ac Class 9 문제 풀이 및 진행 현황
-- [**Class 10**](./solved-ac/class10/README.md): solved.ac Class 10 문제 풀이 및 진행 현황
+- [**Class 9**](./class9/README.md): solved.ac Class 9 문제 풀이 및 진행 현황
+- [**Class 10**](./class10/README.md): solved.ac Class 10 문제 풀이 및 진행 현황
 
 ---
 
