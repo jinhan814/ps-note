@@ -1,11 +1,13 @@
 # 🏆 BOJ Class 10
 
-Solved.ac의 Class 10 문제입니다.
+solved.ac의 Class 10 문제입니다.
 
 ## 📊 Progress
 
 - **진행도:** 1 / 48 (2.08%)
 - **마지막 업데이트:** 2026-04-29
+
+---
 
 | BOJ. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
