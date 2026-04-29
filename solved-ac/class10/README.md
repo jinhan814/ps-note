@@ -29,7 +29,7 @@ BOJ의 문제 번호와 QOJ의 채점 링크를 같이 정리했습니다.
 | 15292 | Journey from Petersburg to Moscow | [QOJ 11794](https://qoj.ac/problem/11794) | |
 | 15338 | String Puzzle | [QOJ 3291](https://qoj.ac/problem/3291) | |
 | 15768 | Duathlon | [QOJ 192](https://qoj.ac/problem/192) | |
-| 16041 | Double Clique | [QOJ 3015](https://qoj.ac/problem/3015) | |
+| 16041 | Double Clique | [QOJ 3015](https://qoj.ac/problem/3015) | [link](https://github.com/jinhan814/ps-note/blob/main/src/qoj/3015.cpp) |
 | 16191 | Utilitarianism | [QOJ 17872](https://qoj.ac/problem/17872) | |
 | 16746 | Four-Coloring | [QOJ 3318](https://qoj.ac/problem/3318) | |
 | 16983 | Coin Collecting | [QOJ 2765](https://qoj.ac/problem/2765) | |
