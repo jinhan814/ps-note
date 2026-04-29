@@ -18,7 +18,7 @@ solved.ac의 Class 10 문제입니다.
 | 5 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Racing Car Trail | https://qoj.ac/problem/15983 | |
 | 6 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Robotic Sort | https://qoj.ac/problem/16135 | |
 | 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Bytean Road Race | https://qoj.ac/problem/11581 | |
-| 8 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 링월드 (Ringworld) | https://2013.gcpc.nwerc.eu/ | |
+| 8 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 링월드 | https://2013.gcpc.nwerc.eu/ | |
 | 9 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Fencing the Herd | https://usaco.org/index.php?page=viewproblem2&cpid=534 | |
 | 10 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | The Year of Code Jam (Large) | https://qoj.ac/problem/5787 | |
 | 11 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Mole Tunnels | https://qoj.ac/problem/12546 | |
@@ -34,7 +34,7 @@ solved.ac의 Class 10 문제입니다.
 | 21 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Quadrilaterals | https://qoj.ac/problem/10951 | |
 | 22 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Nine Judges | https://qoj.ac/problem/12319 | |
 | 23 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Bomas | https://qoj.ac/problem/3163 | |
-| 24 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 트리 색칠 (Color a Tree) | - | |
+| 24 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 트리 색칠 | - | |
 | 25 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Prefixuffix | https://qoj.ac/problem/13311 | |
 | 26 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | RNG | - | |
 | 27 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Blazing New Trails | https://qoj.ac/problem/6448 | |
