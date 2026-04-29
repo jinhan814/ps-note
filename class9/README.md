@@ -26,33 +26,33 @@ solved.ac의 Class 9 문제입니다.
 | 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Pirate Chest | https://qoj.ac/problem/8860 | |
 | 14 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 수족관 3 | https://jungol.co.kr/problem/2637 | |
 | 15 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | https://qoj.ac/problem/16051 | |
-| 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공중도시 | - | |
-| 17 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 씽크스몰 | - | |
-| 18 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 마리오와 사악한 키노피오 | - | |
-| 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공장들 | - | |
+| 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공중도시 | https://jungol.co.kr/problem/2865 | |
+| 17 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 씽크스몰 | https://oj.uz/problem/view/kriii3_TT | |
+| 18 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 마리오와 사악한 키노피오 | https://qoj.ac/problem/12897 | |
+| 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공장들 | https://qoj.ac/problem/12776 | |
 | 20 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Meteor Shower | - | |
 | 21 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Rounding | - | |
-| 22 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Money for Nothing | - | |
+| 22 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Money for Nothing | https://qoj.ac/problem/2770 | |
 | 23 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 요리 강좌 | https://jungol.co.kr/problem/3080 | |
-| 24 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | - | |
+| 24 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | |
 | 25 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 서로 다른 수와 쿼리 2 | - | |
-| 26 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Touch The Sky | - | |
-| 27 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조화로운 행렬 | - | |
+| 26 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Touch The Sky | https://qoj.ac/problem/17686 | |
+| 27 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조화로운 행렬 | https://jungol.co.kr/problem/3236 | |
 | 28 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 나는 행복합니다 | - | |
-| 29 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | XOR MST | - | |
-| 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | It’s a Mod, Mod, Mod, Mod World | - | |
+| 29 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | XOR MST | https://codeforces.com/problemset/problem/888/G | |
+| 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | It’s a Mod, Mod, Mod, Mod World | https://qoj.ac/problem/3004 | |
 | 31 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 평행우주 | - | |
 | 32 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 별이 빛나는 밤에 | - | |
 | 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 싼 비용 | - | |
-| 34 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 전령들 | - | |
+| 34 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 전령들 | https://oj.uz/problem/view/CEOI09_harbingers | |
 | 35 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 최단 경로들 | - | |
-| 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | - | |
+| 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | |
 | 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | |
 | 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | - | |
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | |
-| 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | - | |
+| 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | |
 | 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | - | |
 | 44 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 히스토그램에서 가장 큰 직사각형과 쿼리 | - | |
 | 45 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 팀의 난이도 | - | |
