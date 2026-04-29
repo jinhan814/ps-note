@@ -48,14 +48,14 @@ solved.ac의 Class 9 문제입니다.
 | 35 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 최단 경로들 | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | |
 | 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | |
-| 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | - | |
+| 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | |
 | 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | |
-| 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | - | |
+| 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | https://qoj.ac/problem/17862 | |
 | 44 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 히스토그램에서 가장 큰 직사각형과 쿼리 | - | |
-| 45 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 팀의 난이도 | - | |
-| 46 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 휴가 | - | |
-| 47 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Robotic Cow Herd | - | |
-| 48 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Bulldozer | - | |
+| 45 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 팀의 난이도 | https://codeforces.com/gym/100287 | |
+| 46 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 휴가 | https://qoj.ac/problem/1151 | |
+| 47 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Robotic Cow Herd | https://usaco.org/index.php?page=viewproblem2&cpid=674 | |
+| 48 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Bulldozer | https://qoj.ac/problem/112 | |
