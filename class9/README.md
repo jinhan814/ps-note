@@ -1,6 +1,6 @@
-# 🏆 BOJ Class 9
+# 🏆 solved.ac Class 9
 
-solved.ac의 Class 9 문제입니다.
+solved.ac의 Class 9 문제 풀이 및 진행 현황
 
 ## 📊 Progress
 

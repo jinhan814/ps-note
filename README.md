@@ -6,6 +6,7 @@
 
 - [**Class 9**](./class9/README.md): solved.ac Class 9 문제 풀이 및 진행 현황
 - [**Class 10**](./class10/README.md): solved.ac Class 10 문제 풀이 및 진행 현황
+- [**Practice 1**](./practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 문제 풀이 및 진행 현황
 
 ---
 

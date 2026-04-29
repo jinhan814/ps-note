@@ -1,6 +1,6 @@
-# 🏆 BOJ Class 10
+# 🏆 solved.ac Class 10
 
-solved.ac의 Class 10 문제입니다.
+solved.ac의 Class 10 문제 풀이 및 진행 현황
 
 ## 📊 Progress
 
