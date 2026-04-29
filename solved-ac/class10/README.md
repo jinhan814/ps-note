@@ -13,36 +13,36 @@ BOJ의 문제 번호와 QOJ의 채점 링크를 같이 정리했습니다.
 
 | BOJ. | Difficulties | Problem Name | Problem Link | Source Code |
 | :--- | :---: | :--- | :--- | :---: |
-| 3311 | ![](https://static.solved.ac/tier_small/21.svg) | Traffic | https://qoj.ac/problem/14958 | |
-| 3419 | ![](https://static.solved.ac/tier_small/22.svg) | Racing Car Trail | https://qoj.ac/problem/15983 | |
-| 3444 | ![](https://static.solved.ac/tier_small/22.svg) | Robotic Sort | https://qoj.ac/problem/16135 | |
-| 7907 | ![](https://static.solved.ac/tier_small/22.svg) | Bytean Road Race | https://qoj.ac/problem/11581 | |
-| 8235 | ![](https://static.solved.ac/tier_small/23.svg) | Prefixuffix | https://qoj.ac/problem/13311 | |
-| 9539 | ![](https://static.solved.ac/tier_small/26.svg) | Escape | https://qoj.ac/problem/12582 | |
-| 12670 | ![](https://static.solved.ac/tier_small/22.svg) | The Year of Code Jam | https://qoj.ac/problem/5787 | |
-| 12736 | ![](https://static.solved.ac/tier_small/24.svg) | Fireworks | https://qoj.ac/problem/3 | |
-| 12898 | ![](https://static.solved.ac/tier_small/21.svg) | Selling RNA Strands | https://qoj.ac/problem/5551 | |
-| 14001 | ![](https://static.solved.ac/tier_small/22.svg) | Mole Tunnels | https://qoj.ac/problem/12546 | |
-| 14510 | ![](https://static.solved.ac/tier_small/23.svg) | Blazing New Trails | https://qoj.ac/problem/6448 | |
-| 14960 | ![](https://static.solved.ac/tier_small/23.svg) | Strongly Matchable | https://qoj.ac/problem/13116 | |
-| 15266 | ![](https://static.solved.ac/tier_small/23.svg) | Intrinsic Interval | https://qoj.ac/problem/3066 | |
-| 15292 | ![](https://static.solved.ac/tier_small/23.svg) | Journey from Petersburg to Moscow | https://qoj.ac/problem/11794 | |
-| 15338 | ![](https://static.solved.ac/tier_small/22.svg) | String Puzzle | https://qoj.ac/problem/3291 | |
-| 15768 | ![](https://static.solved.ac/tier_small/23.svg) | Duathlon | https://qoj.ac/problem/192 | |
-| 16041 | ![](https://static.solved.ac/tier_small/22.svg) | Double Clique | https://qoj.ac/problem/3015 | [source code](https://github.com/jinhan814/ps-note/blob/main/solved-ac/class10/double-clique/main.cpp) |
-| 16191 | ![](https://static.solved.ac/tier_small/22.svg) | Utilitarianism | https://qoj.ac/problem/17872 | |
-| 16746 | ![](https://static.solved.ac/tier_small/24.svg) | Four-Coloring | https://qoj.ac/problem/3318 | |
-| 16983 | ![](https://static.solved.ac/tier_small/22.svg) | Coin Collecting | https://qoj.ac/problem/2765 | |
-| 17517 | ![](https://static.solved.ac/tier_small/21.svg) | Parklife | https://qoj.ac/problem/3046 | |
-| 17642 | ![](https://static.solved.ac/tier_small/24.svg) | Dynamic Diameter | https://qoj.ac/problem/943 | |
-| 17693 | ![](https://static.solved.ac/tier_small/22.svg) | Port Facility | https://qoj.ac/problem/361 | |
-| 17955 | ![](https://static.solved.ac/tier_small/22.svg) | Max or Min | https://qoj.ac/problem/2371 | |
-| 17973 | ![](https://static.solved.ac/tier_small/22.svg) | Quadrilaterals | https://qoj.ac/problem/10951 | |
-| 18473 | ![](https://static.solved.ac/tier_small/26.svg) | Fast Spanning Tree | https://qoj.ac/problem/7415 | |
-| 18485 | ![](https://static.solved.ac/tier_small/22.svg) | Nine Judges | https://qoj.ac/problem/12319 | |
-| 18526 | ![](https://static.solved.ac/tier_small/22.svg) | Bomas | https://qoj.ac/problem/3163 | |
-| 18586 | ![](https://static.solved.ac/tier_small/23.svg) | Salty Fish | https://qoj.ac/problem/7578 | |
-| 18855 | ![](https://static.solved.ac/tier_small/23.svg) | Treatment Project | https://qoj.ac/problem/3563 | |
+| 3311 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Traffic | https://qoj.ac/problem/14958 | |
+| 3419 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Racing Car Trail | https://qoj.ac/problem/15983 | |
+| 3444 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Robotic Sort | https://qoj.ac/problem/16135 | |
+| 7907 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Bytean Road Race | https://qoj.ac/problem/11581 | |
+| 8235 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Prefixuffix | https://qoj.ac/problem/13311 | |
+| 9539 | <img src="https://static.solved.ac/tier_small/26.svg" height="16px"> | Escape | https://qoj.ac/problem/12582 | |
+| 12670 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | The Year of Code Jam | https://qoj.ac/problem/5787 | |
+| 12736 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Fireworks | https://qoj.ac/problem/3 | |
+| 12898 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Selling RNA Strands | https://qoj.ac/problem/5551 | |
+| 14001 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Mole Tunnels | https://qoj.ac/problem/12546 | |
+| 14510 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Blazing New Trails | https://qoj.ac/problem/6448 | |
+| 14960 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Strongly Matchable | https://qoj.ac/problem/13116 | |
+| 15266 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Intrinsic Interval | https://qoj.ac/problem/3066 | |
+| 15292 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Journey from Petersburg to Moscow | https://qoj.ac/problem/11794 | |
+| 15338 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | String Puzzle | https://qoj.ac/problem/3291 | |
+| 15768 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Duathlon | https://qoj.ac/problem/192 | |
+| 16041 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Double Clique | https://qoj.ac/problem/3015 | [source code](https://github.com/jinhan814/ps-note/blob/main/solved-ac/class10/double-clique/main.cpp) |
+| 16191 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Utilitarianism | https://qoj.ac/problem/17872 | |
+| 16746 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Four-Coloring | https://qoj.ac/problem/3318 | |
+| 16983 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Coin Collecting | https://qoj.ac/problem/2765 | |
+| 17517 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Parklife | https://qoj.ac/problem/3046 | |
+| 17642 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Dynamic Diameter | https://qoj.ac/problem/943 | |
+| 17693 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Port Facility | https://qoj.ac/problem/361 | |
+| 17955 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Max or Min | https://qoj.ac/problem/2371 | |
+| 17973 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Quadrilaterals | https://qoj.ac/problem/10951 | |
+| 18473 | <img src="https://static.solved.ac/tier_small/26.svg" height="16px"> | Fast Spanning Tree | https://qoj.ac/problem/7415 | |
+| 18485 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Nine Judges | https://qoj.ac/problem/12319 | |
+| 18526 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Bomas | https://qoj.ac/problem/3163 | |
+| 18586 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Salty Fish | https://qoj.ac/problem/7578 | |
+| 18855 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Treatment Project | https://qoj.ac/problem/3563 | |
 
 ### 🔴 Missing / Other Platforms
 
