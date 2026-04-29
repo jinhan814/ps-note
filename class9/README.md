@@ -22,8 +22,8 @@ solved.ac의 Class 9 문제입니다.
 | 9 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 컨벤션 센터 | https://qoj.ac/problem/1199 | |
 | 10 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Conspiracy | https://qoj.ac/problem/9508 | [source code](./conspiracy/main.cpp) |
 | 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 유성 | https://qoj.ac/problem/320 | |
-| 12 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | https://qoj.ac/problem/13302 | |
-| 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Pirate Chest | https://qoj.ac/problem/8860 | |
+| 12 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | https://qoj.ac/problem/13302 | [source code](./cloakroom/main.cpp) |
+| 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Pirate Chest | https://qoj.ac/problem/8860 | [source code](./pirate-chest/main.cpp) |
 | 14 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 수족관 3 | https://jungol.co.kr/problem/2637 | |
 | 15 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | https://qoj.ac/problem/16051 | |
 | 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공중도시 | https://jungol.co.kr/problem/2865 | |
