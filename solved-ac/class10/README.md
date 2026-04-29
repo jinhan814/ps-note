@@ -9,8 +9,8 @@ BOJ의 문제 번호와 QOJ의 채점 링크를 같이 정리했습니다.
 - **진행도:** 1 / 48 (2.08%)
 - **마지막 업데이트:** 2026-04-29
 
-| BOJ. | Difficulties | Title | Problem Link | Source Code |
-| :--- | :---: | :--- | :--- | :---: |
+| BOJ. | Difficulty | Title | Problem Link | Source Code |
+| :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Traffic | https://qoj.ac/problem/14958 | |
 | 2 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Critical Projects | https://github.com/trojsten/vpcpc | |
 | 3 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Selling RNA Strands | https://qoj.ac/problem/5551 | |
