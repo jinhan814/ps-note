@@ -11,42 +11,42 @@ BOJ의 문제 번호와 QOJ의 채점 링크를 같이 정리했습니다.
 
 ### 🟢 QOJ Available
 
-| No. | Problem Name | Judge Link | Source Code |
+| No. | Problem Name | Problem Link | Source Code |
 | :--- | :--- | :--- | :---: |
-| 3311 | Traffic | [QOJ 14958](https://qoj.ac/problem/14958) | |
-| 3419 | Racing Car Trail | [QOJ 15983](https://qoj.ac/problem/15983) | |
-| 3444 | Robotic Sort | [QOJ 16135](https://qoj.ac/problem/16135) | |
-| 7907 | Bytean Road Race | [QOJ 11581](https://qoj.ac/problem/11581) | |
-| 8235 | Prefixuffix | [QOJ 13311](https://qoj.ac/problem/13311) | |
-| 9539 | Escape | [QOJ 12582](https://qoj.ac/problem/12582) | |
-| 12670 | The Year of Code Jam | [QOJ 5787](https://qoj.ac/problem/5787) | |
-| 12736 | Fireworks | [QOJ 3](https://qoj.ac/problem/3) | |
-| 12898 | Selling RNA Strands | [QOJ 5551](https://qoj.ac/problem/5551) | |
-| 14001 | Mole Tunnels | [QOJ 12546](https://qoj.ac/problem/12546) | |
-| 14510 | Blazing New Trails | [QOJ 6448](https://qoj.ac/problem/6448) | |
-| 14960 | Strongly Matchable | [QOJ 13116](https://qoj.ac/problem/13116) | |
-| 15266 | Intrinsic Interval | [QOJ 3066](https://qoj.ac/problem/3066) | |
-| 15292 | Journey from Petersburg to Moscow | [QOJ 11794](https://qoj.ac/problem/11794) | |
-| 15338 | String Puzzle | [QOJ 3291](https://qoj.ac/problem/3291) | |
-| 15768 | Duathlon | [QOJ 192](https://qoj.ac/problem/192) | |
-| 16041 | Double Clique | [QOJ 3015](https://qoj.ac/problem/3015) | [link](https://github.com/jinhan814/ps-note/blob/main/src/qoj/3015.cpp) |
-| 16191 | Utilitarianism | [QOJ 17872](https://qoj.ac/problem/17872) | |
-| 16746 | Four-Coloring | [QOJ 3318](https://qoj.ac/problem/3318) | |
-| 16983 | Coin Collecting | [QOJ 2765](https://qoj.ac/problem/2765) | |
-| 17517 | Parklife | [QOJ 3046](https://qoj.ac/problem/3046) | |
-| 17642 | Dynamic Diameter | [QOJ 943](https://qoj.ac/problem/943) | |
-| 17693 | Port Facility | [QOJ 361](https://qoj.ac/problem/361) | |
-| 17955 | Max or Min | [QOJ 2371](https://qoj.ac/problem/2371) | |
-| 17973 | Quadrilaterals | [QOJ 10951](https://qoj.ac/problem/10951) | |
-| 18473 | Fast Spanning Tree | [QOJ 7415](https://qoj.ac/problem/7415) | |
-| 18485 | Nine Judges | [QOJ 12319](https://qoj.ac/problem/12319) | |
-| 18526 | Bomas | [QOJ 3163](https://qoj.ac/problem/3163) | |
-| 18586 | Salty Fish | [QOJ 7578](https://qoj.ac/problem/7578) | |
-| 18855 | Treatment Project | [QOJ 3563](https://qoj.ac/problem/3563) | |
+| 3311 | Traffic | https://qoj.ac/problem/14958 | |
+| 3419 | Racing Car Trail | https://qoj.ac/problem/15983 | |
+| 3444 | Robotic Sort | https://qoj.ac/problem/16135 | |
+| 7907 | Bytean Road Race | https://qoj.ac/problem/11581 | |
+| 8235 | Prefixuffix | https://qoj.ac/problem/13311 | |
+| 9539 | Escape | https://qoj.ac/problem/12582 | |
+| 12670 | The Year of Code Jam | https://qoj.ac/problem/5787 | |
+| 12736 | Fireworks | https://qoj.ac/problem/3 | |
+| 12898 | Selling RNA Strands | https://qoj.ac/problem/5551 | |
+| 14001 | Mole Tunnels | https://qoj.ac/problem/12546 | |
+| 14510 | Blazing New Trails | https://qoj.ac/problem/6448 | |
+| 14960 | Strongly Matchable | https://qoj.ac/problem/13116 | |
+| 15266 | Intrinsic Interval | https://qoj.ac/problem/3066 | |
+| 15292 | Journey from Petersburg to Moscow | https://qoj.ac/problem/11794 | |
+| 15338 | String Puzzle | https://qoj.ac/problem/3291 | |
+| 15768 | Duathlon | https://qoj.ac/problem/192 | |
+| 16041 | Double Clique | https://qoj.ac/problem/3015 | https://github.com/jinhan814/ps-note/blob/main/src/qoj/3015.cpp |
+| 16191 | Utilitarianism | https://qoj.ac/problem/17872 | |
+| 16746 | Four-Coloring | https://qoj.ac/problem/3318 | |
+| 16983 | Coin Collecting | https://qoj.ac/problem/2765 | |
+| 17517 | Parklife | https://qoj.ac/problem/3046 | |
+| 17642 | Dynamic Diameter | https://qoj.ac/problem/943 | |
+| 17693 | Port Facility | https://qoj.ac/problem/361 | |
+| 17955 | Max or Min | https://qoj.ac/problem/2371 | |
+| 17973 | Quadrilaterals | https://qoj.ac/problem/10951 | |
+| 18473 | Fast Spanning Tree | https://qoj.ac/problem/7415 | |
+| 18485 | Nine Judges | https://qoj.ac/problem/12319 | |
+| 18526 | Bomas | https://qoj.ac/problem/3163 | |
+| 18586 | Salty Fish | https://qoj.ac/problem/7578 | |
+| 18855 | Treatment Project | https://qoj.ac/problem/3563 | |
 
 ### 🔴 Missing / Other Platforms
 
-| No. | Problem Name | Judge Link | Source Code |
+| No. | Problem Name | Problem Link | Source Code |
 | :--- | :--- | :--- | :---: |
 | 1659 | 수 (Hard) | ? | |
 | 1763 | 트리 색칠 | ? | |
