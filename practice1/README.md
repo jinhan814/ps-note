@@ -158,7 +158,7 @@
 | 145 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 지뢰 피하기 | - | |
 | 146 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 효율적인 애니메이션 감상 | - | |
 | 147 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 貨物列車 (Freight Train) | https://atcoder.jp/contests/joi2023yo2/tasks/joi2023_yo2_d | |
-| 148 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 가난한 고흐와 붓 | - | |
+| 148 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 가난한 고흐와 붓 | - | [source code](./poor-gogh/main.cpp) |
 | 149 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | タイピング大会 (Typing Contest) | - | |
 | 150 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Spinach Pizza | - | |
 | 151 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Library game | https://qoj.ac/problem/5653 | |
