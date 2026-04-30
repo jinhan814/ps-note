@@ -175,7 +175,7 @@
 | 162 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Sakura Reflection | - | [source code](./sakura-reflection/main.cpp) |
 | 163 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | M. S. I. S. | - | |
 | 164 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Special Numbers | - | |
-| 165 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 두 팀으로 나누기 | - | |
+| 165 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 두 팀으로 나누기 | - | [source code](./split-two-teams/main.cpp) |
 | 166 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | C.S.G. | - | |
 | 167 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 등수 | - | |
 | 168 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cloud Retainer's Game | https://qoj.ac/problem/6439 | |
