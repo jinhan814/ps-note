@@ -4,7 +4,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 
 ## 📊 Progress
 
-- **진행도:** 9 / 48 (18.75%)
+- **진행도:** 12 / 48 (25.00%)
 - **마지막 업데이트:** 2026-04-30
 
 ---
@@ -51,7 +51,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
-| 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | |
+| 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | [source code](./operation-optimization/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | [source code](./dinosaur-footprint/main.cpp) |
 | 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | https://qoj.ac/problem/17862 | |
 | 44 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 히스토그램에서 가장 큰 직사각형과 쿼리 | - | |
