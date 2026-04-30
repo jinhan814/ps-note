@@ -44,7 +44,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 31 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 평행우주 | - | |
 | 32 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 별이 빛나는 밤에 | - | |
 | 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 싼 비용 | - | |
-| 34 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 전령들 | https://oj.uz/problem/view/CEOI09_harbingers | |
+| 34 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 전령들 | https://oj.uz/problem/view/CEOI09_harbingers | [source code](./harbingers/main.cpp) |
 | 35 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 최단 경로들 | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | [source code](./ploughing/main.cpp) |
 | 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | [source code](./ice-skates/main.cpp) |
