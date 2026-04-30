@@ -98,7 +98,7 @@
 | 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation | https://qoj.ac/problem/1992 | |
 | 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | - | |
 | 87 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Exercise | https://qoj.ac/problem/1996 | |
-| 88 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Balanced Sequence | - | |
+| 88 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Balanced Sequence | https://qoj.ac/problem/236 | [source code](./balanced-sequence/main.cpp) |
 | 89 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Compressed Spanning Subtrees | https://qoj.ac/problem/11743 | |
 | 90 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 소가 길을 건너간 이유 2020 | - | |
 | 91 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Ancient Books | https://qoj.ac/problem/2761 | |
