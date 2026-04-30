@@ -60,7 +60,7 @@
 | 47 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Balanced Diet | https://qoj.ac/problem/4362 | |
 | 48 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Fox and Card Game | - | |
 | 49 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 별 모으기 | - | |
-| 50 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Popeala | - | |
+| 50 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Popeala | https://qoj.ac/problem/5535 | [source code](./popeala/main.cpp) |
 | 51 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Skinny Polygon | https://qoj.ac/problem/181 | |
 | 52 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Windy Path | https://codeforces.com/gym/101201 | |
 | 53 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | [source code](./shell-collecting/main.cpp) |
