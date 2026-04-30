@@ -139,8 +139,8 @@
 | 126 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Coins and Boxes | https://qoj.ac/problem/2541 | |
 | 127 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Animal Observation (hard version) | https://codeforces.com/contest/1304/problem/F2 | |
 | 128 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Copy and Paste 3 | https://qoj.ac/problem/3504 | |
-| 129 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Il Derby della Madonnina | - | |
-| 130 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | GCD Harmony | - | |
+| 129 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Il Derby della Madonnina | https://qoj.ac/problem/3861 | |
+| 130 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | GCD Harmony | https://qoj.ac/problem/4229 | |
 | 131 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 편지 배달 | - | |
 | 132 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 수 정렬하기, 근데 이제 제곱수를 곁들인 | - | [source code](./sort-with-squares/main.cpp) |
 | 133 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 니은숲 예술가 | - | [source code](./nieun-forest-artist/main.cpp) |
@@ -151,18 +151,18 @@
 | 138 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 곰곰이와 테트리스 | - | |
 | 139 | <img src="https://static.solved.ac/tier_small/12.svg" height="16px"> | 곰곰아 선 넘지마 | - | |
 | 140 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 슈퍼 블랙잭 | - | |
-| 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | - | |
+| 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | https://qoj.ac/problem/5157 | |
 | 142 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 겨울 숲과 마법 불꽃 | - | [source code](./winter-forest-magic/main.cpp) |
 | 143 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Long Nim | - | [source code](./long-nim/main.cpp) |
-| 144 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Bribing Friends | - | |
+| 144 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Bribing Friends | https://usaco.org/index.php?page=viewproblem2&cpid=1257 | |
 | 145 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 지뢰 피하기 | - | |
 | 146 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 효율적인 애니메이션 감상 | - | |
 | 147 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 貨物列車 (Freight Train) | https://atcoder.jp/contests/joi2023yo2/tasks/joi2023_yo2_d | |
 | 148 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 가난한 고흐와 붓 | - | [source code](./poor-gogh/main.cpp) |
 | 149 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | タイピング大会 (Typing Contest) | https://atcoder.jp/contests/joig2023-open/tasks/joig2023_f | [source code](./typing-contest/main.cpp) |
-| 150 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Spinach Pizza | - | |
+| 150 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Spinach Pizza | https://qoj.ac/problem/5649 | |
 | 151 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Library game | https://qoj.ac/problem/5653 | |
-| 152 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Watching Cowflix | - | |
+| 152 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Watching Cowflix | https://qoj.ac/problem/5659 | |
 | 153 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Fertilizing Pastures | https://usaco.org/index.php?page=viewproblem2&cpid=1306 | |
 | 154 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Singularity of the Nim | - | |
 | 155 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 제곱수 덱 2 | - | [source code](./square-deck-2/main.cpp) |
