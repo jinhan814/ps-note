@@ -80,7 +80,7 @@
 | 67 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 그래서 팩 주냐? | - | |
 | 68 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Tents | https://qoj.ac/problem/116 | [source code](./tents/main.cpp) |
 | 69 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Library | https://qoj.ac/problem/124 | |
-| 70 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Toilets | - | |
+| 70 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Toilets | https://qoj.ac/problem/407 | [source code](./toilets/main.cpp) |
 | 71 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Card Game Is Great Fun | https://qoj.ac/problem/1211 | |
 | 72 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mascots | https://qoj.ac/problem/1414 | |
 | 73 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Koala | https://qoj.ac/problem/1417 | |
