@@ -34,7 +34,7 @@
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mountain Climbing | - | |
 | 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | - | |
 | 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 | - | |
-| 24 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Watching | - | |
+| 24 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Watching | https://qoj.ac/problem/12900 | [source code](./watching/main.cpp) |
 | 25 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 무한 게임 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 두 교수 | - | |
 | 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 장비를 정지합니다 | - | |
