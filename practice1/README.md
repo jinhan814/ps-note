@@ -63,7 +63,7 @@
 | 50 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Popeala | - | |
 | 51 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Skinny Polygon | https://qoj.ac/problem/181 | |
 | 52 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Windy Path | https://codeforces.com/gym/101201 | |
-| 53 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | - | |
+| 53 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | [source code](./shell-collecting/main.cpp) |
 | 54 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 森林伐採 (Deforestation) | - | |
 | 55 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dango Maker | - | |
 | 56 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Commuter Pass | - | |

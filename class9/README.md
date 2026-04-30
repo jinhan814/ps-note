@@ -34,7 +34,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 21 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Rounding | - | |
 | 22 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Money for Nothing | https://qoj.ac/problem/2770 | |
 | 23 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 요리 강좌 | https://jungol.co.kr/problem/3080 | |
-| 24 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | |
+| 24 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | [source code](./shell-collecting/main.cpp) |
 | 25 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 서로 다른 수와 쿼리 2 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Touch The Sky | https://qoj.ac/problem/17686 | |
 | 27 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조화로운 행렬 | https://jungol.co.kr/problem/3236 | |
