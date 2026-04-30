@@ -32,12 +32,12 @@
 | 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 博覧会 | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_d?lang=en | [source code](./exhibition/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | ダンジョン | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e | |
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mountain Climbing | https://usaco.org/index.php?page=viewproblem2&cpid=108 | [source code](./mountain-climbing/main.cpp) |
-| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | - | |
+| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | https://usaco.org/index.php?page=viewproblem2&cpid=92 | |
 | 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 | - | |
 | 24 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Watching | https://qoj.ac/problem/12900 | [source code](./watching/main.cpp) |
 | 25 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 무한 게임 | - | |
-| 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 두 교수 | - | |
-| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 장비를 정지합니다 | - | |
+| 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 두 교수 | https://www.spoj.com/problems/TWOPROF/en/ | |
+| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 장비를 정지합니다 | https://qoj.ac/problem/11576 | [source code](./hydra/main.cpp) |
 | 28 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Hamsters | - | |
 | 29 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lollipop | https://qoj.ac/problem/9509 | [source code](./lollipop/main.cpp) |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | https://qoj.ac/problem/13302 | [source code](./cloakroom/main.cpp) |
