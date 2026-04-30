@@ -167,8 +167,8 @@
 | 154 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Singularity of the Nim | - | |
 | 155 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 제곱수 덱 2 | - | [source code](./square-deck-2/main.cpp) |
 | 156 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 특별한 숙제 순서 바꾸기 | - | [source code](./homework-order/main.cpp) |
-| 157 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 조별 수업 | - | |
-| 158 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 재우의 카드깡 | - | |
+| 157 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 조별 수업 | - | [source code](./group-study/main.cpp) |
+| 158 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 재우의 카드깡 | - | [source code](./jaewoo-cards/main.cpp) |
 | 159 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 보물 상자 | - | |
 | 160 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Introversion | - | |
 | 161 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Server Overload | - | |
