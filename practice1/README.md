@@ -126,7 +126,7 @@
 | 113 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Vertex Merge Game | - | |
 | 114 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Leader-based Team Distribution | - | |
 | 115 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 카드컨트롤 (Hard) | - | [source code](./card-control-hard/main.cpp) |
-| 116 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 문자열 이동하기 | - | |
+| 116 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 문자열 이동하기 | - | [source code](./moving-brackets/main.cpp) |
 | 117 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Paired Up | https://qoj.ac/problem/2152 | |
 | 118 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Energy Stones | - | |
 | 119 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | XCopy | https://qoj.ac/problem/8098 | |
@@ -134,7 +134,7 @@
 | 121 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 誘拐 (Abduction) | - | |
 | 122 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Let’s Win the Election | https://qoj.ac/problem/2629 | |
 | 123 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Drought | https://usaco.org/index.php?page=viewproblem2&cpid=1185 | |
-| 124 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 단어의 개수 | - | |
+| 124 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 단어의 개수 | - | [source code](./count-words/main.cpp) |
 | 125 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 이야기 배열 | - | |
 | 126 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Coins and Boxes | - | |
 | 127 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Animal Observation (hard version) | https://codeforces.com/contest/1304/problem/F2 | |
