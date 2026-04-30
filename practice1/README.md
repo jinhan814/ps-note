@@ -152,8 +152,8 @@
 | 139 | <img src="https://static.solved.ac/tier_small/12.svg" height="16px"> | 곰곰아 선 넘지마 | - | |
 | 140 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 슈퍼 블랙잭 | - | |
 | 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | - | |
-| 142 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 겨울 숲과 마법 불꽃 | - | |
-| 143 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Long Nim | - | |
+| 142 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 겨울 숲과 마법 불꽃 | - | [source code](./winter-forest-magic/main.cpp) |
+| 143 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Long Nim | - | [source code](./long-nim/main.cpp) |
 | 144 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Bribing Friends | - | |
 | 145 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 지뢰 피하기 | - | |
 | 146 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 효율적인 애니메이션 감상 | - | |
