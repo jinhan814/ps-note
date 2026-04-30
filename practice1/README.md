@@ -19,7 +19,7 @@
 | 6 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리 만들기 | - | |
 | 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 거울2 | https://dmoj.ca/problem/btoi01p3 | |
 | 8 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 신호 장애 | - | |
-| 9 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 초고속철도 | - | |
+| 9 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 초고속철도 | https://jungol.co.kr/problem/1479 | [source code](./high-speed-rail/main.cpp) |
 | 10 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 2,3 거듭제곱의 합 | - | |
 | 11 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | K-Graph Oddity | - | |
 | 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 텔레점프 | https://codeforces.com/gym/100134 | |
@@ -114,7 +114,7 @@
 | 101 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Increasing or Decreasing | - | |
 | 102 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Permutation | - | |
 | 103 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Reverse Game | - | |
-| 104 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 헬기 착륙장 | - | |
+| 104 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 헬기 착륙장 | https://jungol.co.kr/problem/4806 | [source code](./helipad/main.cpp) |
 | 105 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 돌 가져가기 | - | |
 | 106 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Rabbit Jumping | - | |
 | 107 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 나의 라임 오렌지 나무 | - | |
