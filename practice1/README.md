@@ -11,7 +11,7 @@
 
 | BOJ. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
-| 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 팰린드롬의 개수 | - | |
+| 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 팰린드롬의 개수 | https://archive.topcoder.com/ProblemStatement/pm/7418 | [source code](./count-palindromes/main.cpp) |
 | 2 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 1 또는 -1 | - | |
 | 3 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 팰린드롬 인코딩 | - | |
 | 4 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 랩싸기 | - | |
