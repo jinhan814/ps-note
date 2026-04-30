@@ -28,8 +28,8 @@
 | 15 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Hermes | https://qoj.ac/problem/13803 | [source code](./hermes/main.cpp) |
 | 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Utopia Divided | https://qoj.ac/problem/13815 | |
 | 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | お土産購入計画 (Gifts) | https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_f | |
-| 18 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 깃발 | https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_f?lang=en | [source code](./joi-flag/main.cpp) |
-| 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 博覧会 | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_d?lang=en | [source code](./exhibition/main.cpp) |
+| 18 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 깃발 | https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_f | [source code](./joi-flag/main.cpp) |
+| 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 博覧会 | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_d | [source code](./exhibition/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | ダンジョン | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e | |
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mountain Climbing | https://usaco.org/index.php?page=viewproblem2&cpid=108 | [source code](./mountain-climbing/main.cpp) |
 | 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | https://usaco.org/index.php?page=viewproblem2&cpid=92 | |
@@ -51,8 +51,8 @@
 | 38 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Bank | https://oj.uz/problem/view/IZhO14_bank | |
 | 39 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | K blocks | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 채우기 | - | |
-| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | - | |
-| 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 | - | |
+| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | https://oj.uz/problem/view/JOI14_pinball | |
+| 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 | https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_f | |
 | 43 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 262144 | - | |
 | 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store | https://qoj.ac/problem/5850 | [source code](./candy-store/main.cpp) |
 | 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | https://qoj.ac/problem/5774 | [source code](./modern-art-plagiarism/main.cpp) |
