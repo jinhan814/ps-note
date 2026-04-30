@@ -14,9 +14,9 @@
 | 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 팰린드롬의 개수 | https://archive.topcoder.com/ProblemStatement/pm/7418 | [source code](./count-palindromes/main.cpp) |
 | 2 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 1 또는 -1 | - | [source code](./one-or-minus-one/main.cpp) |
 | 3 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 팰린드롬 인코딩 | - | |
-| 4 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 랩싸기 | - | |
+| 4 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 랩싸기 | - | [source code](./lazy-cows/main.cpp) |
 | 5 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 두 수열 | - | |
-| 6 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리 만들기 | - | |
+| 6 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리 만들기 | - | [source code](./making-tree/main.cpp) |
 | 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 거울2 | https://dmoj.ca/problem/btoi01p3 | |
 | 8 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 신호 장애 | - | |
 | 9 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 초고속철도 | https://jungol.co.kr/problem/1479 | [source code](./high-speed-rail/main.cpp) |
