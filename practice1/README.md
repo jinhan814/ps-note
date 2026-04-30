@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 1 / 48 (2.08%)
-- **마지막 업데이트:** 2026-04-29
+- **진행도:** 0 / 174 (0.00%)
+- **마지막 업데이트:** 2026-04-30
 
 ---
 
@@ -78,7 +78,7 @@
 | 65 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Moorio Kart | https://qoj.ac/problem/1802 | |
 | 66 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Mobitel | https://qoj.ac/problem/13592 | |
 | 67 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 그래서 팩 주냐? | - | |
-| 68 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Tents | - | |
+| 68 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Tents | https://qoj.ac/problem/116 | [source code](./tents/main.cpp) |
 | 69 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Library | https://qoj.ac/problem/124 | |
 | 70 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Toilets | - | |
 | 71 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Card Game Is Great Fun | https://qoj.ac/problem/1211 | |
