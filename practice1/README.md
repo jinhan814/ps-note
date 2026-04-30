@@ -68,7 +68,7 @@
 | 55 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dango Maker | - | |
 | 56 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Commuter Pass | https://qoj.ac/problem/3126 | [source code](./commuter-pass/main.cpp) |
 | 57 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Talent Show | - | |
-| 58 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Split and Merge | - | |
+| 58 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Split and Merge | - | [source code](./split-and-merge/main.cpp) |
 | 59 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Balanced Trees | - | |
 | 60 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 게임이론 | - | |
 | 61 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Min Max Convert | https://qoj.ac/problem/2387 | [source code](./min-max-convert/main.cpp) |
