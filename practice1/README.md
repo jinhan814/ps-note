@@ -41,7 +41,7 @@
 | 28 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Hamsters | https://qoj.ac/problem/571 | [source code](./hamsters/main.cpp) |
 | 29 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lollipop | https://qoj.ac/problem/9509 | [source code](./lollipop/main.cpp) |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | https://qoj.ac/problem/13302 | [source code](./cloakroom/main.cpp) |
-| 31 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Red John Game | - | |
+| 31 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Red John Game | https://qoj.ac/problem/15747 | [source code](./red-john-game/main.cpp) |
 | 32 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 小籠包 (Xiao Long Bao) | https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_f | [source code](./xiao-long-bao/main.cpp) |
 | 33 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Computer Network | - | [source code](./computer-network/main.cpp) |
 | 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | - | |
