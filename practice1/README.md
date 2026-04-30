@@ -165,7 +165,7 @@
 | 152 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Watching Cowflix | - | |
 | 153 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Fertilizing Pastures | https://usaco.org/index.php?page=viewproblem2&cpid=1306 | |
 | 154 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Singularity of the Nim | - | |
-| 155 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 제곱수 덱 2 | - | |
+| 155 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 제곱수 덱 2 | - | [source code](./square-deck-2/main.cpp) |
 | 156 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 특별한 숙제 순서 바꾸기 | - | |
 | 157 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 조별 수업 | - | |
 | 158 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 재우의 카드깡 | - | |
