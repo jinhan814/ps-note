@@ -46,7 +46,7 @@
 | 33 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Computer Network | - | [source code](./computer-network/main.cpp) |
 | 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | - | |
 | 35 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Spy Network | - | |
-| 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 | - | |
+| 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 | - | [source code](./mancala/main.cpp) |
 | 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | - | |
 | 38 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Bank | https://oj.uz/problem/view/IZhO14_bank | |
 | 39 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | K blocks | - | |
@@ -55,7 +55,7 @@
 | 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 | - | |
 | 43 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 262144 | - | |
 | 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store | - | |
-| 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | - | |
+| 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | https://qoj.ac/problem/5774 | [source code](./modern-art-plagiarism/main.cpp) |
 | 46 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | - | |
 | 47 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Balanced Diet | https://qoj.ac/problem/4362 | |
 | 48 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Fox and Card Game | - | |
