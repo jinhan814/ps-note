@@ -46,8 +46,8 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 싼 비용 | - | |
 | 34 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 전령들 | https://oj.uz/problem/view/CEOI09_harbingers | |
 | 35 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 최단 경로들 | - | |
-| 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | |
-| 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | |
+| 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | [source code](./ploughing/main.cpp) |
+| 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | [source code](./ice-skates/main.cpp) |
 | 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
