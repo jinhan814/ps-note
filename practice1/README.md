@@ -89,14 +89,14 @@
 | 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | https://qoj.ac/problem/2372 | |
 | 77 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Find the Array | https://qoj.ac/problem/2373 | |
 | 78 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Ladder Game | https://qoj.ac/problem/10949 | |
-| 79 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Disposable Switches | - | |
+| 79 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Disposable Switches | https://qoj.ac/problem/2413 | |
 | 80 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Reordering the Documents | https://qoj.ac/problem/1191 | |
 | 81 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cool Pairs | https://qoj.ac/problem/12213 | |
 | 82 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Best Tree | https://qoj.ac/problem/832 | |
 | 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | |
 | 84 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Greedy Algorithm | https://qoj.ac/problem/1461 | |
 | 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation | https://qoj.ac/problem/1992 | |
-| 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | - | |
+| 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | https://qoj.ac/problem/3552 | |
 | 87 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Exercise | https://qoj.ac/problem/1996 | |
 | 88 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Balanced Sequence | https://qoj.ac/problem/236 | [source code](./balanced-sequence/main.cpp) |
 | 89 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Compressed Spanning Subtrees | https://qoj.ac/problem/11743 | |
@@ -112,17 +112,17 @@
 | 99 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Group Photo | https://qoj.ac/problem/2177 | |
 | 100 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Thanks to MikeMirzayanov | https://qoj.ac/problem/962 | |
 | 101 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Increasing or Decreasing | https://qoj.ac/problem/966 | [source code](./increasing-or-decreasing/main.cpp) |
-| 102 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Permutation | - | |
-| 103 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Reverse Game | - | |
+| 102 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Permutation | https://usaco.org/index.php?page=viewproblem2&cpid=1139 | |
+| 103 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Reverse Game | https://qoj.ac/problem/1644 | |
 | 104 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 헬기 착륙장 | https://jungol.co.kr/problem/4806 | [source code](./helipad/main.cpp) |
 | 105 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 돌 가져가기 | - | |
-| 106 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Rabbit Jumping | - | |
+| 106 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Rabbit Jumping | https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2384 | |
 | 107 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 나의 라임 오렌지 나무 | - | [source code](./my-orange-tree/main.cpp) |
 | 108 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Hidden Pancakes | https://qoj.ac/problem/12460 | |
 | 109 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 달팽이는 그늘에서 쉬고 싶다 | - | |
 | 110 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Secret Sequence | https://scc21.kattis.com/contests/scc21/problems/secretsequence | |
-| 111 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | King | - | |
-| 112 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Misunderstood Missing | - | |
+| 111 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | King | https://qoj.ac/problem/5045 | |
+| 112 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Misunderstood Missing | https://qoj.ac/problem/10210 | |
 | 113 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Vertex Merge Game | - | |
 | 114 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Leader-based Team Distribution | - | |
 | 115 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 카드컨트롤 (Hard) | - | [source code](./card-control-hard/main.cpp) |
