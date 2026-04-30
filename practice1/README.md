@@ -73,7 +73,7 @@
 | 60 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 게임이론 | - | |
 | 61 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Min Max Convert | https://qoj.ac/problem/2387 | [source code](./min-max-convert/main.cpp) |
 | 62 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Chemical table | https://qoj.ac/problem/326 | |
-| 63 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Nim without Zero | - | |
+| 63 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Nim without Zero | https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2909 | |
 | 64 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Growing Vegetables is Fun 3 | https://qoj.ac/problem/2764 | |
 | 65 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Moorio Kart | https://qoj.ac/problem/1802 | |
 | 66 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Mobitel | https://qoj.ac/problem/13592 | |
@@ -85,8 +85,8 @@
 | 72 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mascots | https://qoj.ac/problem/1414 | |
 | 73 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Koala | https://qoj.ac/problem/1417 | |
 | 74 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Kangaroo | https://qoj.ac/problem/12615 | |
-| 75 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Inquiry II | - | |
-| 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | - | |
+| 75 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Inquiry II | https://qoj.ac/problem/6261 | |
+| 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | https://qoj.ac/problem/2372 | |
 | 77 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Find the Array | https://qoj.ac/problem/2373 | |
 | 78 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Ladder Game | https://qoj.ac/problem/10949 | |
 | 79 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Disposable Switches | - | |
