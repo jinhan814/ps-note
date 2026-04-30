@@ -52,7 +52,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | |
-| 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | |
+| 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | [source code](./dinosaur-footprint/main.cpp) |
 | 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | https://qoj.ac/problem/17862 | |
 | 44 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 히스토그램에서 가장 큰 직사각형과 쿼리 | - | |
 | 45 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 팀의 난이도 | https://codeforces.com/gym/100287 | |
