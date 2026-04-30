@@ -19,7 +19,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 6 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 백업 | https://qoj.ac/problem/13198 | |
 | 7 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | L퍼즐 | https://qoj.ac/problem/4773 | |
 | 8 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 미노타우르스 미궁 | https://codeforces.com/gym/100134 | |
-| 9 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 컨벤션 센터 | https://qoj.ac/problem/1199 | |
+| 9 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 컨벤션 센터 | https://qoj.ac/problem/1199 | [source code](./convention-centre/main.cpp) |
 | 10 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Conspiracy | https://qoj.ac/problem/9508 | [source code](./conspiracy/main.cpp) |
 | 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 유성 | https://qoj.ac/problem/320 | |
 | 12 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | https://qoj.ac/problem/13302 | [source code](./cloakroom/main.cpp) |
@@ -28,7 +28,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 15 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | https://qoj.ac/problem/16051 | |
 | 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공중도시 | https://jungol.co.kr/problem/2865 | |
 | 17 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 씽크스몰 | https://oj.uz/problem/view/kriii3_TT | |
-| 18 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 마리오와 사악한 키노피오 | https://qoj.ac/problem/12897 | |
+| 18 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 마리오와 사악한 키노피오 | https://qoj.ac/problem/12897 | [source code](./mario-and-evil-toad/main.cpp) |
 | 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 공장들 | https://qoj.ac/problem/12776 | |
 | 20 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Meteor Shower | - | |
 | 21 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Rounding | - | |
