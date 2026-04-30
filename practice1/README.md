@@ -54,7 +54,7 @@
 | 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | - | |
 | 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 | - | |
 | 43 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 262144 | - | |
-| 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store | - | |
+| 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store | https://qoj.ac/problem/5850 | [source code](./candy-store/main.cpp) |
 | 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | https://qoj.ac/problem/5774 | [source code](./modern-art-plagiarism/main.cpp) |
 | 46 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | - | |
 | 47 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Balanced Diet | https://qoj.ac/problem/4362 | |
@@ -77,7 +77,7 @@
 | 64 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Growing Vegetables is Fun 3 | https://qoj.ac/problem/2764 | |
 | 65 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Moorio Kart | https://qoj.ac/problem/1802 | |
 | 66 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Mobitel | https://qoj.ac/problem/13592 | |
-| 67 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 그래서 팩 주냐? | - | |
+| 67 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 그래서 팩 주냐? | - | [source code](./give-me-packs/main.cpp) |
 | 68 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Tents | https://qoj.ac/problem/116 | [source code](./tents/main.cpp) |
 | 69 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Library | https://qoj.ac/problem/124 | |
 | 70 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Toilets | https://qoj.ac/problem/407 | [source code](./toilets/main.cpp) |
