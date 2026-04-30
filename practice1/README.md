@@ -142,7 +142,7 @@
 | 129 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Il Derby della Madonnina | - | |
 | 130 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | GCD Harmony | - | |
 | 131 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 편지 배달 | - | |
-| 132 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 수 정렬하기, 근데 이제 제곱수를 곁들인 | - | |
+| 132 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 수 정렬하기, 근데 이제 제곱수를 곁들인 | - | [source code](./sort-with-squares/main.cpp) |
 | 133 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 니은숲 예술가 | - | |
 | 134 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 대충 카드로 몬스터 잡는 게임 | - | |
 | 135 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Traveling Junkman Problem | - | |
