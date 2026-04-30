@@ -71,7 +71,7 @@
 | 58 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Split and Merge | - | |
 | 59 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Balanced Trees | - | |
 | 60 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 게임이론 | - | |
-| 61 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Min Max Convert | - | |
+| 61 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Min Max Convert | https://qoj.ac/problem/2387 | [source code](./min-max-convert/main.cpp) |
 | 62 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Chemical table | https://qoj.ac/problem/326 | |
 | 63 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Nim without Zero | - | |
 | 64 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Growing Vegetables is Fun 3 | https://qoj.ac/problem/2764 | |
