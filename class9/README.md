@@ -14,7 +14,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 1 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Non-boring sequences | https://qoj.ac/problem/15909 | |
 | 2 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 국가의 행사 | https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho5 | |
 | 3 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 최고인 대장장이 토르비욘 | https://qoj.ac/problem/4766 | |
-| 4 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 프로그래밍 대결 | https://github.com/jwvg0425/SoftCon/tree/master | |
+| 4 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 프로그래밍 대결 | https://github.com/jwvg0425/SoftCon/tree/master | [source code](./programming-competition/main.cpp)|
 | 5 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | King Kog’s Reception | https://qoj.ac/problem/5399 | |
 | 6 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 백업 | https://qoj.ac/problem/13198 | |
 | 7 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | L퍼즐 | https://qoj.ac/problem/4773 | |
