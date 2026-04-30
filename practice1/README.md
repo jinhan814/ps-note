@@ -66,7 +66,7 @@
 | 53 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | [source code](./shell-collecting/main.cpp) |
 | 54 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 森林伐採 (Deforestation) | - | |
 | 55 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dango Maker | - | |
-| 56 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Commuter Pass | - | |
+| 56 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Commuter Pass | https://qoj.ac/problem/3126 | [source code](./commuter-pass/main.cpp) |
 | 57 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Talent Show | - | |
 | 58 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Split and Merge | - | |
 | 59 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Balanced Trees | - | |
