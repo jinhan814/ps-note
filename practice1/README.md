@@ -173,7 +173,7 @@
 | 160 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Introversion | https://qoj.ac/problem/15189 | [source code](./introversion/main.cpp) |
 | 161 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Server Overload | - | |
 | 162 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Sakura Reflection | - | [source code](./sakura-reflection/main.cpp) |
-| 163 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | M. S. I. S. | - | |
+| 163 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | M. S. I. S. | https://qoj.ac/problem/7952 | |
 | 164 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Special Numbers | - | |
 | 165 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 두 팀으로 나누기 | - | [source code](./split-two-teams/main.cpp) |
 | 166 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | C.S.G. | - | |
@@ -182,6 +182,6 @@
 | 169 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | LR | - | |
 | 170 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 高速道路の通行料金 (Highway Tolls) | https://atcoder.jp/contests/joi2024yo2/tasks/joi2024_yo2_e | |
 | 171 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 名前 (Name) | https://atcoder.jp/contests/joig2024-open/tasks/joig2024_e | [source code](./name/main.cpp) |
-| 172 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 점프 | - | |
-| 173 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Simple Tree Decomposition Problem | - | |
+| 172 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 점프 | https://jungol.co.kr/problem/8595 | |
+| 173 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Simple Tree Decomposition Problem | https://codeforces.com/gym/105401/problem/L | |
 | 174 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 오장원전 | - | |
