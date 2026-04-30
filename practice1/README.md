@@ -40,7 +40,7 @@
 | 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 장비를 정지합니다 | - | |
 | 28 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Hamsters | - | |
 | 29 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lollipop | - | |
-| 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | - | |
+| 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Cloakroom | https://qoj.ac/problem/13302 | [source code](./cloakroom/main.cpp) |
 | 31 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Red John Game | - | |
 | 32 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 小籠包 (Xiao Long Bao) | - | |
 | 33 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Computer Network | - | |
