@@ -170,7 +170,7 @@
 | 157 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 조별 수업 | - | [source code](./group-study/main.cpp) |
 | 158 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 재우의 카드깡 | - | [source code](./jaewoo-cards/main.cpp) |
 | 159 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 보물 상자 | - | |
-| 160 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Introversion | - | |
+| 160 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Introversion | https://qoj.ac/problem/15189 | [source code](./introversion/main.cpp) |
 | 161 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Server Overload | - | |
 | 162 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Sakura Reflection | - | |
 | 163 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | M. S. I. S. | - | |
