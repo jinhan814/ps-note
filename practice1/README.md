@@ -13,7 +13,7 @@
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 팰린드롬의 개수 | https://archive.topcoder.com/ProblemStatement/pm/7418 | [source code](./count-palindromes/main.cpp) |
 | 2 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 1 또는 -1 | - | [source code](./one-or-minus-one/main.cpp) |
-| 3 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 팰린드롬 인코딩 | - | |
+| 3 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 팰린드롬 인코딩 | https://archive.topcoder.com/ProblemStatement/pm/6766 | |
 | 4 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 랩싸기 | https://www.spoj.com/problems/LAZYCOWS/en/ | [source code](./lazy-cows/main.cpp) |
 | 5 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 두 수열 | - | |
 | 6 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리 만들기 | - | [source code](./making-tree/main.cpp) |
