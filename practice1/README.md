@@ -9,7 +9,7 @@
 
 ---
 
-| BOJ. | Difficulty | Title | Problem Link | Source Code |
+| No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 팰린드롬의 개수 | https://archive.topcoder.com/ProblemStatement/pm/7418 | [source code](./count-palindromes/main.cpp) |
 | 2 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 1 또는 -1 | - | [source code](./one-or-minus-one/main.cpp) |

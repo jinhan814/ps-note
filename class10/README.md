@@ -9,7 +9,7 @@ solved.ac의 Class 10 문제 풀이 및 진행 현황
 
 ---
 
-| BOJ. | Difficulty | Title | Problem Link | Source Code |
+| No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Traffic | https://qoj.ac/problem/14958 | |
 | 2 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Critical Projects | https://github.com/trojsten/vpcpc | |

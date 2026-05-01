@@ -9,7 +9,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 
 ---
 
-| BOJ. | Difficulty | Title | Problem Link | Source Code |
+| No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 트리와 경로의 길이 | - | |
 | 2 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 레드 블루 스패닝 트리 | https://open.kattis.com/problems/redbluetree | |

@@ -9,7 +9,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 
 ---
 
-| BOJ. | Difficulty | Title | Problem Link | Source Code |
+| No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Non-boring sequences | https://qoj.ac/problem/15909 | |
 | 2 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 국가의 행사 | https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho5 | |
