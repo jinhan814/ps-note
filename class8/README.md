@@ -32,7 +32,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 19 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 김치 | - | |
 | 20 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Oil | https://qoj.ac/problem/4368 | |
 | 21 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 분단의 슬픔 | - | |
-| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 탈옥 | - | |
+| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 탈옥 | https://codeforces.com/gym/103536/problem/A | |
 | 23 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 트리 | https://jungol.co.kr/problem/3000 | |
 | 24 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 트리와 쿼리 1 | - | |
 | 25 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 수열과 쿼리 13 | - | |
