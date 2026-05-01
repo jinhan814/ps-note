@@ -30,7 +30,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 사수아탕 | https://qoj.ac/problem/16239 | |
 | 18 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 큰 수 소인수분해 | https://judge.yosupo.jp/problem/factorize | |
 | 19 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 김치 | - | |
-| 20 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Oil | - | |
+| 20 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Oil | https://qoj.ac/problem/4368 | |
 | 21 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 분단의 슬픔 | - | |
 | 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 탈옥 | - | |
 | 23 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 트리 | - | |
@@ -44,18 +44,18 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 31 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 남극 탐험 | https://www.spoj.com/problems/OTOCI/en/ | |
 | 32 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 땅따먹기 | https://www.spoj.com/problems/ACQUIRE/en/ | |
 | 33 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 금광 | https://jungol.co.kr/problem/2798 | |
-| 34 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 지사 배정 | - | |
+| 34 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 지사 배정 | https://qoj.ac/problem/4363 | |
 | 35 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Range GCD | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Mountaineers | https://qoj.ac/problem/3888 | |
 | 37 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 골드바흐 파티션 2 | - | |
 | 38 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Star Trek | - | |
 | 39 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 루트 노드가 많은 트리일수록 좋은 트리이다 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 상인 | https://qoj.ac/problem/12792 | |
-| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 경주 | - | |
+| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 경주 | https://qoj.ac/problem/2002 | |
 | 42 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 트리와 K번째 수 | - | |
 | 43 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 정리정돈 | - | |
 | 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | XOR 쿼리 | - | |
 | 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 수열과 쿼리 0 | - | |
 | 46 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 수열과 쿼리 4 | - | |
 | 47 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 국제 메시 기구 | - | |
-| 48 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Tree Quiz | - | |
+| 48 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Tree Quiz | https://qoj.ac/problem/10163 | |
