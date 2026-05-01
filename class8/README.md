@@ -24,7 +24,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 11 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Prefix와 Suffix | - | |
 | 12 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 파일 합치기 2 | - | |
 | 13 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리의 외심 | - | |
-| 14 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 점프 | - | |
+| 14 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 점프 | https://jungol.co.kr/problem/3338 | |
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 이동 | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 마피아 | https://www.spoj.com/problems/MAFBOI08/en/ | |
 | 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 사수아탕 | https://qoj.ac/problem/16239 | |
@@ -33,7 +33,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 20 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Oil | https://qoj.ac/problem/4368 | |
 | 21 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 분단의 슬픔 | - | |
 | 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 탈옥 | - | |
-| 23 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 트리 | - | |
+| 23 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 트리 | https://jungol.co.kr/problem/3000 | |
 | 24 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 트리와 쿼리 1 | - | |
 | 25 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 수열과 쿼리 13 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 티떱랜드 | - | |
