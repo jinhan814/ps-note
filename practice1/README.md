@@ -20,7 +20,7 @@
 | 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 거울2 | https://dmoj.ca/problem/btoi01p3 | |
 | 8 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 신호 장애 | https://qoj.ac/problem/16241 | [source code](./signal-interference/main.cpp) |
 | 9 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 초고속철도 | https://jungol.co.kr/problem/1479 | [source code](./high-speed-rail/main.cpp) |
-| 10 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 2,3 거듭제곱의 합 | https://qoj.ac/problem/1473 | |
+| 10 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 2,3 거듭제곱의 합 | https://qoj.ac/problem/1473 | [source code](./sum-of-powers-of-2-3/main.cpp) |
 | 11 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | K-Graph Oddity | https://codeforces.com/gym/101309 | |
 | 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 텔레점프 | https://codeforces.com/gym/100134 | |
 | 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Teleporters | https://qoj.ac/problem/12666 | |
