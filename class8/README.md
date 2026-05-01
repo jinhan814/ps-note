@@ -43,7 +43,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 30 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 반 나누기 (Hard) | - | |
 | 31 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 남극 탐험 | https://www.spoj.com/problems/OTOCI/en/ | |
 | 32 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 땅따먹기 | https://www.spoj.com/problems/ACQUIRE/en/ | |
-| 33 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 금광 | https://jungol.co.kr/problem/2798 | |
+| 33 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 금광 | https://jungol.co.kr/problem/2798 | [source code](./gold-mine/main.cpp) |
 | 34 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 지사 배정 | https://qoj.ac/problem/4363 | |
 | 35 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Range GCD | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Mountaineers | https://qoj.ac/problem/3888 | |
@@ -51,7 +51,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 38 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Star Trek | - | |
 | 39 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 루트 노드가 많은 트리일수록 좋은 트리이다 | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 상인 | https://qoj.ac/problem/12792 | |
-| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 경주 | https://qoj.ac/problem/2002 | |
+| 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 경주 | https://qoj.ac/problem/2002 | [source code](./race/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 트리와 K번째 수 | - | |
 | 43 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 정리정돈 | - | |
 | 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | XOR 쿼리 | - | |
