@@ -50,7 +50,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 37 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 골드바흐 파티션 2 | - | |
 | 38 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Star Trek | - | |
 | 39 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 루트 노드가 많은 트리일수록 좋은 트리이다 | - | |
-| 40 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 상인 | https://qoj.ac/problem/12792 | |
+| 40 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 상인 | https://qoj.ac/problem/12792 | [source code](./merchant/main.cpp) |
 | 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 경주 | https://qoj.ac/problem/2002 | [source code](./race/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 트리와 K번째 수 | - | |
 | 43 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 정리정돈 | - | |
