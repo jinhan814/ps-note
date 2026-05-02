@@ -2,11 +2,10 @@
 using namespace std;
 
 auto sol = [](string s) {
-	int acc = 0;
-	for (int i = s.size() - 1, j = s.size() - 1; i >= 0; i--) {
-		if (s[i] == '0') continue;
-		acc = (acc + j - i) % 3;
-		j--;
+	int acc = 0, cnt = 0;
+	for (int i = 0; i < s.size(); i++) {
+		if (s[i] == '0') acc = (acc + cnt) %3;
+		else cnt++;
 	}
 	return acc != 0;
 };
