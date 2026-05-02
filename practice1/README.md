@@ -148,7 +148,7 @@
 | 135 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Traveling Junkman Problem | - | |
 | 136 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 디지털 회로 | https://qoj.ac/problem/4564 | |
 | 137 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 이분 그래프 놀이 | - | |
-| 138 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 곰곰이와 테트리스 | - | |
+| 138 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 곰곰이와 테트리스 | - | [source code](./gomgom-tetris/main.cpp) |
 | 139 | <img src="https://static.solved.ac/tier_small/12.svg" height="16px"> | 곰곰아 선 넘지마 | - | |
 | 140 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 슈퍼 블랙잭 | - | |
 | 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | https://qoj.ac/problem/5157 | |
