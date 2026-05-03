@@ -47,7 +47,7 @@
 | 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | - | |
 | 35 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Spy Network | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 | https://qoj.ac/problem/5621 | [source code](./mancala/main.cpp) |
-| 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | - | |
+| 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | - | [source code](./binary-game/main.cpp) |
 | 38 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Bank | https://oj.uz/problem/view/IZhO14_bank | |
 | 39 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | K blocks | https://oj.uz/problem/view/IZhO14_blocks | |
 | 40 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 채우기 | - | |
