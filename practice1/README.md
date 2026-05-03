@@ -107,7 +107,7 @@
 | 94 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Human Pyramid | - | |
 | 95 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Xortest Path | https://qoj.ac/problem/877 | [source code](./xortest-path/main.cpp) |
 | 96 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Hop | https://qoj.ac/problem/13412 | |
-| 97 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Rymdpromenad | https://github.com/Kodsport/swedish-olympiad-2018/tree/master/katt/rymdpatrullen | |
+| 97 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Rymdpromenad | https://github.com/Kodsport/swedish-olympiad-2018/tree/master/lager/rymdpromenad | |
 | 98 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | イベント巡り (Event Hopping) | https://atcoder.jp/contests/joi2021yo2/tasks/joi2021_yo2_c | |
 | 99 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Group Photo | https://qoj.ac/problem/2177 | |
 | 100 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Thanks to MikeMirzayanov | https://qoj.ac/problem/962 | |
