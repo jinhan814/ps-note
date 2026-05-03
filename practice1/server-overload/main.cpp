@@ -4,10 +4,10 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, int k, auto v) {
-	vector c(1, 0LL);
+	vector c(1, i64(0));
 	for (int i = 0; i < n; i++) {
-		vector dp(5, vector(n / 3 + 1, 0LL));
-		vector val(n / 3 + 1, 0LL);
+		vector dp(5, vector(n / 3 + 1, i64(0)));
+		vector val(n / 3 + 1, i64(0));
 		for (int a = 2; a < n; a++) {
 			for (int b = 1; b <= (a + 1) / 3; b++) {
 				i64 s = max(dp[0][b - 1], dp[1][b - 1]);
@@ -19,7 +19,7 @@ auto sol = [](int n, int k, auto v) {
 		}
 		int sz = c.size() - 1 + n / 3;
 		if (sz > k) sz = k;
-		vector nc(sz + 1, 0LL);
+		vector nc(sz + 1, i64(0));
 		auto rec = [&](const auto& self, int l, int r, int opt_l, int opt_r) -> void {
 			if (l > r) return;
 			int mid = l + r >> 1;
@@ -42,7 +42,7 @@ auto sol = [](int n, int k, auto v) {
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
 	int n, k; cin >> n >> k;
-	vector v(n, vector(n, 0LL));
+	vector v(n, vector(n, i64(0)));
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++)
 			cin >> v[i][j];
