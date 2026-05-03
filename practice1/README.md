@@ -86,7 +86,7 @@
 | 73 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Koala | https://qoj.ac/problem/1417 | |
 | 74 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Kangaroo | https://qoj.ac/problem/12615 | |
 | 75 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Inquiry II | https://qoj.ac/problem/6261 | |
-| 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | https://qoj.ac/problem/2372 | |
+| 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | https://qoj.ac/problem/2372 | [source code](./level-up/main.cpp) |
 | 77 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Find the Array | https://qoj.ac/problem/2373 | |
 | 78 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Ladder Game | https://qoj.ac/problem/10949 | |
 | 79 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Disposable Switches | https://qoj.ac/problem/2413 | |
