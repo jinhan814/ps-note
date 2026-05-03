@@ -130,7 +130,7 @@
 | 117 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Paired Up | https://qoj.ac/problem/2152 | |
 | 118 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Energy Stones | - | |
 | 119 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | XCopy | https://qoj.ac/problem/8098 | |
-| 120 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 解読 (Deciphering) | https://atcoder.jp/contests/joisc2011/tasks/joisc2011_deciphering | |
+| 120 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 解読 (Deciphering) | https://atcoder.jp/contests/joisc2011/tasks/joisc2011_deciphering | [source code](./deciphering/main.cpp) |
 | 121 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 誘拐 (Abduction) | https://atcoder.jp/contests/joisc2009/tasks/joisc2009_abduction | |
 | 122 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Let’s Win the Election | https://qoj.ac/problem/2629 | |
 | 123 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Drought | https://usaco.org/index.php?page=viewproblem2&cpid=1185 | |
