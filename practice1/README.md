@@ -84,7 +84,7 @@
 | 71 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Card Game Is Great Fun | https://qoj.ac/problem/1211 | |
 | 72 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mascots | https://qoj.ac/problem/1414 | [source code](./mascots/main.cpp) |
 | 73 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Koala | https://qoj.ac/problem/1417 | |
-| 74 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Kangaroo | https://qoj.ac/problem/12615 | |
+| 74 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Kangaroo | https://qoj.ac/problem/12615 | [source code](./kangaroo/main.cpp) |
 | 75 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Inquiry II | https://qoj.ac/problem/6261 | |
 | 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | https://qoj.ac/problem/2372 | [source code](./level-up/main.cpp) |
 | 77 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Find the Array | https://qoj.ac/problem/2373 | |
