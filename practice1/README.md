@@ -83,7 +83,7 @@
 | 70 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Toilets | https://qoj.ac/problem/407 | [source code](./toilets/main.cpp) |
 | 71 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Card Game Is Great Fun | https://qoj.ac/problem/1211 | |
 | 72 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mascots | https://qoj.ac/problem/1414 | [source code](./mascots/main.cpp) |
-| 73 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Koala | https://qoj.ac/problem/1417 | |
+| 73 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Koala | https://qoj.ac/problem/1417 | [source code](./koala/main.cpp) |
 | 74 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Kangaroo | https://qoj.ac/problem/12615 | [source code](./kangaroo/main.cpp) |
 | 75 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Inquiry II | https://qoj.ac/problem/6261 | |
 | 76 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Level Up | https://qoj.ac/problem/2372 | [source code](./level-up/main.cpp) |
