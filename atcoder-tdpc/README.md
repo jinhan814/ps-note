@@ -1,4 +1,4 @@
-# 🏆 solved.ac Class 8
+# 🏆 AtCoder Typical DP Contest
 
 [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc) 문제 풀이 및 진행 현황
 

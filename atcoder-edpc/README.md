@@ -1,4 +1,4 @@
-# 🏆 solved.ac Class 8
+# 🏆 AtCoder Educational DP Contest
 
 [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) 문제 풀이 및 진행 현황
 

@@ -1,4 +1,4 @@
-# 🏆 solved.ac Class 8
+# 🏆 AtCoder FPS 24: 24 Problems on Formal Power Series
 
 [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24) 문제 풀이 및 진행 현황
 
