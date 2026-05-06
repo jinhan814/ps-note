@@ -10,13 +10,13 @@ constexpr int add(int a, int b) {
 }
 
 auto sol = [](int n, int m, auto v) {
-	vector dp(n, 0);
+	vector dp(m, 0);
 	for (int i = 0; i < m; i++) {
 		if (v[0][i] == '#') break;
 		dp[i] = 1;
 	}
 	for (int i = 1; i < n; i++) {
-		vector ndp(n, 0);
+		vector ndp(m, 0);
 		for (int j = 0; j < m; j++) {
 			if (v[i][j] == '#') continue;
 			ndp[j] = dp[j];
