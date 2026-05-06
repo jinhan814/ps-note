@@ -4,6 +4,7 @@
 
 ## 📂 Repository Structure
 
+- [**AtCocer Contest**](./atcoder-contest/README.md): AtCoder Contest 문제 풀이 및 진행 현황
 - [**Class 8**](./class8/README.md): solved.ac Class 8 문제 풀이 및 진행 현황
 - [**Class 9**](./class9/README.md): solved.ac Class 9 문제 풀이 및 진행 현황
 - [**Class 10**](./class10/README.md): solved.ac Class 10 문제 풀이 및 진행 현황
@@ -15,6 +16,7 @@
 
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
+| [**AtCocer Contest**](./atcoder-contest/README.md) | 0 / ? (0.00%) | 2026-05-06 |
 | [**Class 8**](./class8/README.md) | 4 / 48 (8.33%) | 2026-05-01 |
 | [**Class 9**](./class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
