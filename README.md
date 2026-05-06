@@ -20,16 +20,21 @@
 
 ## 📊 Overall Progress
 
+**General**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
 | [**Class 8**](./class8/README.md) | 4 / 48 (8.33%) | 2026-05-01 |
 | [**Class 9**](./class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
 | [**재밌었던 문제들 1**](./practice1/README.md) | 81 / 174 (46.55%) | 2026-05-04 |
-| [**AtCocer EDPC**](./atcoder-edpc/README.md) | 0 / ? (0.00%) | 2026-05-06 |
-| [**AtCocer NDPC**](./atcoder-ndpc/README.md) | 0 / ? (0.00%) | 2026-05-06 |
-| [**AtCocer TDPC**](./atcoder-tdpc/README.md) | 0 / ? (0.00%) | 2026-05-06 |
-| [**AtCocer FPS24**](./atcoder-fps24/README.md) | 0 / ? (0.00%) | 2026-05-06 |
+
+**AtCoder**
+| Category | Progress | Last Update |
+| :--- | :---: | :---: |
+| [**AtCocer EDPC**](./atcoder-edpc/README.md) | 0 / 26 (0.00%) | 2026-05-06 |
+| [**AtCocer NDPC**](./atcoder-ndpc/README.md) | 0 / 20 (0.00%) | 2026-05-06 |
+| [**AtCocer TDPC**](./atcoder-tdpc/README.md) | 0 / 20 (0.00%) | 2026-05-06 |
+| [**AtCocer FPS24**](./atcoder-fps24/README.md) | 0 / 24 (0.00%) | 2026-05-06 |
 
 ---
 
