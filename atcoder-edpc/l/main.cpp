@@ -9,9 +9,9 @@ auto sol = [](int n, auto v) {
 		if (l == r) return v[l];
 		i64& ret = dp[l][r];
 		if (ret != i64(1) << 60) return ret;
-		ret = -(i64(1) << 60);
-		ret = max(ret, v[l] - self(self, l + 1, r));
-		ret = max(ret, v[r] - self(self, l, r - 1));
+		i64 v1 = v[l] - self(self, l + 1, r);
+		i64 v2 = v[r] - self(self, l, r - 1);
+		ret = max(v1, v2);
 		return ret;
 	};
 	return rec(rec, 0, n - 1);
