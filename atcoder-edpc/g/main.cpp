@@ -6,7 +6,7 @@ auto sol = [](int n, int m, auto adj) {
 	auto rec = [&](const auto& self, int cur) -> int {
 		int& ret = dp[cur];
 		if (ret != -1) return ret;
-		ret = 1;
+		ret = 0;
 		for (int nxt : adj[cur]) ret = max(ret, self(self, nxt) + 1);
 		return ret;
 	};
