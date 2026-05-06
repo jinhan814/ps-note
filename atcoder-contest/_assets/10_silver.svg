@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+  <defs>
+    <!-- to right (왼쪽에서 오른쪽으로) 방향의 선형 그라데이션 -->
+    <linearGradient id="silver-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgb(128, 128, 128)" />
+      <stop offset="50%" stop-color="white" />
+      <stop offset="100%" stop-color="rgb(128, 128, 128)" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 원에 그라데이션 채우기 (fill) 및 테두리 (stroke) 적용 -->
+  <circle cx="12" cy="12" r="10" 
+          stroke="rgb(128, 128, 128)" stroke-width="2" 
+          fill="url(#silver-gradient)" />
+</svg>
