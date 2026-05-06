@@ -4,10 +4,13 @@
 
 ## 📂 Repository Structure
 
+**General**
 - [**Class 8**](./class8/README.md): solved.ac Class 8 문제 풀이 및 진행 현황
 - [**Class 9**](./class9/README.md): solved.ac Class 9 문제 풀이 및 진행 현황
 - [**Class 10**](./class10/README.md): solved.ac Class 10 문제 풀이 및 진행 현황
 - [**재밌었던 문제들 1**](./practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 문제 풀이 및 진행 현황
+
+**AtCoder**
 - [**AtCocer EDPC**](./atcoder-edpc/README.md): AtCoder Educational DP Contest 문제 풀이 및 진행 현황
 - [**AtCocer NDPC**](./atcoder-ndpc/README.md): AtCoder Next DP Contest 문제 풀이 및 진행 현황
 - [**AtCocer TDPC**](./atcoder-tdpc/README.md): AtCoder Typical DP Contest 문제 풀이 및 진행 현황
