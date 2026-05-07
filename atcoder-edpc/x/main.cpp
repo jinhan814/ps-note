@@ -7,10 +7,10 @@ auto sol = [](int n, auto v) {
 	sort(v.begin(), v.end(), [&](auto a, auto b) {
 		return a[0] + a[1] < b[0] + b[1];
 	});
-	vector dp(10'001, i64(0));
+	vector dp(20'001, i64(0));
 	for (auto [a, b, c] : v) {
 		for (int i = b; i >= 0; i--) {
-			if (i + a > 10'000) continue;
+			if (i + a > 20'000) continue;
 			dp[i + a] = max(dp[i + a], dp[i] + c);
 		}
 	}
