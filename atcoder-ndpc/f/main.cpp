@@ -29,7 +29,7 @@ auto sol = [](int n, auto p, auto v) {
 		}
 		return ret;
 	};
-	return rec(rec, 0, n - 1);
+	return rec(rec, 1, n);
 };
 
 int main() {
@@ -37,9 +37,9 @@ int main() {
 	int tc; cin >> tc;
 	while (tc--) {
 		int n; cin >> n;
-		vector p(n, 0), v(n, 0);
-		for (int i = 0; i < n; i++) cin >> p[i], p[i]--;
-		for (int i = 0; i < n; i++) cin >> v[i];
+		vector p(n + 1, 0), v(n + 1, 0);
+		for (int i = 1; i <= n; i++) cin >> p[i];
+		for (int i = 1; i <= n; i++) cin >> v[i];
 		auto res = sol(n, p, v);
 		for (int i = 1; i <= n; i++) cout << res[i] << ' ';
 		cout << '\n';
