@@ -24,7 +24,7 @@
 | 11 | <img src="../_assets/orange_0_4.svg" width="16px"> 2400 | Addition and Subtraction | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_k](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_k) | |
 | 12 | <img src="../_assets/yellow_2_4.svg" width="16px"> 2235 | LCM | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_l](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_l) | |
 | 13 | <img src="../_assets/yellow_3_4.svg" width="16px"> 2273 | Numeral | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_m](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_m) | [source code](./m/main.cpp) |
-| 14 | <img src="../_assets/silver.svg" width="16px"> 3608 | Knapsack | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_n](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_n) | |
+| 14 | <img src="../_assets/silver.svg" width="16px"> 3608 | Knapsack | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_n](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_n) | [source code](./n/main.cpp) |
 | 15 | <img src="../_assets/red_3_4.svg" width="16px"> 3061 | Game | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_o](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_o) | |
 | 16 | <img src="../_assets/bronze.svg" width="16px"> 3237 | LIS | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_p](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_p) | |
 | 17 | <img src="../_assets/red_0_4.svg" width="16px"> 2845 | Union of Intervals | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_q](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_q) | |
