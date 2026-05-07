@@ -19,7 +19,7 @@
 | 6 | <img src="../_assets/blue_4_4.svg" width="16px"> 1982 | Set | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_f](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_f) | [source code](./f/main.cpp) |
 | 7 | <img src="../_assets/blue_4_4.svg" width="16px"> 1936 | Mouth | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_g](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_g) | [source code](./g/main.cpp) |
 | 8 | <img src="../_assets/blue_1_4.svg" width="16px"> 1740 | Coin | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_h](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_h) | [source code](./h/main.cpp) |
-| 9 | <img src="../_assets/yellow_1_4.svg" width="16px"> 2112 | Update Positions | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i) | |
+| 9 | <img src="../_assets/yellow_1_4.svg" width="16px"> 2112 | Update Positions | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i) | [source code](./i/main.cpp) |
 | 10 | <img src="../_assets/orange_3_4.svg" width="16px"> 2684 | Number and Total | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_j](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_j) | |
 | 11 | <img src="../_assets/orange_0_4.svg" width="16px"> 2400 | Addition and Subtraction | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_k](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_k) | |
 | 12 | <img src="../_assets/yellow_2_4.svg" width="16px"> 2235 | LCM | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_l](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_l) | |
