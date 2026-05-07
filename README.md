@@ -31,7 +31,7 @@
 **AtCoder**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
-| [**AtCocer EDPC**](./atcoder-edpc/README.md) | 20 / 26 (76.92%) | 2026-05-07 |
+| [**AtCocer EDPC**](./atcoder-edpc/README.md) | 22 / 26 (84.62%) | 2026-05-07 |
 | [**AtCocer NDPC**](./atcoder-ndpc/README.md) | 0 / 20 (0.00%) | 2026-05-06 |
 | [**AtCocer TDPC**](./atcoder-tdpc/README.md) | 0 / 20 (0.00%) | 2026-05-06 |
 | [**AtCocer FPS24**](./atcoder-fps24/README.md) | 0 / 24 (0.00%) | 2026-05-06 |
