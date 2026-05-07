@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| 1 | <img src="../_assets/brown_2_4.svg" width="16px"> 606 | Polyomino | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_a](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_a) | |
+| 1 | <img src="../_assets/brown_2_4.svg" width="16px"> 606 | Polyomino | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_a](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_a) | [source code](./a/main.cpp) |
 | 2 | <img src="../_assets/brown_4_4.svg" width="16px"> 754 | DAG | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_b](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_b) | |
 | 3 | <img src="../_assets/green_4_4.svg" width="16px"> 1175 | String | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_c](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_c) | |
 | 4 | <img src="../_assets/cyan_2_4.svg" width="16px"> 1381 | Banknote | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_d](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_d) | |
