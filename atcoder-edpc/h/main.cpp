@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using i64 = long long;
-
 constexpr int mod = 1'000'000'007;
 
 constexpr int add(int a, int b) {
