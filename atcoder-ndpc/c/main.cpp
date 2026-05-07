@@ -10,7 +10,7 @@ constexpr int add(int a, int b) {
 auto sol = [](int n, string a, string b, string c) {
 	vector dp(n, vector(a.size() + 1, vector(b.size() + 1, vector(c.size() + 1, -1))));
 	auto rec = [&](const auto& self, int len, int i, int j, int k) -> int {
-		if (len == n) return i != a.size() && j != b.size() && k != c.size();
+		if (len == n) return i < a.size() && j < b.size() && k < c.size();
 		int& ret = dp[len][i][j][k];
 		if (ret != -1) return ret;
 		ret = 0;
