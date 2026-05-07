@@ -17,7 +17,7 @@
 | 4 | <img src="../_assets/cyan_2_4.svg" width="16px"> 1381 | Banknote | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_d](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_d) | [source code](./d/main.cpp) |
 | 5 | <img src="../_assets/blue_0_4.svg" width="16px"> 1663 | Summer Vacation | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_e](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_e) | [source code](./e/main.cpp) |
 | 6 | <img src="../_assets/blue_4_4.svg" width="16px"> 1982 | Set | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_f](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_f) | [source code](./f/main.cpp) |
-| 7 | <img src="../_assets/blue_4_4.svg" width="16px"> 1936 | Mouth | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_g](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_g) | |
+| 7 | <img src="../_assets/blue_4_4.svg" width="16px"> 1936 | Mouth | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_g](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_g) | [source code](./g/main.cpp) |
 | 8 | <img src="../_assets/blue_1_4.svg" width="16px"> 1740 | Coin | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_h](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_h) | |
 | 9 | <img src="../_assets/yellow_1_4.svg" width="16px"> 2112 | Update Positions | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i) | |
 | 10 | <img src="../_assets/orange_3_4.svg" width="16px"> 2684 | Number and Total | [https://atcoder.jp/contests/ndpc/tasks/ndpc2026_j](https://atcoder.jp/contests/ndpc/tasks/ndpc2026_j) | |
