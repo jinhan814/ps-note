@@ -44,23 +44,31 @@ private:
 	vector<node> tree;
 };
 
-int main() {
-	cin.tie(0)->sync_with_stdio(0);
-	int n, q; cin >> n >> q;
-	vector v(n + 1, 0);
-	for (int i = 1; i <= n; i++) cin >> v[i];
+auto sol = [](int n, int q, auto v, auto qs) {
 	i64 acc = 0;
 	segtree tree(n);
 	for (int i = 1; i <= n; i++) {
 		acc += v[i];
 		tree.update(i, node(v[i] > 0 ? v[i] : -1));
 	}
-	while (q--) {
-		int a, b; cin >> a >> b;
+	vector ret(q, i64(0));
+	for (int i = 0; i < q; i++) {
+		auto [a, b] = qs[i];
 		acc += b - v[a];
 		v[a] = b;
 		tree.update(a, v[a] > 0 ? v[a] : -1);
-		i64 res = acc - max(tree.query(1, n).get(), i64(0));
-		cout << res << '\n';
+		ret[i] = acc - max(tree.query(1, n).get(), i64(0));
 	}
+	return ret;
+};
+
+int main() {
+	cin.tie(0)->sync_with_stdio(0);
+	int n, q; cin >> n >> q;
+	vector v(n + 1, 0);
+	for (int i = 1; i <= n; i++) cin >> v[i];
+	vector qs(q, array{ 0, 0 });
+	for (int i = 0; i < q; i++) cin >> qs[i][0] >> qs[i][1];
+	auto res = sol(n, q, v, qs);
+	for (int i = 0; i < q; i++) cout << res[i] << '\n';
 }
