@@ -14,18 +14,12 @@ auto sol = [](int n, string s) {
 	dp[0] = 1;
 	for (int i = 0; i < n - 1; i++) {
 		if (s[i] == '<') {
-			for (int j = 1; j <= i; j++) {
-				dp[j] = add(dp[j], dp[j - 1]);
-			}
-			for (int j = i + 1; j >= 1; j--) {
-				dp[j] = dp[j - 1];
-			}
+			for (int j = 1; j <= i; j++) dp[j] = add(dp[j], dp[j - 1]);
+			for (int j = i; j >= 0; j--) dp[j + 1] = dp[j];
 			dp[0] = 0;
 		}
 		else {
-			for (int j = i; j >= 1; j--) {
-				dp[j - 1] = add(dp[j - 1], dp[j]);
-			}
+			for (int j = i; j >= 1; j--) dp[j - 1] = add(dp[j - 1], dp[j]);
 		}
 	}
 	int ret = 0;
