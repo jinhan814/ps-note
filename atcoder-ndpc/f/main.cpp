@@ -11,20 +11,20 @@ auto sol = [](int n, auto p, auto v) {
 			if (p[pos] <= p[i]) continue;
 			pos = i;
 		}
-		auto res_l = self(self, l, pos - 1);
-		auto res_r = self(self, pos + 1, r);
 		vector ret(r - l + 2, i64(1) << 60);
 		ret[0] = 0;
-		for (int i = 0; i < (int)res_l.size(); i++) {
-			for (int j = 0; j < (int)res_r.size(); j++) {
+		auto res_l = self(self, l, pos - 1);
+		auto res_r = self(self, pos + 1, r);
+		for (int i = 0; i < res_l.size(); i++) {
+			for (int j = 0; j < res_r.size(); j++) {
 				i64 val = res_l[i] + res_r[j] + v[pos];
 				ret[i + j + 1] = min(ret[i + j + 1], val);
 			}
 		}
-		for (int i = 0; i < (int)res_r.size(); i++) {
+		for (int i = 0; i < res_r.size(); i++) {
 			ret[i] = min(ret[i], res_r[i]);
 		}
-		for (int i = 0; i < (int)res_l.size(); i++) {
+		for (int i = 0; i < res_l.size(); i++) {
 			ret[i] = min(ret[i], res_l[i]);
 		}
 		return ret;
