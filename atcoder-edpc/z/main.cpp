@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using i128 = __int128;
 using i64 = long long;
 
 auto sol = [](int n, i64 k, auto v) {
@@ -20,7 +19,7 @@ auto sol = [](int n, i64 k, auto v) {
 		while (dq.size() >= 2) {
 			auto [a1, b1] = dq[dq.size() - 2];
 			auto [a2, b2] = dq.back();
-			if (i128(b2 - b1) * (a2 - a) < i128(b - b2) * (a1 - a2)) break;
+			if ((b2 - b1) * (a2 - a) < (b - b2) * (a1 - a2)) break;
 			dq.pop_back();
 		}
 		dq.push_back(pair(a, b));
