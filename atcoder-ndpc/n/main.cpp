@@ -11,8 +11,7 @@ auto sol = [](int n, int q, auto v, auto qs) {
 	});
 	vector dp(n * c[0] + 1, i64(0));
 	for (int i = 1; i <= n * c[0]; i++) {
-		int lim = (3 * n * n + i - 1) / i;
-		if (lim > n) lim = n;
+		int lim = min((3 * n * n + i - 1) / i, n);
 		for (int j = 0; j < lim; j++) {
 			if (i < c[j]) continue;
 			dp[i] = max(dp[i], dp[i - c[j]] + v[c[j]]);
