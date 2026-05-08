@@ -33,7 +33,7 @@
 | :--- | :---: | :---: |
 | [**AtCocer EDPC**](./atcoder-edpc/README.md) | 26 / 26 (100.00%) | 2026-05-07 |
 | [**AtCocer NDPC**](./atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
-| [**AtCocer TDPC**](./atcoder-tdpc/README.md) | 0 / 20 (0.00%) | 2026-05-06 |
+| [**AtCocer TDPC**](./atcoder-tdpc/README.md) | 2 / 20 (10.00%) | 2026-05-08 |
 | [**AtCocer FPS24**](./atcoder-fps24/README.md) | 0 / 24 (0.00%) | 2026-05-06 |
 
 ---
