@@ -32,7 +32,7 @@
 | 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 博覧会 | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_d | [source code](./exhibition/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | ダンジョン | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e | |
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mountain Climbing | https://usaco.org/index.php?page=viewproblem2&cpid=108 | [source code](./mountain-climbing/main.cpp) |
-| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | https://usaco.org/index.php?page=viewproblem2&cpid=92 | |
+| 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | https://usaco.org/index.php?page=viewproblem2&cpid=92 | [source code](./binary-sudoku/main.cpp) |
 | 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 | - | [source code](./cleaning-up/main.cpp) |
 | 24 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Watching | https://qoj.ac/problem/12900 | [source code](./watching/main.cpp) |
 | 25 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 무한 게임 | - | |
