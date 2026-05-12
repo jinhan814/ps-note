@@ -28,7 +28,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 이동 | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 마피아 | https://www.spoj.com/problems/MAFBOI08/en/ | |
 | 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 사수아탕 | https://qoj.ac/problem/16239 | |
-| 18 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 큰 수 소인수분해 | https://judge.yosupo.jp/problem/factorize | |
+| 18 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 큰 수 소인수분해 | https://judge.yosupo.jp/problem/factorize | [source code](./factorization/main.cpp) |
 | 19 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 김치 | - | |
 | 20 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Oil | https://qoj.ac/problem/4368 | |
 | 21 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 분단의 슬픔 | - | |
