@@ -24,7 +24,7 @@ solved.ac의 Class 8 문제 풀이 및 진행 현황
 | 11 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Prefix와 Suffix | - | |
 | 12 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 파일 합치기 2 | - | |
 | 13 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 트리의 외심 | - | |
-| 14 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 점프 | https://jungol.co.kr/problem/3338 | |
+| 14 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 점프 | https://jungol.co.kr/problem/3338 | [source code](./jump/main.cpp) |
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 이동 | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 마피아 | https://www.spoj.com/problems/MAFBOI08/en/ | |
 | 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 사수아탕 | https://qoj.ac/problem/16239 | |
