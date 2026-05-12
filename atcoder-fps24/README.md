@@ -12,7 +12,7 @@
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | <img src="../_assets/cyan_0_4.svg" width="16px"> 1211 | Snack | https://atcoder.jp/contests/fps-24/tasks/fps_24_a | [source code](./a/main.cpp) |
-| 2 | <img src="../_assets/green_3_4.svg" width="16px"> 1117 | Tuple of Integers | https://atcoder.jp/contests/fps-24/tasks/fps_24_b | |
+| 2 | <img src="../_assets/green_3_4.svg" width="16px"> 1117 | Tuple of Integers | https://atcoder.jp/contests/fps-24/tasks/fps_24_b | [source code](./b/main.cpp) |
 | 3 | <img src="../_assets/cyan_2_4.svg" width="16px"> 1382 | Sequence | https://atcoder.jp/contests/fps-24/tasks/fps_24_c | |
 | 4 | <img src="../_assets/blue_0_4.svg" width="16px"> 1679 | Sequence 2 | https://atcoder.jp/contests/fps-24/tasks/fps_24_d | |
 | 5 | <img src="../_assets/blue_0_4.svg" width="16px"> 1665 | Sequence 3 | https://atcoder.jp/contests/fps-24/tasks/fps_24_e | |
