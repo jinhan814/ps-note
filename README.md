@@ -23,7 +23,7 @@
 **General**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
-| [**Class 8**](./class8/README.md) | 5 / 48 (10.42%) | 2026-05-12 |
+| [**Class 8**](./class8/README.md) | 7 / 48 (14.58%) | 2026-05-12 |
 | [**Class 9**](./class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
 | [**재밌었던 문제들 1**](./practice1/README.md) | 81 / 174 (46.55%) | 2026-05-04 |
