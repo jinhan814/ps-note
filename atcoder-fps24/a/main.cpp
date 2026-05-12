@@ -23,7 +23,6 @@ constexpr int pow(int x, int n) {
 }
 
 auto sol = [](int n, int k) {
-	if (k < n || k > 6 * n) return 0;
 	vector fac(n + 1, 1);
 	for (int i = 1; i <= n; i++) fac[i] = mul(fac[i - 1], i);
 	vector inv(n + 1, pow(fac[n], mod - 2));
