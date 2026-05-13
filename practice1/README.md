@@ -93,7 +93,7 @@
 | 80 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Reordering the Documents | https://qoj.ac/problem/1191 | |
 | 81 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cool Pairs | https://qoj.ac/problem/12213 | |
 | 82 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Best Tree | https://qoj.ac/problem/832 | [source code](./best-tree/main.cpp) |
-| 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | |
+| 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | [source code](./eight-sins/main.cpp) |
 | 84 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Greedy Algorithm | https://qoj.ac/problem/1461 | [source code](./greedy-algorithm/main.cpp) |
 | 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation | https://qoj.ac/problem/1992 | |
 | 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | https://qoj.ac/problem/3552 | |
