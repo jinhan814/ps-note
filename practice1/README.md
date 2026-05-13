@@ -65,7 +65,7 @@
 | 52 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Windy Path | https://codeforces.com/gym/101201 | |
 | 53 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | [source code](./shell-collecting/main.cpp) |
 | 54 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 森林伐採 (Deforestation) | https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_e | [source code](./deforestation/main.cpp) |
-| 55 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dango Maker | https://qoj.ac/problem/3125 | |
+| 55 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dango Maker | https://qoj.ac/problem/3125 | [source code](./dango-maker/main.cpp) |
 | 56 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Commuter Pass | https://qoj.ac/problem/3126 | [source code](./commuter-pass/main.cpp) |
 | 57 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Talent Show | https://usaco.org/index.php?page=viewproblem2&cpid=839 | [source code](./talent-show/main.cpp) |
 | 58 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Split and Merge | - | [source code](./split-and-merge/main.cpp) |
