@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 64 | Array | https://atcoder.jp/contests/abc457/tasks/abc457_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 64 | Array | https://atcoder.jp/contests/abc457/tasks/abc457_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_1_4.svg" width="16px"> 147 | Arrays | https://atcoder.jp/contests/abc457/tasks/abc457_b | |
 | C | <img src="../../_assets/gray_4_4.svg" width="16px"> 384 | Long Sequence | https://atcoder.jp/contests/abc457/tasks/abc457_c | |
 | D | <img src="../../_assets/green_0_4.svg" width="16px"> 818 | Raise Minimum | https://atcoder.jp/contests/abc457/tasks/abc457_d | |
