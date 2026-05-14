@@ -9,10 +9,10 @@
 - [**Class 8**](./general/class8/README.md): solved.ac Class 8
 - [**Class 9**](./general/class9/README.md): solved.ac Class 9
 - [**Class 10**](./general/class10/README.md): solved.ac Class 10
-- [**AtCocer EDPC**](./general/atcoder-edpc/README.md): [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
-- [**AtCocer NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
-- [**AtCocer TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
-- [**AtCocer FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
+- [**EDPC**](./general/atcoder-edpc/README.md): [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+- [**NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
+- [**TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
+- [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
 **AtCoder**
 - [**ABC455**](./atcoder/abc455/README.md): [Atcoder Beginner Contest 455](https://atcoder.jp/contests/abc455)
@@ -30,10 +30,10 @@
 | [**Class 8**](./general/class8/README.md) | 7 / 48 (14.58%) | 2026-05-12 |
 | [**Class 9**](./general/class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./general/class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
-| [**AtCocer EDPC**](./general/atcoder-edpc/README.md) | 26 / 26 (100.00%) | 2026-05-07 |
-| [**AtCocer NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
-| [**AtCocer TDPC**](./general/atcoder-tdpc/README.md) | 2 / 20 (10.00%) | 2026-05-08 |
-| [**AtCocer FPS24**](./general/atcoder-fps24/README.md) | 3 / 24 (12.50%) | 2026-05-12 |
+| [**EDPC**](./general/atcoder-edpc/README.md) | 26 / 26 (100.00%) | 2026-05-07 |
+| [**NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
+| [**TDPC**](./general/atcoder-tdpc/README.md) | 2 / 20 (10.00%) | 2026-05-08 |
+| [**FPS24**](./general/atcoder-fps24/README.md) | 3 / 24 (12.50%) | 2026-05-12 |
 
 **AtCoder**
 | Category | Progress | Last Update |
