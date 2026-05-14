@@ -5,16 +5,16 @@
 ## 📂 Repository Structure
 
 **General**
-- [**Class 8**](./general/class8): solved.ac Class 8 문제 풀이 및 진행 현황
-- [**Class 9**](./general/class9): solved.ac Class 9 문제 풀이 및 진행 현황
-- [**Class 10**](./general/class10): solved.ac Class 10 문제 풀이 및 진행 현황
-- [**재밌었던 문제들 1**](./general/practice1): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 문제 풀이 및 진행 현황
+- [**Class 8**](./general/class8/README.md): solved.ac Class 8 문제 풀이 및 진행 현황
+- [**Class 9**](./general/class9/README.md): solved.ac Class 9 문제 풀이 및 진행 현황
+- [**Class 10**](./general/class10/README.md): solved.ac Class 10 문제 풀이 및 진행 현황
+- [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 문제 풀이 및 진행 현황
 
 **AtCoder**
-- [**AtCocer EDPC**](./atcoder/atcoder-edpc): AtCoder Educational DP Contest 문제 풀이 및 진행 현황
-- [**AtCocer NDPC**](./atcoder/atcoder-ndpc): AtCoder Next DP Contest 문제 풀이 및 진행 현황
-- [**AtCocer TDPC**](./atcoder/atcoder-tdpc): AtCoder Typical DP Contest 문제 풀이 및 진행 현황
-- [**AtCocer FPS24**](./atcoder/atcoder-fps24): AtCoder FPS 24: 24 Problems on Formal Power Series 문제 풀이 및 진행 현황
+- [**AtCocer EDPC**](./atcoder/atcoder-edpc/README.md): AtCoder Educational DP Contest 문제 풀이 및 진행 현황
+- [**AtCocer NDPC**](./atcoder/atcoder-ndpc/README.md): AtCoder Next DP Contest 문제 풀이 및 진행 현황
+- [**AtCocer TDPC**](./atcoder/atcoder-tdpc/README.md): AtCoder Typical DP Contest 문제 풀이 및 진행 현황
+- [**AtCocer FPS24**](./atcoder/atcoder-fps24/README.md): AtCoder FPS 24: 24 Problems on Formal Power Series 문제 풀이 및 진행 현황
 
 ---
 
