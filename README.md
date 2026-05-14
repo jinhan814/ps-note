@@ -5,17 +5,17 @@
 ## 📂 Repository Structure
 
 **General**
-- [**Class 8**](./general/class8/README.md): solved.ac Class 8 정리
-- [**Class 9**](./general/class9/README.md): solved.ac Class 9 정리
-- [**Class 10**](./general/class10/README.md): solved.ac Class 10 정리
-- [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 정리
-- [**AtCocer EDPC**](./general/atcoder-edpc/README.md): [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) 정리
-- [**AtCocer NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc) 정리
-- [**AtCocer TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc) 정리
-- [**AtCocer FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24) 정리
+- [**Class 8**](./general/class8/README.md): solved.ac Class 8
+- [**Class 9**](./general/class9/README.md): solved.ac Class 9
+- [**Class 10**](./general/class10/README.md): solved.ac Class 10
+- [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590)
+- [**AtCocer EDPC**](./general/atcoder-edpc/README.md): [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+- [**AtCocer NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
+- [**AtCocer TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
+- [**AtCocer FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
 **AtCoder**
-- [**ABC457**](./atcoder/abc457/README.md): [Atcoder Beginner Contest 457](https://atcoder.jp/contests/abc457) 정리
+- [**ABC457**](./atcoder/abc457/README.md): [Atcoder Beginner Contest 457](https://atcoder.jp/contests/abc457)
 
 ---
 
