@@ -10,16 +10,12 @@ auto calc = [](int n, int m, auto v) {
 		if (v[i] < 0) v[i] += m;
 	}
 	i64 acc = 0;
-	for (int i = 0; i <= n; i++) {
-		acc += v[i];
-	}
+	for (int i = 0; i <= n; i++) acc += v[i];
 	assert(acc % m == 0);
 	int k = acc / m;
 	sort(v.begin(), v.end(), greater{});
 	i64 ret = 0;
-	for (int i = 0; i < k; i++) {
-		ret += m - v[i];
-	}
+	for (int i = 0; i < k; i++) ret += m - v[i];
 	return ret;
 };
 
