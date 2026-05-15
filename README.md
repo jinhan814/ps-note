@@ -16,6 +16,7 @@
 
 **Library Checker**
 - [**Library Checker**](./library-checker/README.md): https://judge.yosupo.jp/
+- [**Sample**](./library-checker/sample/README.md): Library Checker > Sample
 
 **AtCoder**
 - [**ABC454**](./atcoder/abc454/README.md): [Atcoder Beginner Contest 454](https://atcoder.jp/contests/abc454)
