@@ -19,7 +19,7 @@
 | 6 | Unionfind with Potential | https://judge.yosupo.jp/problem/unionfind_with_potential | |
 | 7 | Unionfind with Potential (Non-Commutative Group) | https://judge.yosupo.jp/problem/unionfind_with_potential_non_commutative_group | |
 | 8 | Range Parallel Unionfind | https://judge.yosupo.jp/problem/range_parallel_unionfind | |
-| 9 | Static Range Sum | https://judge.yosupo.jp/problem/static_range_sum | |
+| 9 | Static Range Sum | https://judge.yosupo.jp/problem/static_range_sum | [source code](./static_range_sum/main.cpp) |
 | 10 | Static RMQ | https://judge.yosupo.jp/problem/staticrmq | |
 | 11 | Point Add Range Sum | https://judge.yosupo.jp/problem/point_add_range_sum | |
 | 12 | Point Set Range Composite | https://judge.yosupo.jp/problem/point_set_range_composite | |
