@@ -24,11 +24,11 @@
 - [**Polynomial**](./library-checker/polynomial/README.md): Library Checker > Polynomial
 - [**Set Power Series**](./library-checker/set-power-series/README.md): Library Checker > Set Power Series
 - [**Enumerative Combinatorics**](./library-checker/enumerative-combinatorics/README.md): Library Checker > Enumerative Combinatorics
-- [**Graph**](./library-checker/graph/README.md): Library Checker > Graph
-- [**Graph**](./library-checker/graph/README.md): Library Checker > Graph
-- [**Graph**](./library-checker/graph/README.md): Library Checker > Graph
-- [**Graph**](./library-checker/graph/README.md): Library Checker > Graph
-- [**Graph**](./library-checker/graph/README.md): Library Checker > Graph
+- [**Linear Algebra**](./library-checker/linear-algebra/README.md): Library Checker > Linear Algebra
+- [**String**](./library-checker/string/README.md): Library Checker > String
+- [**Geometry**](./library-checker/geometry/README.md): Library Checker > Geometry
+- [**Big Integer**](./library-checker/big-integer/README.md): Library Checker > Big Integer
+- [**Other**](./library-checker/other/README.md): Library Checker > Other
 
 **AtCoder**
 - [**ABC454**](./atcoder/abc454/README.md): [Atcoder Beginner Contest 454](https://atcoder.jp/contests/abc454)
@@ -64,11 +64,11 @@
 | [**Polynomial**](./library-checker/polynomial/README.md) | 0 / 25 (0.00%) | 2026-05-15 |
 | [**Set Power Series**](./library-checker/set-power-series/README.md) | 0 / 4 (0.00%) | 2026-05-15 |
 | [**Enumerative Combinatorics**](./library-checker/enumerative-combinatorics/README.md) | 0 / 17 (0.00%) | 2026-05-15 |
-| [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
-| [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
-| [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
-| [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
-| [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
+| [**Linear Algebra**](./library-checker/linear-algebra/README.md) | 0 / 17 (0.00%) | 2026-05-15 |
+| [**String**](./library-checker/string/README.md) | 0 / 11 (0.00%) | 2026-05-15 |
+| [**Geometry**](./library-checker/geometry/README.md) | 0 / 8 (0.00%) | 2026-05-15 |
+| [**Big Integer**](./library-checker/big-integer/README.md) | 0 / 6 (0.00%) | 2026-05-15 |
+| [**Other**](./library-checker/other/README.md) | 0 / 7 (0.00%) | 2026-05-15 |
 
 **AtCoder**
 | Category | Progress | Last Update |
