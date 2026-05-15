@@ -182,11 +182,11 @@
 | 15 | Sqrt Mod | https://judge.yosupo.jp/problem/sqrt_mod | |
 | 16 | Kth Root (Mod) | https://judge.yosupo.jp/problem/kth_root_mod | |
 | 17 | Kth Root (Integer) | https://judge.yosupo.jp/problem/kth_root_integer | |
-| 18 | Discrete Logarithm | https://judge.yosupo.jp/problem/discrete_logarithm | |
+| 18 | Discrete Logarithm | https://judge.yosupo.jp/problem/discrete_logarithm_mod | |
 | 19 | Tetration Mod | https://judge.yosupo.jp/problem/tetration_mod | |
 | 20 | Gcd of Gaussian Integers | https://judge.yosupo.jp/problem/gcd_of_gaussian_integers | |
-| 21 | Represent A Number As Two Square Sum | https://judge.yosupo.jp/problem/represent_a_number_as_two_square_sum | |
-| 22 | Nim Product (F_2^64) | https://judge.yosupo.jp/problem/nim_product_f_264 | |
+| 21 | Represent A Number As Two Square Sum | https://judge.yosupo.jp/problem/two_square_sum | |
+| 22 | Nim Product (F_2^64) | https://judge.yosupo.jp/problem/nim_product_64 | |
 
 ---
 
