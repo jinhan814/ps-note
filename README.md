@@ -66,9 +66,9 @@
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
 | [**Sample**](./library-checker/sample/README.md) | 3 / 3 (100.00%) | 2026-05-15 |
-| [**Data Structure**](./library-checker/data-structure/README.md) | 0 / 43 (0.00%) | 2026-05-15 |
+| [**Data Structure**](./library-checker/data-structure/README.md) | 2 / 43 (4.65%) | 2026-05-15 |
 | [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
-| [**Tree**](./library-checker/tree/README.md) | 0 / 20 (0.00%) | 2026-05-15 |
+| [**Tree**](./library-checker/tree/README.md) | 2 / 20 (10.00%) | 2026-05-15 |
 | [**Convolution**](./library-checker/convolution/README.md) | 0 / 15 (0.00%) | 2026-05-15 |
 | [**Number Theory**](./library-checker/number-theory/README.md) | 0 / 22 (0.00%) | 2026-05-15 |
 | [**Polynomial**](./library-checker/polynomial/README.md) | 0 / 25 (0.00%) | 2026-05-15 |
