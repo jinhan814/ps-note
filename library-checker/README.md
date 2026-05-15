@@ -73,11 +73,11 @@
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
-| 1 | Cycle Detection (Directed) | https://judge.yosupo.jp/problem/cycle_detection_directed | |
+| 1 | Cycle Detection (Directed) | https://judge.yosupo.jp/problem/cycle_detection | |
 | 2 | Cycle Detection (Undirected) | https://judge.yosupo.jp/problem/cycle_detection_undirected | |
 | 3 | Shortest Path | https://judge.yosupo.jp/problem/shortest_path | |
-| 4 | Strongly Connected Components | https://judge.yosupo.jp/problem/strongly_connected_components | |
-| 5 | Strongly Connected Components (Incremental) | https://judge.yosupo.jp/problem/strongly_connected_components_incremental | |
+| 4 | Strongly Connected Components | https://judge.yosupo.jp/problem/scc | |
+| 5 | Strongly Connected Components (Incremental) | https://judge.yosupo.jp/problem/incremental_scc | |
 | 6 | K-Shortest Walk | https://judge.yosupo.jp/problem/k_shortest_walk | |
 | 7 | Two-Edge-Connected Components | https://judge.yosupo.jp/problem/two_edge_connected_components | |
 | 8 | Three-Edge-Connected Components | https://judge.yosupo.jp/problem/three_edge_connected_components | |
@@ -86,29 +86,29 @@
 | 11 | Eulerian Trail (Directed) | https://judge.yosupo.jp/problem/eulerian_trail_directed | |
 | 12 | Eulerian Trail (Undirected) | https://judge.yosupo.jp/problem/eulerian_trail_undirected | |
 | 13 | st-Numbering | https://judge.yosupo.jp/problem/st_numbering | |
-| 14 | Minimum Cost b-flow | https://judge.yosupo.jp/problem/minimum_cost_b_flow | |
-| 15 | Matching on Bipartite Graph | https://judge.yosupo.jp/problem/matching_on_bipartite_graph | |
-| 16 | Matching on General Graph | https://judge.yosupo.jp/problem/matching_on_general_graph | |
+| 14 | Minimum Cost b-flow | https://judge.yosupo.jp/problem/min_cost_b_flow | |
+| 15 | Matching on Bipartite Graph | https://judge.yosupo.jp/problem/bipartitematching | |
+| 16 | Matching on General Graph | https://judge.yosupo.jp/problem/general_matching | |
 | 17 | General Weighted Matching | https://judge.yosupo.jp/problem/general_weighted_matching | |
-| 18 | Edge Coloring of Bipartite Graph | https://judge.yosupo.jp/problem/edge_coloring_of_bipartite_graph | |
-| 19 | Assignment Problem | https://judge.yosupo.jp/problem/assignment_problem | |
+| 18 | Edge Coloring of Bipartite Graph | https://judge.yosupo.jp/problem/bipartite_edge_coloring | |
+| 19 | Assignment Problem | https://judge.yosupo.jp/problem/assignment | |
 | 20 | Minimum Spanning Tree | https://judge.yosupo.jp/problem/minimum_spanning_tree | |
-| 21 | Directed MST | https://judge.yosupo.jp/problem/directed_mst | |
+| 21 | Directed MST | https://judge.yosupo.jp/problem/directedmst | |
 | 22 | Minimum Diameter Spanning Tree | https://judge.yosupo.jp/problem/minimum_diameter_spanning_tree | |
-| 23 | Dominator Tree | https://judge.yosupo.jp/problem/dominator_tree | |
+| 23 | Dominator Tree | https://judge.yosupo.jp/problem/dominatortree | |
 | 24 | Maximum Independent Set | https://judge.yosupo.jp/problem/maximum_independent_set | |
 | 25 | Chromatic Number | https://judge.yosupo.jp/problem/chromatic_number | |
 | 26 | Chromatic Polynomial | https://judge.yosupo.jp/problem/chromatic_polynomial | |
 | 27 | Enumerate Triangles | https://judge.yosupo.jp/problem/enumerate_triangles | |
 | 28 | Enumerate Cliques | https://judge.yosupo.jp/problem/enumerate_cliques | |
-| 29 | Counting C4's | https://judge.yosupo.jp/problem/counting_c4s | |
+| 29 | Counting C4's | https://judge.yosupo.jp/problem/counting_c4 | |
 | 30 | Tree Decomposition (Width 2) | https://judge.yosupo.jp/problem/tree_decomposition_width_2 | |
 | 31 | Global Minimum Cut of Dynamic Star Augmented Graph | https://judge.yosupo.jp/problem/global_minimum_cut_of_dynamic_star_augmented_graph | |
 | 32 | Chordal Graph Recognition | https://judge.yosupo.jp/problem/chordal_graph_recognition | |
 | 33 | Dynamic Graph Vertex Add Component Sum | https://judge.yosupo.jp/problem/dynamic_graph_vertex_add_component_sum | |
 | 34 | Counting Eulerian Circuits | https://judge.yosupo.jp/problem/counting_eulerian_circuits | |
-| 35 | Counting Spanning Trees (Undirected) | https://judge.yosupo.jp/problem/counting_spanning_trees_undirected | |
-| 36 | Counting Spanning Trees (Directed) | https://judge.yosupo.jp/problem/counting_spanning_trees_directed | |
+| 35 | Counting Spanning Trees (Undirected) | https://judge.yosupo.jp/problem/counting_spanning_tree_undirected | |
+| 36 | Counting Spanning Trees (Directed) | https://judge.yosupo.jp/problem/counting_spanning_tree_directed | |
 
 ---
 
@@ -117,7 +117,7 @@
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
 | 1 | Tree Diameter | https://judge.yosupo.jp/problem/tree_diameter | |
-| 2 | Lowest Common Ancestor | https://judge.yosupo.jp/problem/lowest_common_ancestor | |
+| 2 | Lowest Common Ancestor | https://judge.yosupo.jp/problem/lca | |
 | 3 | Jump on Tree | https://judge.yosupo.jp/problem/jump_on_tree | |
 | 4 | Frequency Table of Tree Distance | https://judge.yosupo.jp/problem/frequency_table_of_tree_distance | |
 | 5 | Rooted Tree Isomorphism Classification | https://judge.yosupo.jp/problem/rooted_tree_isomorphism_classification | |
