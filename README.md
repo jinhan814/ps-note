@@ -14,6 +14,9 @@
 - [**TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
+**Library Checker**
+- [**Library Checker**](./library-checker/README.md): https://judge.yosupo.jp/
+
 **AtCoder**
 - [**ABC454**](./atcoder/abc454/README.md): [Atcoder Beginner Contest 454](https://atcoder.jp/contests/abc454)
 - [**ABC455**](./atcoder/abc455/README.md): [Atcoder Beginner Contest 455](https://atcoder.jp/contests/abc455)
@@ -35,6 +38,11 @@
 | [**NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
 | [**TDPC**](./general/atcoder-tdpc/README.md) | 2 / 20 (10.00%) | 2026-05-08 |
 | [**FPS24**](./general/atcoder-fps24/README.md) | 3 / 24 (12.50%) | 2026-05-12 |
+
+**Library Checker**
+| Category | Progress | Last Update |
+| :--- | :---: | :---: |
+| [**Library Checker**](./library-checker/README.md) | 0 / ? (0.00%) | 2026-05-15 |
 
 **AtCoder**
 | Category | Progress | Last Update |
