@@ -14,6 +14,12 @@
 - [**TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
+**AtCoder**
+- [**ABC454**](./atcoder/abc454/README.md): [Atcoder Beginner Contest 454](https://atcoder.jp/contests/abc454)
+- [**ABC455**](./atcoder/abc455/README.md): [Atcoder Beginner Contest 455](https://atcoder.jp/contests/abc455)
+- [**ABC456**](./atcoder/abc456/README.md): [Atcoder Beginner Contest 456](https://atcoder.jp/contests/abc456)
+- [**ABC457**](./atcoder/abc457/README.md): [Atcoder Beginner Contest 457](https://atcoder.jp/contests/abc457)
+
 **Library Checker**
 - [**Sample**](./library-checker/sample/README.md): Library Checker > Sample
 - [**Data Structure**](./library-checker/data-structure/README.md): Library Checker > Data Structure
@@ -30,12 +36,6 @@
 - [**Big Integer**](./library-checker/big-integer/README.md): Library Checker > Big Integer
 - [**Other**](./library-checker/other/README.md): Library Checker > Other
 
-**AtCoder**
-- [**ABC454**](./atcoder/abc454/README.md): [Atcoder Beginner Contest 454](https://atcoder.jp/contests/abc454)
-- [**ABC455**](./atcoder/abc455/README.md): [Atcoder Beginner Contest 455](https://atcoder.jp/contests/abc455)
-- [**ABC456**](./atcoder/abc456/README.md): [Atcoder Beginner Contest 456](https://atcoder.jp/contests/abc456)
-- [**ABC457**](./atcoder/abc457/README.md): [Atcoder Beginner Contest 457](https://atcoder.jp/contests/abc457)
-
 ---
 
 ## 📊 Overall Progress
@@ -51,6 +51,14 @@
 | [**NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
 | [**TDPC**](./general/atcoder-tdpc/README.md) | 2 / 20 (10.00%) | 2026-05-08 |
 | [**FPS24**](./general/atcoder-fps24/README.md) | 3 / 24 (12.50%) | 2026-05-12 |
+
+**AtCoder**
+| Category | Progress | Last Update |
+| :--- | :---: | :---: |
+| [**ABC454**](./atcoder/abc454/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
+| [**ABC455**](./atcoder/abc455/README.md) | 6 / 7 (85.71%)| 2026-05-14 |
+| [**ABC456**](./atcoder/abc456/README.md) | 6 / 7 (85.71%) | 2026-05-14 |
+| [**ABC457**](./atcoder/abc457/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
 
 **Library Checker**
 | Category | Progress | Last Update |
@@ -69,14 +77,6 @@
 | [**Geometry**](./library-checker/geometry/README.md) | 0 / 8 (0.00%) | 2026-05-15 |
 | [**Big Integer**](./library-checker/big-integer/README.md) | 0 / 6 (0.00%) | 2026-05-15 |
 | [**Other**](./library-checker/other/README.md) | 0 / 7 (0.00%) | 2026-05-15 |
-
-**AtCoder**
-| Category | Progress | Last Update |
-| :--- | :---: | :---: |
-| [**ABC454**](./atcoder/abc454/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
-| [**ABC455**](./atcoder/abc455/README.md) | 6 / 7 (85.71%)| 2026-05-14 |
-| [**ABC456**](./atcoder/abc456/README.md) | 6 / 7 (85.71%) | 2026-05-14 |
-| [**ABC457**](./atcoder/abc457/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
 
 ---
 
