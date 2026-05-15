@@ -15,7 +15,7 @@
 | :---: | :--- | :--- | :---: |
 | 1 | A + B | https://judge.yosupo.jp/problem/aplusb | |
 | 2 | Many A + B | https://judge.yosupo.jp/problem/many_aplusb | |
-| 3 | Many A + B (128 bit) | https://judge.yosupo.jp/problem/many_aplusb_128_bit | |
+| 3 | Many A + B (128 bit) | https://judge.yosupo.jp/problem/many_aplusb_128bit | |
 
 ---
 
@@ -32,7 +32,7 @@
 | 7 | Unionfind with Potential (Non-Commutative Group) | https://judge.yosupo.jp/problem/unionfind_with_potential_non_commutative_group | |
 | 8 | Range Parallel Unionfind | https://judge.yosupo.jp/problem/range_parallel_unionfind | |
 | 9 | Static Range Sum | https://judge.yosupo.jp/problem/static_range_sum | |
-| 10 | Static RMQ | https://judge.yosupo.jp/problem/static_rmq | |
+| 10 | Static RMQ | https://judge.yosupo.jp/problem/staticrmq | |
 | 11 | Point Add Range Sum | https://judge.yosupo.jp/problem/point_add_range_sum | |
 | 12 | Point Set Range Composite | https://judge.yosupo.jp/problem/point_set_range_composite | |
 | 13 | Point Set Range Composite (Large Array) | https://judge.yosupo.jp/problem/point_set_range_composite_large_array | |
@@ -62,7 +62,7 @@
 | 37 | Point Add Rectangle Sum | https://judge.yosupo.jp/problem/point_add_rectangle_sum | |
 | 38 | Rectangle Add Point Get | https://judge.yosupo.jp/problem/rectangle_add_point_get | |
 | 39 | Static Rectangle Add Rectangle Sum | https://judge.yosupo.jp/problem/static_rectangle_add_rectangle_sum | |
-| 40 | Dynamic Point Rectangle Affine Rectangle Sum | https://judge.yosupo.jp/problem/dynamic_point_rectangle_affine_rectangle_sum | |
+| 40 | Dynamic Point Rectangle Affine Rectangle Sum | https://judge.yosupo.jp/problem/dynamic_point_set_rectangle_affine_rectangle_sum | |
 | 41 | Area of Union of Rectangles | https://judge.yosupo.jp/problem/area_of_union_of_rectangles | |
 | 42 | Persistent Queue | https://judge.yosupo.jp/problem/persistent_queue | |
 | 43 | Persistent Unionfind | https://judge.yosupo.jp/problem/persistent_unionfind | |
