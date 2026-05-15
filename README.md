@@ -66,7 +66,7 @@
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
 | [**Sample**](./library-checker/sample/README.md) | 3 / 3 (100.00%) | 2026-05-15 |
-| [**Data Structure**](./library-checker/data-structure/README.md) | 2 / 43 (4.65%) | 2026-05-15 |
+| [**Data Structure**](./library-checker/data-structure/README.md) | 7 / 43 (16.28%) | 2026-05-15 |
 | [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
 | [**Tree**](./library-checker/tree/README.md) | 2 / 20 (10.00%) | 2026-05-15 |
 | [**Convolution**](./library-checker/convolution/README.md) | 0 / 15 (0.00%) | 2026-05-15 |
