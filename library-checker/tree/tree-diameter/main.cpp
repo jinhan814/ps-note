@@ -36,8 +36,8 @@ int main() {
 		adj[a].push_back(pair(b, c));
 		adj[b].push_back(pair(a, c));
 	}
-	auto [res, buc] = sol(n, adj);
-	cout << res << ' ' << buc.size() << '\n';
-	for (int x : buc) cout << x << ' ';
+	auto [opt, res] = sol(n, adj);
+	cout << opt << ' ' << res.size() << '\n';
+	for (int x : res) cout << x << ' ';
 	cout << '\n';
 }
