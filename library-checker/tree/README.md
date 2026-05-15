@@ -12,7 +12,7 @@
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
 | 1 | Tree Diameter | https://judge.yosupo.jp/problem/tree_diameter | [source code](./tree-diameter/main.cpp) |
-| 2 | Lowest Common Ancestor | https://judge.yosupo.jp/problem/lca | |
+| 2 | Lowest Common Ancestor | https://judge.yosupo.jp/problem/lca | [source code](./lca/main.cpp) |
 | 3 | Jump on Tree | https://judge.yosupo.jp/problem/jump_on_tree | |
 | 4 | Frequency Table of Tree Distance | https://judge.yosupo.jp/problem/frequency_table_of_tree_distance | |
 | 5 | Rooted Tree Isomorphism Classification | https://judge.yosupo.jp/problem/rooted_tree_isomorphism_classification | |
