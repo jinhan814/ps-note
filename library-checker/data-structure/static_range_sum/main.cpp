@@ -3,34 +3,16 @@ using namespace std;
 
 using i64 = long long;
 
-struct fenwick {
-	fenwick(int n) : sz(n), tree(n + 1) {}
-	void update(int i, i64 x) {
-		for (; i <= sz; i += i & -i) tree[i] += x;
-	}
-	i64 query(int i) const {
-		i64 ret = 0;
-		for (; i; i -= i & -i) ret += tree[i];
-		return ret;
-	}
-	i64 query(int l, int r) const {
-		return query(r) - query(l - 1);
-	}
-private:
-	int sz;
-	vector<i64> tree;
-};
-
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
 	int n, q; cin >> n >> q;
-	fenwick tree(n);
+	vector p(n + 1, i64(0));
 	for (int i = 1; i <= n; i++) {
 		int x; cin >> x;
-		tree.update(i, x);
+		p[i] = p[i - 1] + x;
 	}
 	while (q--) {
 		int l, r; cin >> l >> r;
-		cout << tree.query(l + 1, r) << '\n';
+		cout << p[r] - p[l] << '\n';
 	}
 }
