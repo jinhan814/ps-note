@@ -11,7 +11,7 @@
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
-| 1 | Associative Array | https://judge.yosupo.jp/problem/associative_array | |
+| 1 | Associative Array | https://judge.yosupo.jp/problem/associative_array | [source code](./associative_array/main.cpp) |
 | 2 | Predecessor Problem | https://judge.yosupo.jp/problem/predecessor_problem | |
 | 3 | Ordered Set | https://judge.yosupo.jp/problem/ordered_set | |
 | 4 | Double-Ended Priority Queue | https://judge.yosupo.jp/problem/double_ended_priority_queue | |
