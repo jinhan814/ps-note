@@ -15,8 +15,8 @@
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
 **Library Checker**
-- [**Library Checker**](./library-checker/README.md): https://judge.yosupo.jp/
 - [**Sample**](./library-checker/sample/README.md): Library Checker > Sample
+- [**Data Structure**](./library-checker/data-structure/README.md): Library Checker > Data Structure
 
 **AtCoder**
 - [**ABC454**](./atcoder/abc454/README.md): [Atcoder Beginner Contest 454](https://atcoder.jp/contests/abc454)
@@ -43,7 +43,8 @@
 **Library Checker**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
-| [**Library Checker**](./library-checker/README.md) | 0 / ? (0.00%) | 2026-05-15 |
+| [**Sample**](./library-checker/sample/README.md) | 0 / 3 (0.00%) | 2026-05-15 |
+| [**Data Structure**](./library-checker/data-structure/README.md) | 0 / 43 (0.00%) | 2026-05-15 |
 
 **AtCoder**
 | Category | Progress | Last Update |
