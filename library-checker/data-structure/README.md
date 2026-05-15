@@ -14,7 +14,7 @@
 | 1 | Associative Array | https://judge.yosupo.jp/problem/associative_array | [source code](./associative_array/main.cpp) |
 | 2 | Predecessor Problem | https://judge.yosupo.jp/problem/predecessor_problem | [source code](./predecessor_problem/main.cpp) |
 | 3 | Ordered Set | https://judge.yosupo.jp/problem/ordered_set | [source code](./ordered_set/main.cpp) |
-| 4 | Double-Ended Priority Queue | https://judge.yosupo.jp/problem/double_ended_priority_queue | |
+| 4 | Double-Ended Priority Queue | https://judge.yosupo.jp/problem/double_ended_priority_queue | [source code](./double_ended_priority_queue/main.cpp) |
 | 5 | Unionfind | https://judge.yosupo.jp/problem/unionfind | [source code](./unionfind/main.cpp) |
 | 6 | Unionfind with Potential | https://judge.yosupo.jp/problem/unionfind_with_potential | |
 | 7 | Unionfind with Potential (Non-Commutative Group) | https://judge.yosupo.jp/problem/unionfind_with_potential_non_commutative_group | |
