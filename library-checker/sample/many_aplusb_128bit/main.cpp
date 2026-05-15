@@ -3,7 +3,7 @@ using namespace std;
 
 using i128 = __int128_t;
 
-istream& operator>>(istream& in, i128 n) {
+istream& operator>>(istream& in, i128& n) {
 	string s; in >> s;
 	n = 0;
 	for (char c : s) {
