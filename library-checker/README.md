@@ -264,12 +264,12 @@
 | 1 | Matrix Product | https://judge.yosupo.jp/problem/matrix_product | |
 | 2 | Matrix Product (Mod 2) | https://judge.yosupo.jp/problem/matrix_product_mod_2 | |
 | 3 | Pow of Matrix | https://judge.yosupo.jp/problem/pow_of_matrix | |
-| 4 | Determinant of Matrix | https://judge.yosupo.jp/problem/determinant_of_matrix | |
-| 5 | Determinant of Matrix (Arbitrary Mod) | https://judge.yosupo.jp/problem/determinant_of_matrix_arbitrary_mod | |
-| 6 | Determinant of Matrix (Mod 2) | https://judge.yosupo.jp/problem/determinant_of_matrix_mod_2 | |
-| 7 | Determinant of Sparse Matrix | https://judge.yosupo.jp/problem/determinant_of_sparse_matrix | |
-| 8 | Rank of Matrix | https://judge.yosupo.jp/problem/rank_of_matrix | |
-| 9 | Rank of Matrix (Mod 2) | https://judge.yosupo.jp/problem/rank_of_matrix_mod_2 | |
+| 4 | Determinant of Matrix | https://judge.yosupo.jp/problem/matrix_det | |
+| 5 | Determinant of Matrix (Arbitrary Mod) | https://judge.yosupo.jp/problem/matrix_det_arbitrary_mod | |
+| 6 | Determinant of Matrix (Mod 2) | https://judge.yosupo.jp/problem/matrix_det_mod_2 | |
+| 7 | Determinant of Sparse Matrix | https://judge.yosupo.jp/problem/sparse_matrix_det | |
+| 8 | Rank of Matrix | https://judge.yosupo.jp/problem/matrix_rank | |
+| 9 | Rank of Matrix (Mod 2) | https://judge.yosupo.jp/problem/matrix_rank_mod_2 | |
 | 10 | System of Linear Equations | https://judge.yosupo.jp/problem/system_of_linear_equations | |
 | 11 | System of Linear Equations (Mod 2) | https://judge.yosupo.jp/problem/system_of_linear_equations_mod_2 | |
 | 12 | Inverse Matrix | https://judge.yosupo.jp/problem/inverse_matrix | |
@@ -277,7 +277,7 @@
 | 14 | Adjugate Matrix | https://judge.yosupo.jp/problem/adjugate_matrix | |
 | 15 | Characteristic Polynomial | https://judge.yosupo.jp/problem/characteristic_polynomial | |
 | 16 | Hafnian of Matrix | https://judge.yosupo.jp/problem/hafnian_of_matrix | |
-| 17 | Intersection of F_2 vector spaces | https://judge.yosupo.jp/problem/intersection_of_f_2_vector_spaces | |
+| 17 | Intersection of F_2 vector spaces | https://judge.yosupo.jp/problem/intersection_of_f2_vector_spaces | |
 
 ---
 
@@ -285,11 +285,11 @@
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
-| 1 | Z Algorithm | https://judge.yosupo.jp/problem/z_algorithm | |
+| 1 | Z Algorithm | https://judge.yosupo.jp/problem/zalgorithm | |
 | 2 | Enumerate Palindromes | https://judge.yosupo.jp/problem/enumerate_palindromes | |
-| 3 | Suffix Array | https://judge.yosupo.jp/problem/suffix_array | |
+| 3 | Suffix Array | https://judge.yosupo.jp/problem/suffixarray | |
 | 4 | Number of Substrings | https://judge.yosupo.jp/problem/number_of_substrings | |
-| 5 | Run Enumerate | https://judge.yosupo.jp/problem/run_enumerate | |
+| 5 | Run Enumerate | https://judge.yosupo.jp/problem/runenumerate | |
 | 6 | Prefix-Substring LCS | https://judge.yosupo.jp/problem/prefix_substring_lcs | |
 | 7 | Lyndon Factorization | https://judge.yosupo.jp/problem/lyndon_factorization | |
 | 8 | Longest Common Substring | https://judge.yosupo.jp/problem/longest_common_substring | |
