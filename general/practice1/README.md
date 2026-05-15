@@ -62,7 +62,7 @@
 | 49 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 별 모으기 | https://qoj.ac/contest/1173/problem/5885 | [source code](./kingdom-rush/main.cpp) |
 | 50 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Popeala | https://qoj.ac/problem/5535 | [source code](./popeala/main.cpp) |
 | 51 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Skinny Polygon | https://qoj.ac/problem/181 | |
-| 52 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Windy Path | https://codeforces.com/gym/101201 | |
+| 52 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Windy Path | https://codeforces.com/gym/101201 | [source code](./windy-path/main.cpp) |
 | 53 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조개 줍기 | https://jungol.co.kr/problem/3081 | [source code](./shell-collecting/main.cpp) |
 | 54 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 森林伐採 (Deforestation) | https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_e | [source code](./deforestation/main.cpp) |
 | 55 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dango Maker | https://qoj.ac/problem/3125 | [source code](./dango-maker/main.cpp) |
