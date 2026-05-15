@@ -143,21 +143,21 @@
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
-| 1 | Convolution | https://judge.yosupo.jp/problem/convolution | |
+| 1 | Convolution | https://judge.yosupo.jp/problem/convolution_mod | |
 | 2 | Convolution (Mod 1,000,000,007) | https://judge.yosupo.jp/problem/convolution_mod_1000000007 | |
-| 3 | Convolution (Mod 2^64) | https://judge.yosupo.jp/problem/convolution_mod_264 | |
-| 4 | Convolution (Large) | https://judge.yosupo.jp/problem/convolution_large | |
+| 3 | Convolution (Mod 2^64) | https://judge.yosupo.jp/problem/convolution_mod_2_64 | |
+| 4 | Convolution (Large) | https://judge.yosupo.jp/problem/convolution_mod_large | |
 | 5 | Bitwise And Convolution | https://judge.yosupo.jp/problem/bitwise_and_convolution | |
 | 6 | Bitwise Xor Convolution | https://judge.yosupo.jp/problem/bitwise_xor_convolution | |
 | 7 | Gcd Convolution | https://judge.yosupo.jp/problem/gcd_convolution | |
 | 8 | Lcm Convolution | https://judge.yosupo.jp/problem/lcm_convolution | |
-| 9 | Multidimensional Convolution (Truncated) | https://judge.yosupo.jp/problem/multidimensional_convolution_truncated | |
-| 10 | Multidimensional Convolution (Circular) | https://judge.yosupo.jp/problem/multidimensional_convolution_circular | |
-| 11 | Convolution on the Multiplicative Monoid of Z/PZ | https://judge.yosupo.jp/problem/convolution_on_the_multiplicative_monoid_of_zpz | |
-| 12 | Convolution on the Multiplicative Monoid of Z/2^N Z | https://judge.yosupo.jp/problem/convolution_on_the_multiplicative_monoid_of_z2n_z | |
-| 13 | Min Plus Convolution (Convex and Arbitrary) | https://judge.yosupo.jp/problem/min_plus_convolution_convex_and_arbitrary | |
-| 14 | Min Plus Convolution (Convex and Convex) | https://judge.yosupo.jp/problem/min_plus_convolution_convex_and_convex | |
-| 15 | Min Plus Convolution (Concave and Arbitrary) | https://judge.yosupo.jp/problem/min_plus_convolution_concave_and_arbitrary | |
+| 9 | Multidimensional Convolution (Truncated) | https://judge.yosupo.jp/problem/multivariate_convolution | |
+| 10 | Multidimensional Convolution (Circular) | https://judge.yosupo.jp/problem/multivariate_convolution_cyclic | |
+| 11 | Convolution on the Multiplicative Monoid of Z/PZ | https://judge.yosupo.jp/problem/mul_modp_convolution | |
+| 12 | Convolution on the Multiplicative Monoid of Z/2^N Z | https://judge.yosupo.jp/problem/mul_mod2n_convolution | |
+| 13 | Min Plus Convolution (Convex and Arbitrary) | https://judge.yosupo.jp/problem/min_plus_convolution_convex_arbitrary | |
+| 14 | Min Plus Convolution (Convex and Convex) | https://judge.yosupo.jp/problem/min_plus_convolution_convex_convex | |
+| 15 | Min Plus Convolution (Concave and Arbitrary) | https://judge.yosupo.jp/problem/min_plus_convolution_concave_arbitrary | |
 
 ---
 
@@ -174,10 +174,10 @@
 | 7 | Sum of Floor of Linear | https://judge.yosupo.jp/problem/sum_of_floor_of_linear | |
 | 8 | Min of Mod of Linear | https://judge.yosupo.jp/problem/min_of_mod_of_linear | |
 | 9 | Rational Approximation | https://judge.yosupo.jp/problem/rational_approximation | |
-| 10 | Stern–Brocot Tree | https://judge.yosupo.jp/problem/sternbrocot_tree | |
-| 11 | Counting Square-free Integers | https://judge.yosupo.jp/problem/counting_square_free_integers | |
+| 10 | Stern–Brocot Tree | https://judge.yosupo.jp/problem/stern_brocot_tree | |
+| 11 | Counting Square-free Integers | https://judge.yosupo.jp/problem/counting_squarefrees | |
 | 12 | Sum of Totient Function | https://judge.yosupo.jp/problem/sum_of_totient_function | |
-| 13 | Sum of Multiplicative Function(Large) | https://judge.yosupo.jp/problem/sum_of_multiplicative_functionlarge | |
+| 13 | Sum of Multiplicative Function(Large) | https://judge.yosupo.jp/problem/sum_of_multiplicative_function_large | |
 | 14 | Bernoulli Number | https://judge.yosupo.jp/problem/bernoulli_number | |
 | 15 | Sqrt Mod | https://judge.yosupo.jp/problem/sqrt_mod | |
 | 16 | Kth Root (Mod) | https://judge.yosupo.jp/problem/kth_root_mod | |
