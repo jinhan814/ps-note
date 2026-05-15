@@ -208,15 +208,15 @@
 | 12 | Sqrt of Formal Power Series (Sparse) | https://judge.yosupo.jp/problem/sqrt_of_formal_power_series_sparse | |
 | 13 | Product of Polynomial Sequence | https://judge.yosupo.jp/problem/product_of_polynomial_sequence | |
 | 14 | Multipoint Evaluation | https://judge.yosupo.jp/problem/multipoint_evaluation | |
-| 15 | Multipoint Evaluation (Geometric Sequence) | https://judge.yosupo.jp/problem/multipoint_evaluation_geometric_sequence | |
+| 15 | Multipoint Evaluation (Geometric Sequence) | https://judge.yosupo.jp/problem/multipoint_evaluation_on_geometric_sequence | |
 | 16 | Polynomial Interpolation | https://judge.yosupo.jp/problem/polynomial_interpolation | |
-| 17 | Polynomial Interpolation (Geometric Sequence) | https://judge.yosupo.jp/problem/polynomial_interpolation_geometric_sequence | |
+| 17 | Polynomial Interpolation (Geometric Sequence) | https://judge.yosupo.jp/problem/polynomial_interpolation_on_geometric_sequence | |
 | 18 | Polynomial Taylor Shift | https://judge.yosupo.jp/problem/polynomial_taylor_shift | |
 | 19 | Shift of Sampling Points of Polynomial | https://judge.yosupo.jp/problem/shift_of_sampling_points_of_polynomial | |
 | 20 | Division of Polynomials | https://judge.yosupo.jp/problem/division_of_polynomials | |
 | 21 | Inv of Polynomials | https://judge.yosupo.jp/problem/inv_of_polynomials | |
 | 22 | Conversion from Monomial Basis to Newton Basis | https://judge.yosupo.jp/problem/conversion_from_monomial_basis_to_newton_basis | |
-| 23 | Polynomial Root Finding (Mod 998244353) | https://judge.yosupo.jp/problem/polynomial_root_finding_mod_998244353 | |
+| 23 | Polynomial Root Finding (Mod 998244353) | https://judge.yosupo.jp/problem/polynomial_root_finding | |
 | 24 | Composition of Formal Power Series (Large) | https://judge.yosupo.jp/problem/composition_of_formal_power_series_large | |
 | 25 | Compositional Inverse of Formal Power Series (Large) | https://judge.yosupo.jp/problem/compositional_inverse_of_formal_power_series_large | |
 
@@ -239,7 +239,7 @@
 | :---: | :--- | :--- | :---: |
 | 1 | Factorial | https://judge.yosupo.jp/problem/factorial | |
 | 2 | Many Factorials | https://judge.yosupo.jp/problem/many_factorials | |
-| 3 | Montmort Number | https://judge.yosupo.jp/problem/montmort_number | |
+| 3 | Montmort Number | https://judge.yosupo.jp/problem/montmort_number_mod | |
 | 4 | Bell Number | https://judge.yosupo.jp/problem/bell_number | |
 | 5 | Binomial Coefficient | https://judge.yosupo.jp/problem/binomial_coefficient | |
 | 6 | Binomial Coefficient (Prime Mod) | https://judge.yosupo.jp/problem/binomial_coefficient_prime_mod | |
@@ -251,7 +251,7 @@
 | 12 | Stirling Number of the Second Kind (Fixed K) | https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind_fixed_k | |
 | 13 | Stirling Number of the First Kind (Small p, Large n) | https://judge.yosupo.jp/problem/stirling_number_of_the_first_kind_small_p_large_n | |
 | 14 | Stirling Number of the Second Kind (Small p, Large n) | https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind_small_p_large_n | |
-| 15 | #p Subset Sum | https://judge.yosupo.jp/problem/p_subset_sum | |
+| 15 | #p Subset Sum | https://judge.yosupo.jp/problem/sharp_p_subset_sum | |
 | 16 | Number of Subsequences | https://judge.yosupo.jp/problem/number_of_subsequences | |
 | 17 | Number of Increasing Sequences Between Two Sequences | https://judge.yosupo.jp/problem/number_of_increasing_sequences_between_two_sequences | |
 
