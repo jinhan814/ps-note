@@ -16,7 +16,7 @@
 | 3 | Ordered Set | https://judge.yosupo.jp/problem/ordered_set | [source code](./ordered_set/main.cpp) |
 | 4 | Double-Ended Priority Queue | https://judge.yosupo.jp/problem/double_ended_priority_queue | [source code](./double_ended_priority_queue/main.cpp) |
 | 5 | Unionfind | https://judge.yosupo.jp/problem/unionfind | [source code](./unionfind/main.cpp) |
-| 6 | Unionfind with Potential | https://judge.yosupo.jp/problem/unionfind_with_potential | |
+| 6 | Unionfind with Potential | https://judge.yosupo.jp/problem/unionfind_with_potential | [source code](./unionfind_with_potential/main.cpp) |
 | 7 | Unionfind with Potential (Non-Commutative Group) | https://judge.yosupo.jp/problem/unionfind_with_potential_non_commutative_group | |
 | 8 | Range Parallel Unionfind | https://judge.yosupo.jp/problem/range_parallel_unionfind | |
 | 9 | Static Range Sum | https://judge.yosupo.jp/problem/static_range_sum | [source code](./static_range_sum/main.cpp) |
