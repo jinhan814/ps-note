@@ -10,7 +10,7 @@ constexpr int add(int a, int b) {
 }
 
 constexpr int mul(int a, int b) {
-	return i64(a) * b % mod; 
+	return i64(a) * b % mod;
 }
 
 auto matmul = [](auto a, auto b) {
