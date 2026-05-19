@@ -22,9 +22,9 @@ private:
 };
 
 auto get_hld = [](auto adj) {
-	const int n = adj.size() - 1;
-	vector sz(n + 1, 1), dep(n + 1, 0), par(n + 1, 0);
-	vector in(n + 1, 0), out(n + 1, 0), top(n + 1, 0);
+	const int n = adj.size();
+	vector sz(n, 1), dep(n, 0), par(n, 0);
+	vector in(n, 0), out(n, 0), top(n, 0);
 	int ord = 0;
 	auto dfs1 = [&](const auto& self, int cur) -> void {
 		for (int& nxt : adj[cur]) {
@@ -44,8 +44,8 @@ auto get_hld = [](auto adj) {
 		}
 		out[cur] = ord;
 	};
-	dfs1(dfs1, 1);
-	dfs2(dfs2, top[1] = 1);
+	dfs1(dfs1, 0);
+	dfs2(dfs2, 0);
 	return tuple(dep, par, in, top);
 };
 
