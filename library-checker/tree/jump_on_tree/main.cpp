@@ -54,7 +54,7 @@ auto sol = [](int n, int q, auto adj, auto qs) {
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
 	int n, q; cin >> n >> q;
-	vector adj(n + 1, vector(0, 0));
+	vector adj(n, vector(0, 0));
 	vector qs(q, array{ 0, 0, 0 });
 	for (int i = 1; i < n; i++) {
 		int a, b; cin >> a >> b;
