@@ -22,11 +22,11 @@ private:
 };
 
 auto get_hld = [](auto adj) {
-	const int n = adj.size();
+	int n = adj.size();
 	vector sz(n, 1), dep(n, 0), par(n, 0);
 	vector in(n, 0), out(n, 0), top(n, 0);
 	int ord = 0;
-	auto dfs1 = [&](const auto& self, int cur) -> void {
+	auto dfs1 = [&](auto& self, int cur) -> void {
 		for (int& nxt : adj[cur]) {
 			adj[nxt].erase(find(adj[nxt].begin(), adj[nxt].end(), cur));
 			dep[nxt] = dep[cur] + 1;
@@ -36,7 +36,7 @@ auto get_hld = [](auto adj) {
 			if (sz[adj[cur][0]] < sz[nxt]) swap(adj[cur][0], nxt);
 		}
 	};
-	auto dfs2 = [&](const auto& self, int cur) -> void {
+	auto dfs2 = [&](auto& self, int cur) -> void {
 		in[cur] = ++ord;
 		for (int nxt : adj[cur]) {
 			top[nxt] = adj[cur][0] == nxt ? top[cur] : nxt;
