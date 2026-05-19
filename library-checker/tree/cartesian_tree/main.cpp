@@ -10,8 +10,8 @@ auto sol = [](int n, auto v) {
 			p = s.back();
 			s.pop_back();
 		}
-		if (s.size()) ret[i] = s.back();
 		if (p != -1) ret[p] = i;
+		if (s.size()) ret[i] = s.back();
 		s.push_back(i);
 	}
 	for (int i = 0; i < n; i++) {
