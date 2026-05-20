@@ -6,9 +6,9 @@
 
 **General**
 - [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590)
-- [**Class 8**](./general/class8/README.md): solved.ac Class 8
-- [**Class 9**](./general/class9/README.md): solved.ac Class 9
-- [**Class 10**](./general/class10/README.md): solved.ac Class 10
+- [**Class 8**](./general/class8/README.md): [solved.ac Class 8](https://solved.ac/class?class=8)
+- [**Class 9**](./general/class9/README.md): [solved.ac Class 9](https://solved.ac/class?class=9)
+- [**Class 10**](./general/class10/README.md): [solved.ac Class 10](https://solved.ac/class?class=10)
 - [**EDPC**](./general/atcoder-edpc/README.md): [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
 - [**NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
 - [**TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
