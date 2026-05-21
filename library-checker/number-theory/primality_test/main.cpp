@@ -24,7 +24,7 @@ auto is_prime = [](i64 n) {
 	for (i64 a : { 2, 325, 9375, 28178, 450775, 9780504, 1795265022 }) {
 		i64 p = modpow(a % n, d, n);
 		if (p <= 1) continue;
-		for (int i = 0; i < k; i++) {
+		for (int i = 0; i < k - 1; i++) {
 			if (p == n - 1) break;
 			p = modmul(p, p, n);
 		}
