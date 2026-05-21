@@ -21,7 +21,7 @@ i64 modpow(i64 x, i64 n, i64 mod) {
 	return res;
 }
 
-bool is_prime(i64 n) {
+auto is_prime = [](i64 n) {
 	if (n < 2 || n % 2 == 0 || n % 3 == 0) return n == 2 || n == 3;
 	i64 k = __builtin_ctzll(n - 1), d = (n - 1) >> k;
 	for (i64 a : { 2, 325, 9375, 28178, 450775, 9780504, 1795265022 }) {
@@ -30,7 +30,7 @@ bool is_prime(i64 n) {
 		if (p != n - 1 && i != k) return false;
 	}
 	return true;
-}
+};
 
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
