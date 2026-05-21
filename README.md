@@ -72,7 +72,7 @@
 | [**Graph**](./library-checker/graph/README.md) | 0 / 36 (0.00%) | 2026-05-15 |
 | [**Tree**](./library-checker/tree/README.md) | 9 / 20 (45.00%) | 2026-05-19 |
 | [**Convolution**](./library-checker/convolution/README.md) | 0 / 15 (0.00%) | 2026-05-15 |
-| [**Number Theory**](./library-checker/number-theory/README.md) | 0 / 22 (0.00%) | 2026-05-15 |
+| [**Number Theory**](./library-checker/number-theory/README.md) | 3 / 22 (13.64%) | 2026-05-22 |
 | [**Polynomial**](./library-checker/polynomial/README.md) | 0 / 25 (0.00%) | 2026-05-15 |
 | [**Set Power Series**](./library-checker/set-power-series/README.md) | 0 / 4 (0.00%) | 2026-05-15 |
 | [**Enumerative Combinatorics**](./library-checker/enumerative-combinatorics/README.md) | 0 / 17 (0.00%) | 2026-05-15 |
