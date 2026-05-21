@@ -11,7 +11,7 @@
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
-| 1 | Enumerate Quotients | https://judge.yosupo.jp/problem/enumerate_quotients | |
+| 1 | Enumerate Quotients | https://judge.yosupo.jp/problem/enumerate_quotients | [source code](./enumerate_quotients/main.cpp) |
 | 2 | Primality Test | https://judge.yosupo.jp/problem/primality_test | |
 | 3 | Counting Primes | https://judge.yosupo.jp/problem/counting_primes | |
 | 4 | Enumerate Primes | https://judge.yosupo.jp/problem/enumerate_primes | |
