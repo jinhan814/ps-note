@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 3 / 20 (15.00%)
+- **진행도:** 6 / 20 (30.00%)
 - **마지막 업데이트:** 2026-05-21
 
 ---
@@ -16,7 +16,7 @@
 | 3 | <img src="../../_assets/blue_0_4.svg" width="16px"> 1625 | トーナメント | https://atcoder.jp/contests/tdpc/tasks/tdpc_tournament | [source code](./c/main.cpp) |
 | 4 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1955 | サイコロ | https://atcoder.jp/contests/tdpc/tasks/tdpc_dice | [source code](./d/main.cpp) |
 | 5 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1943 | 数 | https://atcoder.jp/contests/tdpc/tasks/tdpc_number | [source code](./e/main.cpp) |
-| 6 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2207 | 準急 | https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp | |
+| 6 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2207 | 準急 | https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp | [source code](./f/main.cpp) |
 | 7 | <img src="../../_assets/orange_4_4.svg" width="16px"> 2723 | 辞書順 | https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical | |
 | 8 | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2334 | ナップザック | https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack | |
 | 9 | <img src="../../_assets/orange_1_4.svg" width="16px"> 2504 | イウィ | https://atcoder.jp/contests/tdpc/tasks/tdpc_iwi | |
