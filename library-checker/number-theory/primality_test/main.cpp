@@ -4,22 +4,22 @@ using namespace std;
 using i128 = __int128;
 using i64 = long long;
 
-i64 modadd(i64 a, i64 b, i64 mod) {
+auto modadd = [](i64 a, i64 b, i64 mod) {
 	return a + b < mod ? a + b : a + b - mod;
-}
+};
 
-i64 modmul(i64 a, i64 b, i64 mod) {
+auto modmul = [](i64 a, i64 b, i64 mod) {
 	return i128(a) * b % mod;
-}
+};
 
-i64 modpow(i64 x, i64 n, i64 mod) {
+auto modpow = [](i64 x, i64 n, i64 mod) {
 	i64 res = 1;
 	for (; n; n >>= 1) {
 		if (n & 1) res = modmul(res, x, mod);
 		x = modmul(x, x, mod);
 	}
 	return res;
-}
+};
 
 auto is_prime = [](i64 n) {
 	if (n < 2 || n % 2 == 0 || n % 3 == 0) return n == 2 || n == 3;
