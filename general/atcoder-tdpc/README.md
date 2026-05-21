@@ -13,7 +13,7 @@
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | <img src="../../_assets/brown_1_4.svg" width="16px"> 531 | コンテスト | https://atcoder.jp/contests/tdpc/tasks/tdpc_contest | [source code](./a/main.cpp) |
 | 2 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1595 | ゲーム | https://atcoder.jp/contests/tdpc/tasks/tdpc_game | [source code](./b/main.cpp) |
-| 3 | <img src="../../_assets/blue_0_4.svg" width="16px"> 1625 | トーナメント | https://atcoder.jp/contests/tdpc/tasks/tdpc_tournament | |
+| 3 | <img src="../../_assets/blue_0_4.svg" width="16px"> 1625 | トーナメント | https://atcoder.jp/contests/tdpc/tasks/tdpc_tournament | [source code](./c/main.cpp) |
 | 4 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1955 | サイコロ | https://atcoder.jp/contests/tdpc/tasks/tdpc_dice | |
 | 5 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1943 | 数 | https://atcoder.jp/contests/tdpc/tasks/tdpc_number | |
 | 6 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2207 | 準急 | https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp | |
