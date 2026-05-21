@@ -33,7 +33,7 @@ auto is_prime = [](i64 n) {
 };
 
 auto pollard = [](i64 n) {
-	auto f = [n](i64 x) { return modadd(modmul(x, x, n), 3, n); };
+	auto f = [&](i64 x) { return modadd(modmul(x, x, n), 3, n); };
 	i64 x = 0, y = 0, t = 30, p = 2, i = 1, q;
 	while (t++ % 40 || gcd(p, n) == 1) {
 		if (x == y) x = ++i, y = f(x);
