@@ -23,11 +23,16 @@ auto modpow = [](i64 x, i64 n, i64 mod) {
 
 auto is_prime = [](i64 n) {
 	if (n < 2 || n % 2 == 0 || n % 3 == 0) return n == 2 || n == 3;
-	i64 k = __builtin_ctzll(n - 1), d = (n - 1) >> k;
+	int k = __builtin_ctzll(n - 1);
+	i64 d = (n - 1) >> k;
 	for (i64 a : { 2, 325, 9375, 28178, 450775, 9780504, 1795265022 }) {
-		i64 p = modpow(a % n, d, n), i = k;
-		while (p != 1 && p != n - 1 && a % n && i--) p = modmul(p, p, n);
-		if (p != n - 1 && i != k) return false;
+		i64 p = modpow(a % n, d, n);
+		if (p <= 1) continue;
+		for (int i = 0; i < k; i++) {
+			if (p == n - 1) break;
+			p = modmul(p, p, n);
+		}
+		if (p != n - 1) return false;
 	}
 	return true;
 };
