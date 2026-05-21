@@ -5,9 +5,8 @@ using i64 = long long;
 
 auto sol = [](i64 n) {
 	vector ret(0, i64(0));
-	for (i64 i = 1; i <= n; i = n / (n / i) + 1) {
-		ret.push_back(n / i);
-	}
+	for (i64 i = 1; i <= n; i = n / (n / i) + 1) ret.push_back(n / i);
+	reverse(ret.begin(), ret.end());
 	return ret;
 };
 
