@@ -15,7 +15,7 @@
 | 2 | Primality Test | https://judge.yosupo.jp/problem/primality_test | [source code](./primality_test/main.cpp) |
 | 3 | Counting Primes | https://judge.yosupo.jp/problem/counting_primes | |
 | 4 | Enumerate Primes | https://judge.yosupo.jp/problem/enumerate_primes | |
-| 5 | Factorize | https://judge.yosupo.jp/problem/factorize | |
+| 5 | Factorize | https://judge.yosupo.jp/problem/factorize | [source code](./factorize/main.cpp) |
 | 6 | Primitive Root | https://judge.yosupo.jp/problem/primitive_root | |
 | 7 | Sum of Floor of Linear | https://judge.yosupo.jp/problem/sum_of_floor_of_linear | |
 | 8 | Min of Mod of Linear | https://judge.yosupo.jp/problem/min_of_mod_of_linear | |
