@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 20 (30.00%)
+- **진행도:** 7 / 20 (35.00%)
 - **마지막 업데이트:** 2026-05-21
 
 ---
@@ -20,7 +20,7 @@
 | 7 | <img src="../../_assets/orange_4_4.svg" width="16px"> 2723 | 辞書順 | https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical | |
 | 8 | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2334 | ナップザック | https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack | |
 | 9 | <img src="../../_assets/orange_1_4.svg" width="16px"> 2504 | イウィ | https://atcoder.jp/contests/tdpc/tasks/tdpc_iwi | |
-| 10 | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2268 | ボール | https://atcoder.jp/contests/tdpc/tasks/tdpc_ball | |
+| 10 | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2268 | ボール | https://atcoder.jp/contests/tdpc/tasks/tdpc_ball | [source code](./j/main.cpp) |
 | 11 | <img src="../../_assets/orange_2_4.svg" width="16px"> 2617 | ターゲット | https://atcoder.jp/contests/tdpc/tasks/tdpc_target | |
 | 12 | <img src="../../_assets/orange_2_4.svg" width="16px"> 2593 | 猫 | https://atcoder.jp/contests/tdpc/tasks/tdpc_cat | |
 | 13 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2463 | 家 | https://atcoder.jp/contests/tdpc/tasks/tdpc_house | |
