@@ -9,12 +9,12 @@ auto modmul = [](i64 a, i64 b, i64 mod) {
 };
 
 auto modpow = [](i64 x, i64 n, i64 mod) {
-	i64 res = 1;
+	i64 ret = 1;
 	for (; n; n >>= 1) {
-		if (n & 1) res = modmul(res, x, mod);
+		if (n & 1) ret = modmul(ret, x, mod);
 		x = modmul(x, x, mod);
 	}
-	return res;
+	return ret;
 };
 
 auto is_prime = [](i64 n) {
