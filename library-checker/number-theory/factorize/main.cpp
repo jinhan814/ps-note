@@ -38,30 +38,34 @@ auto is_prime = [](i64 n) {
 };
 
 auto pollard = [](i64 n) {
-	auto f = [&](i64 x) { return modadd(modmul(x, x, n), 3, n); };
-	i64 x = 0, y = 0, t = 30, p = 2, i = 1, q;
-	while (t++ % 40 || gcd(p, n) == 1) {
-		if (x == y) x = ++i, y = f(x);
-		if (q = modmul(p, abs(x - y), n)) p = q;
-		x = f(x), y = f(f(y));
+	i64 x = 0, y = 0, c = 1, acc = 2;
+	auto f = [&](i64 x) {
+		return modadd(modmul(x, x, n), c, n);
+	};
+	for (int iter = 0; ; iter++) {
+		if (iter % 40 == 10 && gcd(acc, n) != 1) break;
+		if (x == y) c = (c + 1) % n, x = c, y = f(x);
+		i64 nacc = modmul(acc, abs(x - y), n);
+		if (nacc != 0) acc = nacc;
+		x = f(x);
+		y = f(f(y));
 	}
-	return gcd(p, n);
+	return gcd(acc, n);
 };
 
 auto factor = [](i64 n) {
-	vector ret(0, i64(0));
-	auto rec = [&](const auto& self, i64 n) -> void {
-		if (n == 1) return;
-		if (is_prime(n)) {
-			ret.push_back(n);
+	if (n == 1) return vector(0, i64(0));
+	vector ret(0, i64(0)), buc(1, n);
+	while (buc.size()) {
+		i64 p = buc.back();
+		buc.pop_back();
+		while (!is_prime(p)) {
+			i64 x = pollard(p);
+			buc.push_back(x);
+			p /= x;
 		}
-		else {
-			i64 x = pollard(n);
-			self(self, x);
-			self(self, n / x);
-		}
-	};
-	rec(rec, n);
+		ret.push_back(p);
+	}
 	sort(ret.begin(), ret.end());
 	return ret;
 };
