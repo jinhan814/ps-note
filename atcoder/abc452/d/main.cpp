@@ -11,9 +11,14 @@ auto sol = [](string s, string t) {
 	}
 	i64 ret = 0;
 	for (int i = 0; i < s.size(); i++) {
+		bool flag = false;
 		int p = i;
-		for (char c : t) p = nxt[p][c - 'a'];
-		ret += p - i;
+		for (char c : t) {
+			if (nxt[p][c - 'a'] == s.size()) flag = true;
+			else p = nxt[p][c - 'a'] + 1;
+		}
+		if (flag) ret += s.size() - i;
+		else ret += p - i - 1;
 	}
 	return ret;
 };
