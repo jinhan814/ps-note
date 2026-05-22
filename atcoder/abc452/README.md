@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 51 | Gothec | https://atcoder.jp/contests/abc452/tasks/abc452_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 51 | Gothec | https://atcoder.jp/contests/abc452/tasks/abc452_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_0_4.svg" width="16px"> 77 | Draw Frame | https://atcoder.jp/contests/abc452/tasks/abc452_b | |
 | C | <img src="../../_assets/brown_2_4.svg" width="16px"> 567 | Fishbones | https://atcoder.jp/contests/abc452/tasks/abc452_c | |
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 981 | No-Subsequence Substring | https://atcoder.jp/contests/abc452/tasks/abc452_d | |
