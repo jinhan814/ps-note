@@ -2,17 +2,17 @@
 using namespace std;
 
 auto sol = [](int n, int m, auto v, auto c) {
+	vector p(11, vector(10, 0));
+	for (string s : c) {
+		for (int i = 0; i < s.size(); i++) {
+			p[s.size()][i] |= 1 << (s[i] - 'a');
+		}
+	}
 	auto f = [&](string s) {
 		if (s.size() != n) return false;
 		for (int i = 0; i < n; i++) {
-			bool flag = false;
-			for (int j = 0; j < m; j++) {
-				if (c[j].size() != v[i][0]) continue;
-				if (c[j][v[i][1] - 1] != s[i]) continue;
-				flag = true;
-				break;
-			}
-			if (!flag) return false;
+			if (p[v[i][0]][v[i][1] - 1] >> (s[i] - 'a') & 1) continue;
+			return false;
 		}
 		return true;
 	};
