@@ -38,7 +38,8 @@ auto is_prime = [](i64 n) {
 };
 
 auto pollard = [](i64 n) {
-	i64 c = 1, x = 0, y = 0, acc = 2;
+	if (n % 2 == 0) return i64(2);
+	i64 c = 1, x = 0, y = 0, acc = 1;
 	auto f = [&](i64 x) {
 		return modadd(modmul(x, x, n), c, n);
 	};
