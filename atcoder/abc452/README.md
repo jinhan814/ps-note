@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
+- **진행도:** 7 / 7 (100.00%)
 - **마지막 업데이트:** 2026-05-23
 
 ---
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 981 | No-Subsequence Substring | https://atcoder.jp/contests/abc452/tasks/abc452_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1358 | You WILL Like Sigma Problem | https://atcoder.jp/contests/abc452/tasks/abc452_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_0_4.svg" width="16px"> 1649 | Interval Inversion Count | https://atcoder.jp/contests/abc452/tasks/abc452_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2281 | 221 Substring | https://atcoder.jp/contests/abc452/tasks/abc452_g | |
+| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2281 | 221 Substring | https://atcoder.jp/contests/abc452/tasks/abc452_g | [source code](./g/main.cpp) |
