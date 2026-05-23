@@ -4,15 +4,15 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
-- **마지막 업데이트:** 2026-05-15
+- **진행도:** 1 / 7 (14.29%)
+- **마지막 업데이트:** 2026-05-23
 
 ---
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
 | 1 | 2 Sat | https://judge.yosupo.jp/problem/two_sat | |
-| 2 | Longest Increasing Subsequence | https://judge.yosupo.jp/problem/longest_increasing_subsequence | |
+| 2 | Longest Increasing Subsequence | https://judge.yosupo.jp/problem/longest_increasing_subsequence | [source code](./longest_increasing_subsequence/main.cpp) |
 | 3 | $\sum_{i=0}^{n-1}r^i i^d$ | https://judge.yosupo.jp/problem/sum_of_exponential_times_polynomial | |
 | 4 | $\sum_{i=0}^{\infty}r^i i^d$ | https://judge.yosupo.jp/problem/sum_of_exponential_times_polynomial_limit | |
 | 5 | Find Linear Recurrence | https://judge.yosupo.jp/problem/find_linear_recurrence | |

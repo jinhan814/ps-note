@@ -82,7 +82,7 @@
 | [**String**](./library-checker/string/README.md) | 0 / 11 (0.00%) | 2026-05-15 |
 | [**Geometry**](./library-checker/geometry/README.md) | 0 / 8 (0.00%) | 2026-05-15 |
 | [**Big Integer**](./library-checker/big-integer/README.md) | 0 / 6 (0.00%) | 2026-05-15 |
-| [**Other**](./library-checker/other/README.md) | 0 / 7 (0.00%) | 2026-05-15 |
+| [**Other**](./library-checker/other/README.md) | 1 / 7 (14.29%) | 2026-05-23 |
 
 ---
 
