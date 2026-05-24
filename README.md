@@ -22,6 +22,7 @@
 - [**ABC456**](./atcoder/abc456/README.md): [Atcoder Beginner Contest 456](https://atcoder.jp/contests/abc456)
 - [**ABC457**](./atcoder/abc457/README.md): [Atcoder Beginner Contest 457](https://atcoder.jp/contests/abc457)
 - [**ABC458**](./atcoder/abc458/README.md): [Atcoder Beginner Contest 458](https://atcoder.jp/contests/abc458)
+- [**ABC459**](./atcoder/abc459/README.md): [Atcoder Beginner Contest 459](https://atcoder.jp/contests/abc459)
 
 **Library Checker**
 - [**Sample**](./library-checker/sample/README.md): Library Checker > Sample
@@ -58,13 +59,14 @@
 **AtCoder**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
-| [**ABC452**](./atcoder/abc452/README.md) | 7 / 7 (100.00%) | 2026-05-23 |
+| [**ABC452**](./atcoder/abc452/README.md) | 7 / 7 (100.00%) | 2026-05-24 |
 | [**ABC453**](./atcoder/abc453/README.md) | 6 / 7 (85.71%) | 2026-05-15 |
 | [**ABC454**](./atcoder/abc454/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
 | [**ABC455**](./atcoder/abc455/README.md) | 6 / 7 (85.71%)| 2026-05-14 |
 | [**ABC456**](./atcoder/abc456/README.md) | 6 / 7 (85.71%) | 2026-05-14 |
 | [**ABC457**](./atcoder/abc457/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
 | [**ABC458**](./atcoder/abc458/README.md) | 6 / 7 (85.71%) | 2026-05-18 |
+| [**ABC459**](./atcoder/abc459/README.md) | 6 / 7 (85.71%) | 2026-05-24 |
 
 **Library Checker**
 | Category | Progress | Last Update |
