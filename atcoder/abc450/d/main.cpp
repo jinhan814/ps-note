@@ -2,17 +2,13 @@
 using namespace std;
 
 auto sol = [](int n, int k, auto v) {
-	set s(v.begin(), v.end());
-	while (*s.begin() + k <= *prev(s.end())) {
-		int x = *prev(s.end()) - *s.begin();
-		s.insert(*s.begin() + x / k * k);
-		s.erase(s.begin());
-	}
-	int ret = 1 << 30;
-	for (int iter = 0; iter < s.size(); iter++) {
-		ret = min(ret, *prev(s.end()) - *s.begin());
-		s.insert(*s.begin() + k);
-		s.erase(s.begin());
+	for (int i = 0; i < n; i++) v[i] %= k;
+	sort(v.begin(), v.end());
+	v.erase(unique(v.begin(), v.end()), v.end());
+	if (v.size() == 1) return 0;
+	int ret = v.back() - v[0];
+	for (int i = 1; i < v.size(); i++) {
+		ret = min(ret, k - (v[i] - v[i - 1]));
 	}
 	return ret;
 };
