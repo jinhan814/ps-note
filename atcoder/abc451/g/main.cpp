@@ -21,12 +21,15 @@ auto calc = [](int n, int k, auto v) {
 		int ret = 0;
 		int p = 0;
 		for (int bit = 29; bit >= 0; bit--) {
+			if (p == -1) break;
 			if (k >> bit & 1) {
 				int i = tree[p][x >> bit & 1];
 				if (i != -1) ret += tree[i][2];
+				p = tree[p][~x >> bit & 1];
 			}
-			p = tree[p][(x ^ k) >> bit & 1];
-			if (p == -1) break;
+			else {
+				p = tree[p][x >> bit & 1];
+			}
 		}
 		if (p != -1) ret += tree[p][2];
 		return ret;
