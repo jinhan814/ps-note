@@ -68,7 +68,7 @@
 | [**ABC456**](./atcoder/abc456/README.md) | 6 / 7 (85.71%) | 2026-05-14 |
 | [**ABC457**](./atcoder/abc457/README.md) | 7 / 7 (100.00%) | 2026-05-14 |
 | [**ABC458**](./atcoder/abc458/README.md) | 6 / 7 (85.71%) | 2026-05-18 |
-| [**ABC459**](./atcoder/abc459/README.md) | 5 / 7 (71.43%) | 2026-05-24 |
+| [**ABC459**](./atcoder/abc459/README.md) | 6 / 7 (85.71%) | 2026-05-25 |
 
 **Library Checker**
 | Category | Progress | Last Update |
