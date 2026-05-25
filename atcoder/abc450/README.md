@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_1_4.svg" width="16px"> 526 | Puddles | https://atcoder.jp/contests/abc450/tasks/abc450_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 773 | Minimize Range | https://atcoder.jp/contests/abc450/tasks/abc450_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1405 | Fibonacci String | https://atcoder.jp/contests/abc450/tasks/abc450_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1989 | Strongly Connected 2 | https://atcoder.jp/contests/abc450/tasks/abc450_f | |
+| F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1989 | Strongly Connected 2 | https://atcoder.jp/contests/abc450/tasks/abc450_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2263 | Random Subtraction | https://atcoder.jp/contests/abc450/tasks/abc450_g | |
