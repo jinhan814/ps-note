@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 944 | Concat Power of 2 | https://atcoder.jp/contests/abc451/tasks/abc451_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_0_4.svg" width="16px"> 1269 | Tree Distance | https://atcoder.jp/contests/abc451/tasks/abc451_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1561 | Make Bipartite 3 | https://atcoder.jp/contests/abc451/tasks/abc451_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2235 | Minimum XOR Walk | https://atcoder.jp/contests/abc451/tasks/abc451_g | |
+| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2235 | Minimum XOR Walk | https://atcoder.jp/contests/abc451/tasks/abc451_g | [source code](./g/main.cpp) |
