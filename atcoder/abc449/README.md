@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
+- **진행도:** 6 / 7 (85.71%)
 - **마지막 업데이트:** 2026-05-26
 
 ---
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_0_4.svg" width="16px"> 464 | Comfortable Distance | https://atcoder.jp/contests/abc449/tasks/abc449_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 1001 | Make Target 2 | https://atcoder.jp/contests/abc449/tasks/abc449_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1576 | A += v | https://atcoder.jp/contests/abc449/tasks/abc449_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2003 | Grid Clipping | https://atcoder.jp/contests/abc449/tasks/abc449_f | |
+| F | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2003 | Grid Clipping | https://atcoder.jp/contests/abc449/tasks/abc449_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/orange_3_4.svg" width="16px"> 2643 | Many Repunit Sum 2 | https://atcoder.jp/contests/abc449/tasks/abc449_g | |
