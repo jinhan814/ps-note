@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%) 
+- **진행도:** 7 / 7 (100.00%)
 - **마지막 업데이트:** 2026-05-25
 
 ---
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 773 | Minimize Range | https://atcoder.jp/contests/abc450/tasks/abc450_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1405 | Fibonacci String | https://atcoder.jp/contests/abc450/tasks/abc450_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1989 | Strongly Connected 2 | https://atcoder.jp/contests/abc450/tasks/abc450_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2263 | Random Subtraction | https://atcoder.jp/contests/abc450/tasks/abc450_g | |
+| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2263 | Random Subtraction | https://atcoder.jp/contests/abc450/tasks/abc450_g | [source code](./g/main.cpp) |
