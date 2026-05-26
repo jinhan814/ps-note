@@ -63,6 +63,7 @@ private:
 };
 
 auto sol = [](int n, int m, int a, int b, int k, auto v) {
+	if (k == 0) return i64(n - a + 1) * (m - b + 1);
 	vector buc(0, array{ 0, 0, 0, 0 });
 	vector c(0, 0);
 	for (int i = 0; i < k; i++) {
