@@ -27,8 +27,6 @@ private:
 };
 
 auto sol = [](int n, int m, int q, auto v, auto qs) {
-	vector cnt(m + 1, 0);
-	for (int i = 0; i < n; i++) cnt[v[i]]++;
 	vector ret(q, -1);
 	vector cand(0, 0);
 	for (int i = 0; i < q; i++) {
@@ -39,6 +37,8 @@ auto sol = [](int n, int m, int q, auto v, auto qs) {
 	sort(cand.begin(), cand.end(), [&](int i, int j) {
 		return qs[i] < qs[j];
 	});
+	vector cnt(m + 1, 0);
+	for (int i = 0; i < n; i++) cnt[v[i]]++;
 	vector buc(m, 0);
 	iota(buc.begin(), buc.end(), 1);
 	sort(buc.begin(), buc.end(), [&](int i, int j) {
