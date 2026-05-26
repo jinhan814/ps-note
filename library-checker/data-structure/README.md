@@ -51,6 +51,6 @@
 | 38 | Rectangle Add Point Get | https://judge.yosupo.jp/problem/rectangle_add_point_get | |
 | 39 | Static Rectangle Add Rectangle Sum | https://judge.yosupo.jp/problem/static_rectangle_add_rectangle_sum | |
 | 40 | Dynamic Point Rectangle Affine Rectangle Sum | https://judge.yosupo.jp/problem/dynamic_point_set_rectangle_affine_rectangle_sum | |
-| 41 | Area of Union of Rectangles | https://judge.yosupo.jp/problem/area_of_union_of_rectangles | |
+| 41 | Area of Union of Rectangles | https://judge.yosupo.jp/problem/area_of_union_of_rectangles | [source code](./area_of_union_of_rectangles/main.cpp) |
 | 42 | Persistent Queue | https://judge.yosupo.jp/problem/persistent_queue | |
 | 43 | Persistent Unionfind | https://judge.yosupo.jp/problem/persistent_unionfind | |
