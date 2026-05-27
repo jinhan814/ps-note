@@ -21,15 +21,15 @@ auto modpow = [](int x, i64 n, int mod) {
 };
 
 auto sol = [](int n, int m, auto a, auto b) {
-	int mod = 10'007 * m;
+	int mod = 10'007 * 9 * m;
 	int ret = 0;
 	for (int i = 0; i < n; i++) {
-		int v1 = modpow(10, b[i], 9 * mod);
-		int v2 = modmul(a[i], modadd(v1, 9 * mod - 1, 9 * mod), 9 * mod);
-		ret = modmul(ret, v1 % mod, mod);
-		ret = modadd(ret, v2 / 9, mod);
+		int v1 = modpow(10, b[i], mod);
+		int v2 = modmul(a[i], modadd(v1, mod - 1, mod), mod);
+		ret = modmul(ret, v1, mod);
+		ret = modadd(ret, v2, mod);
 	}
-	ret = ret / m % 10'007;
+	ret = ret / 9 / m % 10'007;
 	return ret;
 };
 
