@@ -15,18 +15,13 @@ auto sol = [](int n, auto adj) {
 	rec(rec, 1);
 	int ret = 1;
 	for (int i = 1; i <= n; i++) {
+		int cnt = adj[i].size() + (i != 1);
+		int mx = -1;
 		ret = max(ret, dp[i]);
-		if (adj[i].size() - 1 + (i != 1) >= 2) {
-			for (int j : adj[i]) {
-				ret = max(ret, dp[j] + 1);
-			}
-		}
-		if (adj[i].size() - 2 + (i != 1) >= 2) {
-			int mx = -1;
-			for (int j : adj[i]) {
-				ret = max(ret, dp[j] + mx + 1);
-				mx = max(mx, dp[j]);
-			}
+		for (int j : adj[i]) {
+			if (cnt >= 3) ret = max(ret, dp[j] + 1);
+			if (cnt >= 4) ret = max(ret, dp[j] + mx + 1);
+			mx = max(mx, dp[j]);
 		}
 	}
 	return ret;
