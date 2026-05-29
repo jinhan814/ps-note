@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/brown_1_4.svg" width="16px"> 540 | Take ABC 2 | https://atcoder.jp/contests/abc447/tasks/abc447_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_2_4.svg" width="16px"> 1022 | Divide Graph | https://atcoder.jp/contests/abc447/tasks/abc447_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1496 | Centipede Graph | https://atcoder.jp/contests/abc447/tasks/abc447_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/orange_0_4.svg" width="16px"> 2430 | Div. 1 & Div. 2 | https://atcoder.jp/contests/abc447/tasks/abc447_g | |
+| G | <img src="../../_assets/orange_0_4.svg" width="16px"> 2430 | Div. 1 & Div. 2 | https://atcoder.jp/contests/abc447/tasks/abc447_g | [source code](./g/main.cpp) |
