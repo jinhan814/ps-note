@@ -12,7 +12,7 @@ auto sol = [](int n, int m, auto a, auto b) {
 			dq.front().second -= val;
 			if (dq.front().second == 0) dq.pop_front();
 		}
-		if (dq.size() && i - dq.front().first + 1 >= m) {
+		if (dq.size() && dq.front().first <= i - m) {
 			dq.pop_front();
 		}
 	}
