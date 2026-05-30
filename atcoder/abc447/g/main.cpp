@@ -11,17 +11,7 @@ struct node {
 	}
 	node operator+ (const node& x) const {
 		auto c = v;
-		for (auto [x, val] : x.v) {
-			bool flag = false;
-			for (int i = 0; i < c.size(); i++) {
-				if (c[i].second.first != val.first) continue;
-				if (c[i].second.second != val.second) continue;
-				c[i].first = max(c[i].first, x);
-				flag = true;
-				break;
-			}
-			if (!flag) c.push_back(pair(x, val));
-		}
+		for (auto p : x.v) c.push_back(p);
 		sort(c.begin(), c.end(), greater{});
 		node ret;
 		int mask = 0;
