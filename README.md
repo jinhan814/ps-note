@@ -15,6 +15,7 @@
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
 **AtCoder**
+- [**ABC446**](./atcoder/abc446/README.md): [Atcoder Beginner Contest 446](https://atcoder.jp/contests/abc446)
 - [**ABC447**](./atcoder/abc447/README.md): [Atcoder Beginner Contest 447](https://atcoder.jp/contests/abc447)
 - [**ABC448**](./atcoder/abc448/README.md): [Atcoder Beginner Contest 448](https://atcoder.jp/contests/abc448)
 - [**ABC449**](./atcoder/abc449/README.md): [Atcoder Beginner Contest 449](https://atcoder.jp/contests/abc449)
@@ -64,6 +65,7 @@
 **AtCoder**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
+| [**ABC446**](./atcoder/abc446/README.md) | 0 / 7 (0.00%) | 2026-05-30 |
 | [**ABC447**](./atcoder/abc447/README.md) | 7 / 7 (100.00%) | 2026-05-29 |
 | [**ABC448**](./atcoder/abc448/README.md) | 6 / 7 (85.71%) | 2026-05-27 |
 | [**ABC449**](./atcoder/abc449/README.md) | 6 / 7 (85.71%) | 2026-05-26 |
