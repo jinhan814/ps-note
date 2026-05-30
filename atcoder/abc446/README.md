@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/brown_2_4.svg" width="16px"> 634 | Max Straight | https://atcoder.jp/contests/abc446/tasks/abc446_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_0_4.svg" width="16px"> 1245 | Multiple-Free Sequences | https://atcoder.jp/contests/abc446/tasks/abc446_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1559 | Reachable Set 2 | https://atcoder.jp/contests/abc446/tasks/abc446_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1965 | 221 Subsequence | https://atcoder.jp/contests/abc446/tasks/abc446_g | |
+| G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1965 | 221 Subsequence | https://atcoder.jp/contests/abc446/tasks/abc446_g | [source code](./g/main.cpp) |
