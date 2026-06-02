@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-06-01
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-06-03
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1288 | Repeatedly Repainting | https://atcoder.jp/contests/abc460/tasks/abc460_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1412 | x + y ≡ x + y | https://atcoder.jp/contests/abc460/tasks/abc460_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1987 | Farthest Pair Query | https://atcoder.jp/contests/abc460/tasks/abc460_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/red_0_4.svg" width="16px"> 2823 | Vertex Flip Query | https://atcoder.jp/contests/abc460/tasks/abc460_g | |
+| G | <img src="../../_assets/red_0_4.svg" width="16px"> 2823 | Vertex Flip Query | https://atcoder.jp/contests/abc460/tasks/abc460_g | [source code](./g/main.cpp) |
