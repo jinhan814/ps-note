@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 17 (0.00%)
-- **마지막 업데이트:** 2026-05-15
+- **진행도:** 1 / 17 (5.88%)
+- **마지막 업데이트:** 2026-06-02
 
 ---
 
@@ -26,5 +26,5 @@
 | 13 | Stirling Number of the First Kind (Small p, Large n) | https://judge.yosupo.jp/problem/stirling_number_of_the_first_kind_small_p_large_n | |
 | 14 | Stirling Number of the Second Kind (Small p, Large n) | https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind_small_p_large_n | |
 | 15 | #p Subset Sum | https://judge.yosupo.jp/problem/sharp_p_subset_sum | |
-| 16 | Number of Subsequences | https://judge.yosupo.jp/problem/number_of_subsequences | |
+| 16 | Number of Subsequences | https://judge.yosupo.jp/problem/number_of_subsequences | [source code](./number_of_subsequences/main.cpp) |
 | 17 | Number of Increasing Sequences Between Two Sequences | https://judge.yosupo.jp/problem/number_of_increasing_sequences_between_two_sequences | |
