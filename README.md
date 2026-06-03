@@ -10,8 +10,8 @@
 - [**Class 9**](./general/class9/README.md): [solved.ac Class 9](https://solved.ac/class?class=9)
 - [**Class 10**](./general/class10/README.md): [solved.ac Class 10](https://solved.ac/class?class=10)
 - [**EDPC**](./general/atcoder-edpc/README.md): [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
-- [**NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
 - [**TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
+- [**NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
 **Library Checker**
@@ -42,8 +42,8 @@
 | [**Class 9**](./general/class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./general/class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
 | [**EDPC**](./general/atcoder-edpc/README.md) | 26 / 26 (100.00%) | 2026-05-07 |
-| [**NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
 | [**TDPC**](./general/atcoder-tdpc/README.md) | 9 / 20 (45.00%) | 2026-06-04 |
+| [**NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
 | [**FPS24**](./general/atcoder-fps24/README.md) | 4 / 24 (16.67%) | 2026-05-20 |
 
 **Library Checker**
