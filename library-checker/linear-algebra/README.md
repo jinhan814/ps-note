@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 17 (0.00%)
+- **진행도:** 0 / 18 (0.00%)
 - **마지막 업데이트:** 2026-05-15
 
 ---
@@ -28,3 +28,4 @@
 | 15 | Characteristic Polynomial | https://judge.yosupo.jp/problem/characteristic_polynomial | |
 | 16 | Hafnian of Matrix | https://judge.yosupo.jp/problem/hafnian_of_matrix | |
 | 17 | Intersection of F_2 vector spaces | https://judge.yosupo.jp/problem/intersection_of_f2_vector_spaces | |
+| 18 | Pfaffian of Matrix | https://judge.yosupo.jp/problem/pfaffian_of_matrix | |
