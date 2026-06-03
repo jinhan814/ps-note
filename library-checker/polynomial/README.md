@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 25 (0.00%)
+- **진행도:** 0 / 26 (0.00%)
 - **마지막 업데이트:** 2026-05-15
 
 ---
@@ -36,3 +36,4 @@
 | 23 | Polynomial Root Finding (Mod 998244353) | https://judge.yosupo.jp/problem/polynomial_root_finding | |
 | 24 | Composition of Formal Power Series (Large) | https://judge.yosupo.jp/problem/composition_of_formal_power_series_large | |
 | 25 | Compositional Inverse of Formal Power Series (Large) | https://judge.yosupo.jp/problem/compositional_inverse_of_formal_power_series_large | |
+| 26 | Inv of Bivariate Formal Power Series | https://judge.yosupo.jp/problem/inv_of_formal_power_series_2d | |
