@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 36 (0.00%)
+- **진행도:** 0 / 38 (0.00%)
 - **마지막 업데이트:** 2026-05-15
 
 ---
@@ -47,3 +47,5 @@
 | 34 | Counting Eulerian Circuits | https://judge.yosupo.jp/problem/counting_eulerian_circuits | |
 | 35 | Counting Spanning Trees (Undirected) | https://judge.yosupo.jp/problem/counting_spanning_tree_undirected | |
 | 36 | Counting Spanning Trees (Directed) | https://judge.yosupo.jp/problem/counting_spanning_tree_directed | |
+| 37 | Incremental Minimum Spanning Forest | https://judge.yosupo.jp/problem/incremental_minimum_spanning_forest | |
+| 38 | Minimum Steiner Tree | https://judge.yosupo.jp/problem/minimum_steiner_tree | |
