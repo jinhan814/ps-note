@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 3 / 22 (13.64%)
+- **진행도:** 3 / 26 (11.54%)
 - **마지막 업데이트:** 2026-05-22
 
 ---
@@ -23,13 +23,17 @@
 | 10 | Stern–Brocot Tree | https://judge.yosupo.jp/problem/stern_brocot_tree | |
 | 11 | Counting Square-free Integers | https://judge.yosupo.jp/problem/counting_squarefrees | |
 | 12 | Sum of Totient Function | https://judge.yosupo.jp/problem/sum_of_totient_function | |
-| 13 | Sum of Multiplicative Function(Large) | https://judge.yosupo.jp/problem/sum_of_multiplicative_function_large | |
-| 14 | Bernoulli Number | https://judge.yosupo.jp/problem/bernoulli_number | |
-| 15 | Sqrt Mod | https://judge.yosupo.jp/problem/sqrt_mod | |
-| 16 | Kth Root (Mod) | https://judge.yosupo.jp/problem/kth_root_mod | |
-| 17 | Kth Root (Integer) | https://judge.yosupo.jp/problem/kth_root_integer | |
-| 18 | Discrete Logarithm | https://judge.yosupo.jp/problem/discrete_logarithm_mod | |
-| 19 | Tetration Mod | https://judge.yosupo.jp/problem/tetration_mod | |
-| 20 | Gcd of Gaussian Integers | https://judge.yosupo.jp/problem/gcd_of_gaussian_integers | |
-| 21 | Represent A Number As Two Square Sum | https://judge.yosupo.jp/problem/two_square_sum | |
-| 22 | Nim Product (F_2^64) | https://judge.yosupo.jp/problem/nim_product_64 | |
+| 13 | Sum of Multiplicative Function | https://judge.yosupo.jp/problem/sum_of_multiplicative_function | |
+| 14 | Sum of Multiplicative Function (Large) | https://judge.yosupo.jp/problem/sum_of_multiplicative_function_large | |
+| 15 | Bernoulli Number | https://judge.yosupo.jp/problem/bernoulli_number | |
+| 16 | Sqrt Mod | https://judge.yosupo.jp/problem/sqrt_mod | |
+| 17 | Kth Root (Mod) | https://judge.yosupo.jp/problem/kth_root_mod | |
+| 18 | Kth Root (Integer) | https://judge.yosupo.jp/problem/kth_root_integer | |
+| 19 | Discrete Logarithm | https://judge.yosupo.jp/problem/discrete_logarithm_mod | |
+| 20 | Discrete Logarithm (Fixed Mod) | https://judge.yosupo.jp/problem/discrete_logarithm_fixed_mod | |
+| 21 | Tetration Mod | https://judge.yosupo.jp/problem/tetration_mod | |
+| 22 | Gcd of Gaussian Integers | https://judge.yosupo.jp/problem/gcd_of_gaussian_integers | |
+| 23 | Represent A Number As Two Square Sum | https://judge.yosupo.jp/problem/two_square_sum | |
+| 24 | Nim Product ($\mathbb{F}_{2^{64}}$) | https://judge.yosupo.jp/problem/nim_product_64 | |
+| 25 | Dirichlet Convolution and Prefix Sums | https://judge.yosupo.jp/problem/dirichlet_convolution_and_prefix_sums | |
+| 26 | Dirichlet Inverse and Prefix Sums | https://judge.yosupo.jp/problem/dirichlet_inverse_and_prefix_sums | |
