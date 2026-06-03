@@ -4,16 +4,16 @@
 
 ## 📊 Progress
 
-- **진행도:** 18 / 47 (38.30%)
-- **마지막 업데이트:** 2026-05-26
+- **진행도:** 19 / 47 (40.43%)
+- **마지막 업데이트:** 2026-06-03
 
 ---
 
 | No. | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :---: |
 | 1 | Associative Array | https://judge.yosupo.jp/problem/associative_array | [source code](./associative_array/main.cpp) |
-| 2 | Predecessor Problem | https://judge.yosupo.jp/problem/predecessor_problem | [source code](./predecessor_problem/main.cpp) |
-| 3 | Deque | https://judge.yosupo.jp/problem/deque | |
+| 2 | Deque | https://judge.yosupo.jp/problem/deque | [source code](./deque/main.cpp) |
+| 3 | Predecessor Problem | https://judge.yosupo.jp/problem/predecessor_problem | [source code](./predecessor_problem/main.cpp) |
 | 4 | Ordered Set | https://judge.yosupo.jp/problem/ordered_set | [source code](./ordered_set/main.cpp) |
 | 5 | Double-Ended Priority Queue | https://judge.yosupo.jp/problem/double_ended_priority_queue | [source code](./double_ended_priority_queue/main.cpp) |
 | 6 | Unionfind | https://judge.yosupo.jp/problem/unionfind | [source code](./unionfind/main.cpp) |
