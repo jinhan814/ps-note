@@ -68,7 +68,7 @@
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
 | [**ABC444**](./atcoder/abc444/README.md) | 5 / 7 (71.43%) | 2026-06-01 |
-| [**ABC445**](./atcoder/abc445/README.md) | 0 / 0 (0.00%) | 2026-06-01 |
+| [**ABC445**](./atcoder/abc445/README.md) | 5 / 7 (71.43%) | 2026-06-03 |
 | [**ABC446**](./atcoder/abc446/README.md) | 7 / 7 (100.00%) | 2026-05-31 |
 | [**ABC447**](./atcoder/abc447/README.md) | 7 / 7 (100.00%) | 2026-05-29 |
 | [**ABC448**](./atcoder/abc448/README.md) | 6 / 7 (85.71%) | 2026-05-27 |
