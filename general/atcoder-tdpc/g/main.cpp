@@ -27,9 +27,7 @@ auto sol = [](string s, i64 k) {
 			pos = p[i];
 			break;
 		}
-		else {
-			k -= c[i];
-		}
+		k -= c[i];
 	}
 	while (k > 1) {
 		k--;
@@ -40,9 +38,7 @@ auto sol = [](string s, i64 k) {
 				pos = nxt[pos][i];
 				break;
 			}
-			else {
-				k -= dp[nxt[pos][i]];
-			}
+			k -= dp[nxt[pos][i]];
 		}
 	}
 	return ret;
