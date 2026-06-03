@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 8 (0.00%)
+- **진행도:** 0 / 9 (0.00%)
 - **마지막 업데이트:** 2026-05-15
 
 ---
@@ -19,3 +19,4 @@
 | 6 | Convex Layers | https://judge.yosupo.jp/problem/convex_layers | |
 | 7 | Manhattan MST | https://judge.yosupo.jp/problem/manhattanmst | |
 | 8 | Euclidean MST | https://judge.yosupo.jp/problem/euclidean_mst | |
+| 9 | Minimum Enclosing Circle | https://judge.yosupo.jp/problem/minimum_enclosing_circle | |

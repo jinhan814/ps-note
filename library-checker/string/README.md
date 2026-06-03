@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 11 (0.00%)
+- **진행도:** 0 / 12 (0.00%)
 - **마지막 업데이트:** 2026-05-15
 
 ---
@@ -22,3 +22,4 @@
 | 9 | Eertree | https://judge.yosupo.jp/problem/eertree | |
 | 10 | Palindromes in Deque | https://judge.yosupo.jp/problem/palindromes_in_deque | |
 | 11 | Wildcard Pattern Matching | https://judge.yosupo.jp/problem/wildcard_pattern_matching | |
+| 12 | Aho Corasick | https://judge.yosupo.jp/problem/aho_corasick | |
