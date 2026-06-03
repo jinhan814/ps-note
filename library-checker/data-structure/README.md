@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 20 / 47 (42.55%)
+- **진행도:** 21 / 47 (44.68%)
 - **마지막 업데이트:** 2026-06-03
 
 ---
@@ -57,4 +57,4 @@
 | 44 | Area of Union of Rectangles | https://judge.yosupo.jp/problem/area_of_union_of_rectangles | [source code](./area_of_union_of_rectangles/main.cpp) |
 | 45 | Persistent Queue | https://judge.yosupo.jp/problem/persistent_queue | |
 | 46 | Persistent Unionfind | https://judge.yosupo.jp/problem/persistent_unionfind | |
-| 47 | Majority Voting | https://judge.yosupo.jp/problem/majority_voting | |
+| 47 | Majority Voting | https://judge.yosupo.jp/problem/majority_voting | [source code](./majority_voting/main.cpp) |
