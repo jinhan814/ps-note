@@ -5,7 +5,7 @@ using i64 = long long;
 
 struct segtree {
 	segtree(int n) : sz(1 << (__lg(n - 1 | 1) + 1)), tree(sz << 1), lazy(sz << 1) {}
-	void update(int l, int r, int x) {
+	void update(int l, int r, i64 x) {
 		auto rec = [&](const auto& self, int node, int node_l, int node_r) -> void {
 			push(node);
 			if (node_r < l || r < node_l) return;
