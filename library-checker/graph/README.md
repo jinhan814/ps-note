@@ -31,21 +31,21 @@
 | 18 | Edge Coloring of Bipartite Graph | https://judge.yosupo.jp/problem/bipartite_edge_coloring | |
 | 19 | Assignment Problem | https://judge.yosupo.jp/problem/assignment | |
 | 20 | Minimum Spanning Tree | https://judge.yosupo.jp/problem/minimum_spanning_tree | |
-| 21 | Directed MST | https://judge.yosupo.jp/problem/directedmst | |
-| 22 | Minimum Diameter Spanning Tree | https://judge.yosupo.jp/problem/minimum_diameter_spanning_tree | |
-| 23 | Dominator Tree | https://judge.yosupo.jp/problem/dominatortree | |
-| 24 | Maximum Independent Set | https://judge.yosupo.jp/problem/maximum_independent_set | |
-| 25 | Chromatic Number | https://judge.yosupo.jp/problem/chromatic_number | |
-| 26 | Chromatic Polynomial | https://judge.yosupo.jp/problem/chromatic_polynomial | |
-| 27 | Enumerate Triangles | https://judge.yosupo.jp/problem/enumerate_triangles | |
-| 28 | Enumerate Cliques | https://judge.yosupo.jp/problem/enumerate_cliques | |
-| 29 | Counting C4's | https://judge.yosupo.jp/problem/counting_c4 | |
-| 30 | Tree Decomposition (Width 2) | https://judge.yosupo.jp/problem/tree_decomposition_width_2 | |
-| 31 | Global Minimum Cut of Dynamic Star Augmented Graph | https://judge.yosupo.jp/problem/global_minimum_cut_of_dynamic_star_augmented_graph | |
-| 32 | Chordal Graph Recognition | https://judge.yosupo.jp/problem/chordal_graph_recognition | |
-| 33 | Dynamic Graph Vertex Add Component Sum | https://judge.yosupo.jp/problem/dynamic_graph_vertex_add_component_sum | |
-| 34 | Counting Eulerian Circuits | https://judge.yosupo.jp/problem/counting_eulerian_circuits | |
-| 35 | Counting Spanning Trees (Undirected) | https://judge.yosupo.jp/problem/counting_spanning_tree_undirected | |
-| 36 | Counting Spanning Trees (Directed) | https://judge.yosupo.jp/problem/counting_spanning_tree_directed | |
-| 37 | Incremental Minimum Spanning Forest | https://judge.yosupo.jp/problem/incremental_minimum_spanning_forest | |
-| 38 | Minimum Steiner Tree | https://judge.yosupo.jp/problem/minimum_steiner_tree | |
+| 21 | Minimum Spanning Forest (Incremental) | https://judge.yosupo.jp/problem/incremental_minimum_spanning_forest | |
+| 22 | Directed MST | https://judge.yosupo.jp/problem/directedmst | |
+| 23 | Minimum Diameter Spanning Tree | https://judge.yosupo.jp/problem/minimum_diameter_spanning_tree | |
+| 24 | Dominator Tree | https://judge.yosupo.jp/problem/dominatortree | |
+| 25 | Minimum Steiner Tree | https://judge.yosupo.jp/problem/minimum_steiner_tree | |
+| 26 | Maximum Independent Set | https://judge.yosupo.jp/problem/maximum_independent_set | |
+| 27 | Chromatic Number | https://judge.yosupo.jp/problem/chromatic_number | |
+| 28 | Chromatic Polynomial | https://judge.yosupo.jp/problem/chromatic_polynomial | |
+| 29 | Enumerate Triangles | https://judge.yosupo.jp/problem/enumerate_triangles | |
+| 30 | Enumerate Cliques | https://judge.yosupo.jp/problem/enumerate_cliques | |
+| 31 | Counting C4's | https://judge.yosupo.jp/problem/counting_c4 | |
+| 32 | Tree Decomposition (Width 2) | https://judge.yosupo.jp/problem/tree_decomposition_width_2 | |
+| 33 | Global Minimum Cut of Dynamic Star Augmented Graph | https://judge.yosupo.jp/problem/global_minimum_cut_of_dynamic_star_augmented_graph | |
+| 34 | Chordal Graph Recognition | https://judge.yosupo.jp/problem/chordal_graph_recognition | |
+| 35 | Dynamic Graph Vertex Add Component Sum | https://judge.yosupo.jp/problem/dynamic_graph_vertex_add_component_sum | |
+| 36 | Counting Eulerian Circuits | https://judge.yosupo.jp/problem/counting_eulerian_circuits | |
+| 37 | Counting Spanning Trees (Undirected) | https://judge.yosupo.jp/problem/counting_spanning_tree_undirected | |
+| 38 | Counting Spanning Trees (Directed) | https://judge.yosupo.jp/problem/counting_spanning_tree_directed | |

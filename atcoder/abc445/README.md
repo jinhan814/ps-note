@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
+- **진행도:** 7 / 7 (100.00%)
 - **마지막 업데이트:** 2026-06-03
 
 ---
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_3_4.svg" width="16px"> 1160 | Reconstruct Chocolate | https://atcoder.jp/contests/abc445/tasks/abc445_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1378 | Many LCMs | https://atcoder.jp/contests/abc445/tasks/abc445_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1539 | Exactly K Steps 2 | https://atcoder.jp/contests/abc445/tasks/abc445_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2269 | Knight Placement | https://atcoder.jp/contests/abc445/tasks/abc445_g | |
+| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2269 | Knight Placement | https://atcoder.jp/contests/abc445/tasks/abc445_g | [source code](./g/main.cpp) |
