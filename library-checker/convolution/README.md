@@ -22,8 +22,8 @@
 | 9 | Lcm Convolution | https://judge.yosupo.jp/problem/lcm_convolution | |
 | 10 | Multidimensional Convolution (Truncated) | https://judge.yosupo.jp/problem/multivariate_convolution | |
 | 11 | Multidimensional Convolution (Circular) | https://judge.yosupo.jp/problem/multivariate_convolution_cyclic | |
-| 12 | Convolution on the Multiplicative Monoid of Z/PZ | https://judge.yosupo.jp/problem/mul_modp_convolution | |
-| 13 | Convolution on the Multiplicative Monoid of Z/2^N Z | https://judge.yosupo.jp/problem/mul_mod2n_convolution | |
+| 12 | Convolution on the Multiplicative Monoid of $\mathbf{Z} / P \mathbf{Z}$ | https://judge.yosupo.jp/problem/mul_modp_convolution | |
+| 13 | Convolution on the Multiplicative Monoid of $\mathbf{Z} / 2^N \mathbf{Z}$ | https://judge.yosupo.jp/problem/mul_mod2n_convolution | |
 | 14 | Min Plus Convolution (Convex and Arbitrary) | https://judge.yosupo.jp/problem/min_plus_convolution_convex_arbitrary | |
 | 15 | Min Plus Convolution (Convex and Convex) | https://judge.yosupo.jp/problem/min_plus_convolution_convex_convex | |
 | 16 | Min Plus Convolution (Concave and Arbitrary) | https://judge.yosupo.jp/problem/min_plus_convolution_concave_arbitrary | |
