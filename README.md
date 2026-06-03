@@ -30,7 +30,7 @@
 - [**Big Integer**](./library-checker/big-integer/README.md): Library Checker > Big Integer
 - [**Other**](./library-checker/other/README.md): Library Checker > Other
 
----
+---.
 
 ## 📊 Overall Progress
 
