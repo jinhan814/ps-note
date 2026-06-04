@@ -4,7 +4,6 @@ using namespace std;
 auto sol = [](string s) {
 	vector cache(s.size(), vector(s.size(), -1));
 	auto rec = [&](const auto& self, int l, int r) -> int {
-		if ((r - l + 1) % 3 != 0) return 0;
 		int& ret = cache[l][r];
 		if (ret != -1) return ret;
 		for (int i = l + 1; i <= r - 1; i += 3) {
