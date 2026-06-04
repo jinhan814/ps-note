@@ -42,7 +42,7 @@
 | [**Class 9**](./general/class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./general/class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
 | [**EDPC**](./general/atcoder-edpc/README.md) | 26 / 26 (100.00%) | 2026-05-07 |
-| [**TDPC**](./general/atcoder-tdpc/README.md) | 11 / 20 (55.00%) | 2026-06-04 |
+| [**TDPC**](./general/atcoder-tdpc/README.md) | 12 / 20 (60.00%) | 2026-06-04 |
 | [**NDPC**](./general/atcoder-ndpc/README.md) | 10 / 20 (50.00%) | 2026-05-08 |
 | [**FPS24**](./general/atcoder-fps24/README.md) | 4 / 24 (16.67%) | 2026-05-20 |
 
