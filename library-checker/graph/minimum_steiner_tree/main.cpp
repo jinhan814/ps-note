@@ -10,31 +10,11 @@ auto sol = [](int n, int m, int k, auto v, auto e) {
 		adj[a].push_back(tuple(b, c, i));
 		adj[b].push_back(tuple(a, c, i));
 	}
-	vector d(n, vector(n, i64(1) << 60));
-	for (int i = 0; i < n; i++) {
-		vector c(n, false);
-		d[i][i] = 0;
-		for (int iter = 0; iter < n; iter++) {
-			int cur = -1;
-			for (int p = 0; p < n; p++) {
-				if (c[p]) continue;
-				if (cur == -1 || d[i][cur] > d[i][p]) cur = p;
-			}
-			c[cur] = true;
-			for (auto [nxt, cost, idx] : adj[cur]) {
-				if (d[i][nxt] <= d[i][cur] + cost) continue;
-				d[i][nxt] = d[i][cur] + cost;
-			}
-		}
-	}
 	vector dp(1 << k, vector(n, i64(1) << 60));
 	for (int i = 0; i < k; i++) {
-		for (int j = 0; j < n; j++) {
-			dp[1 << i][j] = d[v[i]][j];
-		}
+		dp[1 << i][v[i]] = 0;
 	}
 	for (int mask = 1; mask < 1 << k; mask++) {
-		if (__builtin_popcount(mask) == 1) continue;
 		for (int s = (mask - 1) & mask; s > 0; s = (s - 1) & mask) {
 			int t = mask ^ s;
 			for (int i = 0; i < n; i++) {
@@ -42,12 +22,13 @@ auto sol = [](int n, int m, int k, auto v, auto e) {
 			}
 		}
 		vector c(n, false);
-		for (int iter = 0; iter < n; iter++) {
+		while (1) {
 			int cur = -1;
 			for (int p = 0; p < n; p++) {
 				if (c[p]) continue;
 				if (cur == -1 || dp[mask][cur] > dp[mask][p]) cur = p;
 			}
+			if (cur == -1) break;
 			c[cur] = true;
 			for (auto [nxt, cost, idx] : adj[cur]) {
 				if (dp[mask][nxt] <= dp[mask][cur] + cost) continue;
