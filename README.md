@@ -51,7 +51,7 @@
 | :--- | :---: | :---: |
 | [**Sample**](./library-checker/sample/README.md) | 3 / 3 (100.00%) | 2026-05-15 |
 | [**Data Structure**](./library-checker/data-structure/README.md) | 21 / 47 (44.68%) | 2026-06-03 |
-| [**Graph**](./library-checker/graph/README.md) | 0 / 38 (0.00%) | 2026-05-15 |
+| [**Graph**](./library-checker/graph/README.md) | 1 / 38 (2.63%) | 2026-06-05 |
 | [**Tree**](./library-checker/tree/README.md) | 9 / 20 (45.00%) | 2026-05-19 |
 | [**Convolution**](./library-checker/convolution/README.md) | 0 / 16 (0.00%) | 2026-05-15 |
 | [**Number Theory**](./library-checker/number-theory/README.md) | 3 / 26 (11.54%) | 2026-05-22 |
