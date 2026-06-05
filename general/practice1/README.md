@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 89 / 174 (51.15%)
-- **마지막 업데이트:** 2026-05-27
+- **진행도:** 90 / 174 (51.72%)
+- **마지막 업데이트:** 2026-06-06
 
 ---
 
@@ -137,7 +137,7 @@
 | 124 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 단어의 개수 | - | [source code](./count-words/main.cpp) |
 | 125 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 이야기 배열 | - | |
 | 126 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Coins and Boxes | https://qoj.ac/problem/2541 | |
-| 127 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Animal Observation (hard version) | https://codeforces.com/contest/1304/problem/F2 | |
+| 127 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Animal Observation (hard version) | https://codeforces.com/contest/1304/problem/F2 | [source code](./animal-observation-hard/main.cpp) |
 | 128 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Copy and Paste 3 | https://qoj.ac/problem/3504 | |
 | 129 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Il Derby della Madonnina | https://qoj.ac/problem/3861 | |
 | 130 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | GCD Harmony | https://qoj.ac/problem/4229 | |
