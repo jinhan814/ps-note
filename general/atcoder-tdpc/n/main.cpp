@@ -56,10 +56,8 @@ auto sol = [](int n, auto adj) {
 			dp[nxt] = mul(dp[nxt], dp[cur]);
 			dp[nxt] = mul(dp[nxt], bino(sz[nxt] - 1, sz[cur]));
 			ret = add(ret, self(self, nxt, cur));
-			sz[cur] = sz1;
-			sz[nxt] = sz2;
-			dp[cur] = dp1;
-			dp[nxt] = dp2;
+			sz[cur] = sz1, sz[nxt] = sz2;
+			dp[cur] = dp1, dp[nxt] = dp2;
 		}
 		return ret;
 	};
