@@ -17,6 +17,7 @@ auto sol = [](int n, int m, int k, auto v, auto e) {
 	for (int mask = 1; mask < 1 << k; mask++) {
 		for (int s = (mask - 1) & mask; s > 0; s = (s - 1) & mask) {
 			int t = mask ^ s;
+			if (s < t) break;
 			for (int i = 0; i < n; i++) {
 				dp[mask][i] = min(dp[mask][i], dp[s][i] + dp[t][i]);
 			}
@@ -41,6 +42,7 @@ auto sol = [](int n, int m, int k, auto v, auto e) {
 	auto rec = [&](const auto& self, int mask, int cur) -> void {
 		for (int s = (mask - 1) & mask; s > 0; s = (s - 1) & mask) {
 			int t = mask ^ s;
+			if (s < t) break;
 			if (dp[mask][cur] != dp[s][cur] + dp[t][cur]) continue;
 			self(self, s, cur);
 			self(self, t, cur);
