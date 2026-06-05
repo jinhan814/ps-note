@@ -12,13 +12,18 @@ auto sol = [](int n, int m, int k, auto v, auto e) {
 	}
 	vector d(n, vector(n, i64(1) << 60));
 	for (int i = 0; i < n; i++) {
-		set pq{ pair(d[i][i] = 0, i) };
-		while (pq.size()) {
-			auto [cdist, cur] = *pq.begin(); pq.erase(pq.begin());
+		vector c(n, false);
+		d[i][i] = 0;
+		for (int iter = 0; iter < n; iter++) {
+			int cur = -1;
+			for (int p = 0; p < n; p++) {
+				if (c[p]) continue;
+				if (cur == -1 || d[i][cur] > d[i][p]) cur = p;
+			}
+			c[cur] = true;
 			for (auto [nxt, cost, idx] : adj[cur]) {
-				if (d[i][nxt] <= cdist + cost) continue;
-				pq.erase(pair(d[i][nxt], nxt));
-				pq.insert(pair(d[i][nxt] = cdist + cost, nxt));
+				if (d[i][nxt] <= d[i][cur] + cost) continue;
+				d[i][nxt] = d[i][cur] + cost;
 			}
 		}
 	}
@@ -36,9 +41,17 @@ auto sol = [](int n, int m, int k, auto v, auto e) {
 				dp[mask][i] = min(dp[mask][i], dp[s][i] + dp[t][i]);
 			}
 		}
-		for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
-				dp[mask][i] = min(dp[mask][i], dp[mask][j] + d[j][i]);
+		vector c(n, false);
+		for (int iter = 0; iter < n; iter++) {
+			int cur = -1;
+			for (int p = 0; p < n; p++) {
+				if (c[p]) continue;
+				if (cur == -1 || dp[mask][cur] > dp[mask][p]) cur = p;
+			}
+			c[cur] = true;
+			for (auto [nxt, cost, idx] : adj[cur]) {
+				if (dp[mask][nxt] <= dp[mask][cur] + cost) continue;
+				dp[mask][nxt] = dp[mask][cur] + cost;
 			}
 		}
 	}
