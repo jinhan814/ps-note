@@ -24,7 +24,7 @@ auto sol = [](int n) {
 			}
 			for (int x = b; x <= 9; x++) {
 				int val = (a * 10 + x) % n;
-				if (d[9 * val + (x - 1)] != -1) continue;
+				if (d[9 * val + (x - 1)] != -1) break;
 				d[9 * val + (x - 1)] = d[9 * a + (b - 1)] + 1;
 				p[9 * val + (x - 1)] = pair(a, b);
 				nq.push_back(pair(val, x));
