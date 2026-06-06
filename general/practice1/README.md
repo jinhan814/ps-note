@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 92 / 174 (52.87%)
-- **마지막 업데이트:** 2026-06-07
+- **진행도:** 94 / 174 (54.02%)
+- **마지막 업데이트:** 2026-06-06
 
 ---
 
@@ -72,7 +72,7 @@
 | 59 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Balanced Trees | https://dmoj.ca/problem/ccc18s4 | [source code](./balanced-trees/main.cpp) |
 | 60 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 게임이론 | - | |
 | 61 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Min Max Convert | https://qoj.ac/problem/2387 | [source code](./min-max-convert/main.cpp) |
-| 62 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Chemical table | https://qoj.ac/problem/326 | |
+| 62 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Chemical table | https://qoj.ac/problem/326 | [source code](./chemical-table/main.cpp) |
 | 63 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Nim without Zero | https://atcoder.jp/contests/jag2018summer-day3/tasks/jag2018summer_day3_f | [source code](./nim-without-zero/main.cpp) |
 | 64 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Growing Vegetables is Fun 3 | https://qoj.ac/problem/2764 | |
 | 65 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Moorio Kart | https://qoj.ac/problem/1802 | |
