@@ -7,8 +7,8 @@ auto sol = [](int n, auto v) {
 		acc ^= v[i];
 		if (v[i] % 2 == 1) cnt++;
 	}
-	if (acc == 1) return false;
 	if (acc == 0 && cnt == 0) return false;
+	if (acc == 1) return false;
 	return true;
 };
 
