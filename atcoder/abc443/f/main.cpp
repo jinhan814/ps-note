@@ -10,32 +10,29 @@ auto sol = [](int n) {
 		d[9 * i + (i - 1)] = 0;
 		q.push_back(pair(i, i));
 	}
-	int opt = -1;
 	while (q.size()) {
 		vector nq(0, pair(0, 0));
 		for (auto [a, b] : q) {
-			if (a == 0 && opt == -1) {
-				opt = b;
-				break;
+			if (a == 0) {
+				string ret;
+				while (a != -1) {
+					ret.push_back(48 + b);
+					tie(a, b) = p[9 * a + (b - 1)];
+				}
+				reverse(ret.begin(), ret.end());
+				return ret;
 			}
 			for (int x = b; x <= 9; x++) {
 				int val = (a * 10 + x) % n;
-				if (d[9 * val + (x - 1)] != -1) continue;
+				if (d[9 * val + (x - 1)] != -1) break;
 				d[9 * val + (x - 1)] = d[9 * a + (b - 1)] + 1;
 				p[9 * val + (x - 1)] = pair(a, b);
 				nq.push_back(pair(val, x));
 			}
 		}
-		if (opt != -1) break;
 		q.swap(nq);
 	}
-	if (opt == -1) return string("-1");
-	string ret;
-	for (int a = 0, b = opt; a != -1; tie(a, b) = p[9 * a + (b - 1)]) {
-		ret.push_back(48 + b);
-	}
-	reverse(ret.begin(), ret.end());
-	return ret;
+	return string("-1");
 };
 
 int main() {
