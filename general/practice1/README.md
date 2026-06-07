@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 95 / 174 (54.60%)
-- **마지막 업데이트:** 2026-06-06
+- **진행도:** 96 / 174 (55.17%)
+- **마지막 업데이트:** 2026-06-07
 
 ---
 
@@ -118,7 +118,7 @@
 | 105 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 돌 가져가기 | - | |
 | 106 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Rabbit Jumping | https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2384 | |
 | 107 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 나의 라임 오렌지 나무 | - | [source code](./my-orange-tree/main.cpp) |
-| 108 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Hidden Pancakes | https://qoj.ac/problem/12460 | |
+| 108 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Hidden Pancakes | https://qoj.ac/problem/12460 | [source code](./hidden-pancakes/main.cpp) |
 | 109 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 달팽이는 그늘에서 쉬고 싶다 | - | [source code](./snail-wants-to-rest/main.cpp) |
 | 110 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Secret Sequence | https://scc21.kattis.com/contests/scc21/problems/secretsequence | |
 | 111 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | King | https://qoj.ac/problem/5045 | [source code](./king/main.cpp) |
