@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
+- **진행도:** 7 / 7 (100.00%)
 - **마지막 업데이트:** 2026-06-07
 
 ---
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_0_4.svg" width="16px"> 837 | Pawn Line | https://atcoder.jp/contests/abc443/tasks/abc443_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1348 | Climbing Silver | https://atcoder.jp/contests/abc443/tasks/abc443_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1987 | Non-Increasing Number | https://atcoder.jp/contests/abc443/tasks/abc443_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2308 | Another Mod of Linear Problem | https://atcoder.jp/contests/abc443/tasks/abc443_g | |
+| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2308 | Another Mod of Linear Problem | https://atcoder.jp/contests/abc443/tasks/abc443_g | [source code](./g/main.cpp) |
