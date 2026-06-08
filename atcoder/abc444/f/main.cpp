@@ -7,7 +7,7 @@ auto sol = [](int n, i64 m, auto v) {
 	auto check = [&](int lim) {
 		i64 acc = 0;
 		int cnt = 0;
-		map buc{ pair(0, i64(0)) }; buc.clear();
+		vector buc(0, pair(0, i64(0)));
 		for (int i = 0; i < n; i++) {
 			acc += v[i];
 			if (v[i] >= lim) cnt++;
@@ -27,23 +27,22 @@ auto sol = [](int n, i64 m, auto v) {
 				tie(v1, v2, c1, c2) = tuple(nv1, nv2, nc1, nc2);
 			}
 			if (v2 == 2 * lim - 1) v2 = lim;
-			if (v1 >= lim) buc[v1] += c1;
-			if (v2 >= lim) buc[v2] += c2;
+			if (v1 >= lim) buc.push_back(pair(v1, c1));
+			if (v2 >= lim) buc.push_back(pair(v2, c2));
 		}
+		sort(buc.begin(), buc.end());
 		i64 rem = (n + m + 1) / 2;
 		if (rem > cnt + m) return false;
-		while (rem > 0 && buc.size()) {
-			auto& [a, b] = *buc.begin();
-			i64 x = min(b, rem);
+		for (auto [a, b] : buc) {
+			i64 x = min(rem, b);
 			acc -= a * x;
 			rem -= x;
-			b -= x;
-			if (b == 0) buc.erase(buc.begin());
+			if (rem == 0) break;
 		}
 		if (rem > 0) return false;
 		return acc >= (n + m - 1) / 2;
 	};
-	int lo = 1, hi = 1'000'000'001;
+	int lo = 1, hi = 1 << 30;
 	while (lo + 1 < hi) {
 		int mid = (lo + hi) / 2;
 		if (check(mid)) lo = mid;
