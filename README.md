@@ -14,22 +14,6 @@
 - [**NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
 
-**Library Checker**
-- [**Sample**](./library-checker/sample/README.md): Library Checker > Sample
-- [**Data Structure**](./library-checker/data-structure/README.md): Library Checker > Data Structure
-- [**Graph**](./library-checker/graph/README.md): Library Checker > Graph
-- [**Tree**](./library-checker/tree/README.md): Library Checker > Tree
-- [**Convolution**](./library-checker/convolution/README.md): Library Checker > Convolution
-- [**Number Theory**](./library-checker/number-theory/README.md): Library Checker > Number Theory
-- [**Polynomial**](./library-checker/polynomial/README.md): Library Checker > Polynomial
-- [**Set Power Series**](./library-checker/set-power-series/README.md): Library Checker > Set Power Series
-- [**Enumerative Combinatorics**](./library-checker/enumerative-combinatorics/README.md): Library Checker > Enumerative Combinatorics
-- [**Linear Algebra**](./library-checker/linear-algebra/README.md): Library Checker > Linear Algebra
-- [**String**](./library-checker/string/README.md): Library Checker > String
-- [**Geometry**](./library-checker/geometry/README.md): Library Checker > Geometry
-- [**Big Integer**](./library-checker/big-integer/README.md): Library Checker > Big Integer
-- [**Other**](./library-checker/other/README.md): Library Checker > Other
-
 ---
 
 ## 📊 Overall Progress
