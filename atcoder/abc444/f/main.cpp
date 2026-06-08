@@ -11,15 +11,11 @@ auto sol = [](int n, i64 m, auto v) {
 		for (int i = 0; i < n; i++) {
 			acc += v[i];
 			if (v[i] >= lim) cnt++;
-			int v1 = v[i];
-			int v2 = v[i] + 1;
-			i64 c1 = 1;
-			i64 c2 = 0;
+			int v1 = v[i], v2 = v[i] + 1;
+			i64 c1 = 1, c2 = 0;
 			while (v1 >= 2 * lim - 1) {
-				int nv1 = v1 / 2;
-				int nv2 = (v2 + 1) / 2;
-				i64 nc1 = c1;
-				i64 nc2 = c2;
+				int nv1 = v1 / 2, nv2 = (v2 + 1) / 2;
+				i64 nc1 = c1, nc2 = c2;
 				if ((v1 + 1) / 2 == nv1) nc1 += c1;
 				else nc2 += c1;
 				if (v2 / 2 == nv1) nc1 += c2;
