@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
-- **마지막 업데이트:** 2026-06-01
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-06-08
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_3_4.svg" width="16px"> 726 | AtCoder Riko | https://atcoder.jp/contests/abc444/tasks/abc444_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_3_4.svg" width="16px"> 722 | Many Repunit Sum | https://atcoder.jp/contests/abc444/tasks/abc444_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_4_4.svg" width="16px"> 1193 | Sparse Range | https://atcoder.jp/contests/abc444/tasks/abc444_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/orange_2_4.svg" width="16px"> 2660 | Half and Median | https://atcoder.jp/contests/abc444/tasks/abc444_f | |
+| F | <img src="../../_assets/orange_2_4.svg" width="16px"> 2660 | Half and Median | https://atcoder.jp/contests/abc444/tasks/abc444_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/bronze.svg" width="16px"> 3232 | Kyoen | https://atcoder.jp/contests/abc444/tasks/abc444_g | |
