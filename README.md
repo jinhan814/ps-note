@@ -85,7 +85,7 @@
 | [**ABC458**](./atcoder/abc458/README.md) | 6 / 7 (85.71%) | 2026-05-18 |
 | [**ABC459**](./atcoder/abc459/README.md) | 6 / 7 (85.71%) | 2026-05-25 |
 | [**ABC460**](./atcoder/abc460/README.md) | 7 / 7 (100.00%) | 2026-06-03 |
-| [**ABC461**](./atcoder/abc461/README.md) | 6 / 7 (85.71%) | 2026-06-08 |
+| [**ABC461**](./atcoder/abc461/README.md) | 7 / 7 (100.00%) | 2026-06-08 |
 
 ---
 
