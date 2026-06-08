@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
-- **마지막 업데이트:** 2026-06-07
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-06-08
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_2_4.svg" width="16px"> 604 | Variety | https://atcoder.jp/contests/abc461/tasks/abc461_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/green_3_4.svg" width="16px"> 1089 | Count Subgrid Sum = K | https://atcoder.jp/contests/abc461/tasks/abc461_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1524 | E-liter | https://atcoder.jp/contests/abc461/tasks/abc461_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1984 | Total Product is N | https://atcoder.jp/contests/abc461/tasks/abc461_f | |
+| F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1984 | Total Product is N | https://atcoder.jp/contests/abc461/tasks/abc461_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2388 | Graph Problem 2026 | https://atcoder.jp/contests/abc461/tasks/abc461_g | |
