@@ -25,7 +25,7 @@
 | 12 | <img src="../../_assets/orange_2_4.svg" width="16px"> 2593 | 猫 | https://atcoder.jp/contests/tdpc/tasks/tdpc_cat | [source code](./l/main.cpp) |
 | 13 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2463 | 家 | https://atcoder.jp/contests/tdpc/tasks/tdpc_house | [source code](./m/main.cpp) |
 | 14 | <img src="../../_assets/red_0_4.svg" width="16px"> 2813 | 木 | https://atcoder.jp/contests/tdpc/tasks/tdpc_tree | [source code](./n/main.cpp) |
-| 15 | <img src="../../_assets/red_3_4.svg" width="16px"> 3094 | 文字列 | https://atcoder.jp/contests/tdpc/tasks/tdpc_string | |
+| 15 | <img src="../../_assets/red_3_4.svg" width="16px"> 3094 | 文字列 | https://atcoder.jp/contests/tdpc/tasks/tdpc_string | [source code](./o/main.cpp) |
 | 16 | <img src="../../_assets/silver.svg" width="16px"> 3605 | うなぎ | https://atcoder.jp/contests/tdpc/tasks/tdpc_eel | |
 | 17 | <img src="../../_assets/silver.svg" width="16px"> 3810 | 連結 | https://atcoder.jp/contests/tdpc/tasks/tdpc_concatenation | |
 | 18 | <img src="../../_assets/bronze.svg" width="16px"> 3282 | グラフ | https://atcoder.jp/contests/tdpc/tasks/tdpc_graph | |
