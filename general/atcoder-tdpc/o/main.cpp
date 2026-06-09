@@ -26,10 +26,10 @@ auto sol = [](auto v) {
 	sort(v.begin(), v.end(), greater{});
 	while (v.back() == 0) v.pop_back();
 	reverse(v.begin(), v.end());
-	vector fac(262, 1);
-	for (int i = 1; i <= 261; i++) fac[i] = mul(fac[i - 1], i);
-	vector inv(262, pow(fac[261], mod - 2));
-	for (int i = 261; i >= 1; i--) inv[i - 1] = mul(inv[i], i);
+	vector fac(252, 1);
+	for (int i = 1; i <= 251; i++) fac[i] = mul(fac[i - 1], i);
+	vector inv(252, pow(fac[251], mod - 2));
+	for (int i = 251; i >= 1; i--) inv[i - 1] = mul(inv[i], i);
 	auto bino = [&](int n, int k) {
 		if (k == 0 || k == n) return 1;
 		return mul(fac[n], mul(inv[k], inv[n - k]));
