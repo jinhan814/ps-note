@@ -45,5 +45,5 @@ int main() {
 		for (int i = 0; i < k; i++) p[i] = np[i << 1 | (n & 1)];
 		for (int i = 0; i <= k; i++) q[i] = nq[i << 1];
 	}
-	cout << mul(p[0], pow(q[0], mod - 2)) << '\n';
+	cout << p[0] << '\n';
 }
