@@ -23,6 +23,9 @@ constexpr int pow(int x, int n) {
 }
 
 auto sol = [](auto v) {
+	sort(v.begin(), v.end(), greater{});
+	while (v.back() == 0) v.pop_back();
+	reverse(v.begin(), v.end());
 	vector fac(262, 1);
 	for (int i = 1; i <= 261; i++) fac[i] = mul(fac[i - 1], i);
 	vector inv(262, pow(fac[261], mod - 2));
@@ -31,9 +34,6 @@ auto sol = [](auto v) {
 		if (k == 0 || k == n) return 1;
 		return mul(fac[n], mul(inv[k], inv[n - k]));
 	};
-	sort(v.begin(), v.end(), greater{});
-	while (v.back() == 0) v.pop_back();
-	reverse(v.begin(), v.end());
 	int acc = v[0];
 	vector dp(acc + 1, 0); dp[acc - 1] = 1;
 	for (int iter = 1; iter < v.size(); iter++) {
