@@ -35,7 +35,8 @@ auto sol = [](auto v) {
 		return mul(fac[n], mul(inv[k], inv[n - k]));
 	};
 	int acc = v[0];
-	vector dp(acc + 1, 0); dp[acc - 1] = 1;
+	vector dp(acc + 1, 0);
+	dp[acc - 1] = 1;
 	for (int iter = 1; iter < v.size(); iter++) {
 		int nacc = acc + v[iter];
 		vector ndp(nacc + 1, 0);
