@@ -58,16 +58,13 @@ auto sol = [](int n, auto adj) {
 		int& ret = dp[a][b];
 		if (ret != -1) return ret;
 		ret = 0;
-		for (int i = 0; i < g[a].size(); i++) {
-			int na = g[a][i];
+		for (int na : g[a]) {
 			if (na == b) ret = max(ret, self(self, b, b));
 			else ret = max(ret, self(self, na, b) + v[na]);
 		}
 		if (!c[a][b]) {
-			for (int i = 0; i < g[b].size(); i++) {
-				int nb = g[b][i];
-				if (nb == a) ret = max(ret, self(self, a, a));
-				else ret = max(ret, self(self, a, nb) + v[nb]);
+			for (int nb : g[b]) {
+				ret = max(ret, self(self, a, nb) + v[nb]);
 			}
 		}
 		return ret;
