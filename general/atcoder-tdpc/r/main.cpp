@@ -41,17 +41,6 @@ auto sol = [](int n, auto adj) {
 		sort(g[i].begin(), g[i].end());
 		g[i].erase(unique(g[i].begin(), g[i].end()), g[i].end());
 	}
-	vector c(scc_cnt + 1, vector(scc_cnt + 1, false));
-	for (int i = 1; i <= scc_cnt; i++) {
-		auto rec = [&](const auto& self, int cur) -> void {
-			c[i][cur] = true;
-			for (int nxt : g[cur]) {
-				if (c[i][nxt]) continue;
-				self(self, nxt);
-			}
-		};
-		rec(rec, i);
-	}
 	vector dp(scc_cnt + 1, vector(scc_cnt + 1, -1));
 	auto rec = [&](const auto& self, int a, int b) -> int {
 		if (a < b) swap(a, b);
@@ -62,7 +51,7 @@ auto sol = [](int n, auto adj) {
 			if (na == b) ret = max(ret, self(self, b, b));
 			else ret = max(ret, self(self, na, b) + v[na]);
 		}
-		if (!c[a][b]) {
+		if (g[a].empty()) {
 			for (int nb : g[b]) {
 				ret = max(ret, self(self, a, nb) + v[nb]);
 			}
