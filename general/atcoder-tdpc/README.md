@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 16 / 20 (80.00%)
-- **마지막 업데이트:** 2026-06-09
+- **진행도:** 17 / 20 (85.00%)
+- **마지막 업데이트:** 2026-06-11
 
 ---
 
@@ -29,5 +29,5 @@
 | 16 | <img src="../../_assets/silver.svg" width="16px"> 3605 | うなぎ | https://atcoder.jp/contests/tdpc/tasks/tdpc_eel | |
 | 17 | <img src="../../_assets/silver.svg" width="16px"> 3810 | 連結 | https://atcoder.jp/contests/tdpc/tasks/tdpc_concatenation | |
 | 18 | <img src="../../_assets/bronze.svg" width="16px"> 3282 | グラフ | https://atcoder.jp/contests/tdpc/tasks/tdpc_graph | |
-| 19 | <img src="../../_assets/bronze.svg" width="16px"> 3211 | マス目 | https://atcoder.jp/contests/tdpc/tasks/tdpc_grid | |
+| 19 | <img src="../../_assets/bronze.svg" width="16px"> 3211 | マス目 | https://atcoder.jp/contests/tdpc/tasks/tdpc_grid | [source code](./s/main.cpp) |
 | 20 | <img src="../../_assets/bronze.svg" width="16px"> 3282 | フィボナッチ | https://atcoder.jp/contests/tdpc/tasks/tdpc_fibonacci | [source code](./t/main.cpp) |
