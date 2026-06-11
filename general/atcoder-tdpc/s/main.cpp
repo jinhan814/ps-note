@@ -31,17 +31,13 @@ auto sol = [](int n, int m) {
 				ns.push_back('0');
 				update(ns, val);
 				ns.pop_back();
-				bool f1 = s[0] != '0';
-				bool f2 = i > 0 && s[n - 1] != '0';
-				if (f1 && f2 && s[0] != s[n - 1]) {
-					char v1 = min(s[0], s[n - 1]);
-					char v2 = s[0] ^ s[n - 1] ^ v1;
-					for (char& c : ns) if (c == v2) c = v1;
-					ns.push_back(v1);
-				}
-				else {
-					ns.push_back(f1 ? s[0] : f2 ? s[n - 1] : '5');
-				}
+				char v1 = '5';
+				char v2 = '5';
+				if (s[0] != '0') v1 = s[0];
+				if (i > 0 && s[n - 1] != '0') v2 = s[n - 1];
+				if (v1 > v2) swap(v1, v2);
+				for (char& c : ns) if (c == v2) c = v1;
+				ns.push_back(v1);
 				update(ns, val);
 			}
 			dp.swap(ndp);
