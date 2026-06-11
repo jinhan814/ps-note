@@ -47,13 +47,15 @@ auto sol = [](int n, auto adj) {
 		int& ret = dp[a][b];
 		if (ret != -1) return ret;
 		ret = 0;
-		for (int na : g[a]) {
-			if (na == b) ret = max(ret, self(self, b, b));
-			else ret = max(ret, self(self, na, b) + v[na]);
+		for (int i : g[a]) {
+			int val = self(self, i, b);
+			if (i != b) val += v[i];
+			ret = max(ret, val);
 		}
 		if (g[a].empty()) {
-			for (int nb : g[b]) {
-				ret = max(ret, self(self, a, nb) + v[nb]);
+			for (int i : g[b]) {
+				int val = self(self, a, i) + v[i];
+				ret = max(ret, val);
 			}
 		}
 		return ret;
