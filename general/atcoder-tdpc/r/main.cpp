@@ -54,16 +54,14 @@ auto sol = [](int n, auto adj) {
 	}
 	vector dp(scc_cnt + 1, vector(scc_cnt + 1, -1));
 	auto rec = [&](const auto& self, int a, int b) -> int {
-		if (a > b) swap(a, b);
+		if (a < b) swap(a, b);
 		int& ret = dp[a][b];
 		if (ret != -1) return ret;
 		ret = 0;
-		if (!c[b][a] || a == b) {
-			for (int i = 0; i < g[a].size(); i++) {
-				int na = g[a][i];
-				if (na == b) ret = max(ret, self(self, b, b));
-				else ret = max(ret, self(self, na, b) + v[na]);
-			}
+		for (int i = 0; i < g[a].size(); i++) {
+			int na = g[a][i];
+			if (na == b) ret = max(ret, self(self, b, b));
+			else ret = max(ret, self(self, na, b) + v[na]);
 		}
 		if (!c[a][b]) {
 			for (int i = 0; i < g[b].size(); i++) {
