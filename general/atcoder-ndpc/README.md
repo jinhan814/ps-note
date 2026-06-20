@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 11 / 20 (55.00%)
-- **마지막 업데이트:** 2026-05-08
+- **진행도:** 12 / 20 (60.00%)
+- **마지막 업데이트:** 2026-06-20
 
 ---
 
@@ -22,7 +22,7 @@
 | 9 | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2112 | Update Positions | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_i | [source code](./i/main.cpp) |
 | 10 | <img src="../../_assets/orange_3_4.svg" width="16px"> 2684 | Number and Total | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_j | |
 | 11 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2400 | Addition and Subtraction | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_k | |
-| 12 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2235 | LCM | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_l | |
+| 12 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2235 | LCM | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_l | [source code](./l/main.cpp) |
 | 13 | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2273 | Numeral | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_m | [source code](./m/main.cpp) |
 | 14 | <img src="../../_assets/silver.svg" width="16px"> 3608 | Knapsack | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_n | [source code](./n/main.cpp) |
 | 15 | <img src="../../_assets/red_3_4.svg" width="16px"> 3061 | Game | https://atcoder.jp/contests/ndpc/tasks/ndpc2026_o | |
