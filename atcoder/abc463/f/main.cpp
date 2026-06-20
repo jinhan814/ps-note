@@ -31,6 +31,17 @@ auto sol = [](int n, auto v) {
 		if (k == 0 || k == n) return 1;
 		return mul(fac[n], mul(inv[k], inv[n - k]));
 	};
+	map cache{ pair(pair(0, 0), 0) }; cache.clear();
+	auto calc = [&](int a, int b) {
+		if (cache.count(pair(a, b))) return cache[pair(a, b)];
+		int ret = 0;
+		for (int i = 0; i <= a; i++) {
+			int v1 = bino(a, i);
+			int v2 = pow(b + i, mod - 2);
+			ret = add(ret, mul(v1, v2));
+		}
+		return cache[pair(a, b)] = ret;
+	};
 	vector f(n, false);
 	for (int i = 0; i < n; i++) {
 		if (v[i][0] <= v[i][1]) continue;
@@ -44,17 +55,6 @@ auto sol = [](int n, auto v) {
 		if (smx == -1 || v[smx][1] < v[i][1]) smx = i;
 		if (mx == -1 || v[mx][1] < v[smx][1]) swap(mx, smx);
 	}
-	map cache{ pair(pair(0, 0), 0) }; cache.clear();
-	auto calc = [&](int a, int b) {
-		if (cache.count(pair(a, b))) return cache[pair(a, b)];
-		int ret = 0;
-		for (int i = 0; i <= a; i++) {
-			int v1 = bino(a, i);
-			int v2 = pow(b + i, mod - 2);
-			ret = add(ret, mul(v1, v2));
-		}
-		return cache[pair(a, b)] = ret;
-	};
 	vector ret(n, array{ 0, 0 });
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < 2; j++) {
