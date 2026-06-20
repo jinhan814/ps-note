@@ -28,8 +28,9 @@ constexpr int pow(int x, int n) {
 
 auto sol = [](int n, auto v) {
 	vector buc(n + 1, vector(0, 0));
-	vector mu(n + 1, 0); mu[1] = 1;
+	vector mu(n + 1, 0);
 	vector inv(n + 1, 0);
+	mu[1] = 1;
 	for (int i = 1; i <= n; i++) {
 		for (int j = i; j <= n; j += i) {
 			buc[j].push_back(i);
