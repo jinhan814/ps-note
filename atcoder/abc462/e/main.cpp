@@ -9,16 +9,12 @@ auto sol = [](i64 a, i64 b, i64 x, i64 y) {
 	if (a > b) swap(a, b), swap(x, y);
 	i64 ret = a * (min(x, y) * 2);
 	if (x < y) {
-		i64 v1 = a * ((y - x) / 2) + b * ((y - x + 1) / 2);
-		i64 v2 = (4 * a) * ((y - x) / 2);
-		if ((y - x) % 2 == 1) v2 += min(3 * a, b);
-		ret += min(v1, v2);
+		ret += min(4 * a, a + b) * ((y - x) / 2);
+		if ((y - x) % 2 == 1) ret += min(3 * a, b);
 	}
 	if (x > y) {
-		i64 v1 = b * ((x - y) / 2) + a * ((x - y + 1) / 2);
-		i64 v2 = (4 * a) * ((x - y) / 2);
-		if ((x - y) % 2 == 1) v2 += a;
-		ret += min(v1, v2);
+		ret += min(4 * a, a + b) * ((x - y) / 2);
+		if ((x - y) % 2 == 1) ret += a;
 	}
 	return ret;
 };
