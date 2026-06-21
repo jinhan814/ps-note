@@ -95,7 +95,6 @@ auto sol = [](int n, auto a, auto b) {
 		auto p1 = pq.top(); pq.pop();
 		auto p2 = pq.top(); pq.pop();
 		auto c = conv(p1, p2);
-		if (c.size() > n + 1) c.resize(n + 1);
 		pq.push(c);
 	}
 	auto p = pq.top();
