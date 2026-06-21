@@ -1,10 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+using i64 = long long;
+
 auto ccw = [](auto a, auto b, auto c) {
-	int x1 = b[0] - a[0], y1 = b[1] - a[1];
-	int x2 = c[0] - b[0], y2 = c[1] - b[1];
-	int res = x1 * y2 - x2 * y1;
+	i64 x1 = b[0] - a[0], y1 = b[1] - a[1];
+	i64 x2 = c[0] - b[0], y2 = c[1] - b[1];
+	i64 res = x1 * y2 - x2 * y1;
 	return res ? res > 0 ? 1 : -1 : 0;
 };
 
@@ -18,7 +20,7 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		bool f1 = a > array{ 0, 0 };
 		bool f2 = b > array{ 0, 0 };
 		if (f1 != f2) return f1;
-		return ccw(a, array{ 0, 0 }, b) > 0;
+		return ccw(array{ 0, 0 }, a, b) < 0;
 	};
 	auto c = v;
 	sort(c.begin(), c.end(), cmp);
