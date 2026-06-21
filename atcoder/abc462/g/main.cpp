@@ -77,8 +77,7 @@ auto sol = [](int n, auto a, auto b) {
 	vector ca(n + 1, 0), cb(n + 1, 0);
 	for (int x : a) ca[x]++;
 	for (int x : b) cb[x]++;
-	auto cmp = [](const auto& a, const auto& b) { return a.size() > b.size(); };
-	priority_queue<vector<int>, vector<vector<int>>, decltype(cmp)> pq(cmp);
+	vector buc(0, vector(0, 0));
 	for (int x = 1; x <= n; x++) {
 		if (min(ca[x], cb[x]) == 0) continue;
 		vector c(min(ca[x], cb[x]) + 1, 0);
@@ -88,16 +87,17 @@ auto sol = [](int n, auto a, auto b) {
 			c[i] = mul(c[i], bino(ca[x], i));
 			c[i] = mul(c[i], bino(cb[x], i));
 		}
-		pq.push(c);
+		buc.push_back(c);
 	}
-	if (pq.empty()) return 1;
-	while (pq.size() >= 2) {
-		auto p1 = pq.top(); pq.pop();
-		auto p2 = pq.top(); pq.pop();
-		auto c = conv(p1, p2);
-		pq.push(c);
-	}
-	auto p = pq.top();
+	if (buc.empty()) return 1;
+	auto rec = [&](const auto& self, int l, int r) {
+		if (l == r) return buc[l];
+		int mid = (l + r) / 2;
+		auto p1 = self(self, l, mid);
+		auto p2 = self(self, mid + 1, r);
+		return conv(p1, p2);
+	};
+	auto p = rec(rec, 0, buc.size() - 1);
 	int ret = 0;
 	for (int i = 0; i < p.size(); i++) {
 		int val = mul(p[i], fac[n - i]);
