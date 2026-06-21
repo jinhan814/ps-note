@@ -19,7 +19,7 @@
 | 6 | <img src="../../_assets/blue_2_4.svg" width="16px"> 1787 | Colored Paper | https://atcoder.jp/contests/fps-24/tasks/fps_24_f | |
 | 7 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1941 | Coin | https://atcoder.jp/contests/fps-24/tasks/fps_24_g | |
 | 8 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1991 | Jump | https://atcoder.jp/contests/fps-24/tasks/fps_24_h | |
-| 9 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1869 | Score | https://atcoder.jp/contests/fps-24/tasks/fps_24_i | |
+| 9 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1869 | Score | https://atcoder.jp/contests/fps-24/tasks/fps_24_i | [source code](./i/main.cpp) |
 | 10 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2469 | Sugoroku | https://atcoder.jp/contests/fps-24/tasks/fps_24_j | |
 | 11 | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2249 | Permutation | https://atcoder.jp/contests/fps-24/tasks/fps_24_k | |
 | 12 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2200 | Permutation 2 | https://atcoder.jp/contests/fps-24/tasks/fps_24_l | |
