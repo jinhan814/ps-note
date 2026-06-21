@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
+- **진행도:** 7 / 7 (100.00%)
 - **마지막 업데이트:** 2026-06-21
 
 ---
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 942 | Maximize the Gap | https://atcoder.jp/contests/abc463/tasks/abc463_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_4_4.svg" width="16px"> 1135 | Roads and Gates | https://atcoder.jp/contests/abc463/tasks/abc463_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2121 | Senshuraku | https://atcoder.jp/contests/abc463/tasks/abc463_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/orange_0_4.svg" width="16px"> 2446 | Random Walk Distance | https://atcoder.jp/contests/abc463/tasks/abc463_g | |
+| G | <img src="../../_assets/orange_0_4.svg" width="16px"> 2446 | Random Walk Distance | https://atcoder.jp/contests/abc463/tasks/abc463_g | [source code](./g/main.cpp) |
