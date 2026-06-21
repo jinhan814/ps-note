@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
+- **진행도:** 6 / 7 (85.71%)
 - **마지막 업데이트:** 2026-06-21
 
 ---
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_1_4.svg" width="16px"> 555 | Sake or Water | https://atcoder.jp/contests/abc441/tasks/abc441_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/green_0_4.svg" width="16px"> 849 | Paid Walk | https://atcoder.jp/contests/abc441/tasks/abc441_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1059 | A > B substring | https://atcoder.jp/contests/abc441/tasks/abc441_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1499 | Must Buy | https://atcoder.jp/contests/abc441/tasks/abc441_f | |
+| F | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1499 | Must Buy | https://atcoder.jp/contests/abc441/tasks/abc441_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1992 | Takoyaki and Flip | https://atcoder.jp/contests/abc441/tasks/abc441_g | |
