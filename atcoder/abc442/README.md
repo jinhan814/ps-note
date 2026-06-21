@@ -15,6 +15,6 @@
 | B | <img src="../../_assets/gray_1_4.svg" width="16px"> 91 | Music Player | https://atcoder.jp/contests/abc442/tasks/abc442_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/gray_3_4.svg" width="16px"> 274 | Peer Review | https://atcoder.jp/contests/abc442/tasks/abc442_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_0_4.svg" width="16px"> 439 | Swap and Range Sum | https://atcoder.jp/contests/abc442/tasks/abc442_d | [source code](./d/main.cpp) |
-| E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1402 | Laser Takahashi | https://atcoder.jp/contests/abc442/tasks/abc442_e | |
+| E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1402 | Laser Takahashi | https://atcoder.jp/contests/abc442/tasks/abc442_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1344 | Diagonal Separation 2 | https://atcoder.jp/contests/abc442/tasks/abc442_f | |
 | G | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2370 | Lightweight Knapsack | https://atcoder.jp/contests/abc442/tasks/abc442_g | |
