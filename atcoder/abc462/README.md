@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-06-20
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-06-21
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 899 | Accomplice | https://atcoder.jp/contests/abc462/tasks/abc462_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1281 | Alternating Costs | https://atcoder.jp/contests/abc462/tasks/abc462_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1953 | More ABC | https://atcoder.jp/contests/abc462/tasks/abc462_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2225 | Completely Wrong | https://atcoder.jp/contests/abc462/tasks/abc462_g | |
+| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2225 | Completely Wrong | https://atcoder.jp/contests/abc462/tasks/abc462_g | [source code](./g/main.cpp) |
