@@ -61,7 +61,7 @@
 | <img src="_assets/orange_3_4.svg" width="16px"> | <img src="_assets/red_3_4.svg" width="16px"> | <img src="_assets/bronze.svg" width="16px"> | <img src="_assets/silver.svg" width="16px"> | <img src="_assets/gold.svg" width="16px"> |
 | :---: | :---: | :---: | :---: | :---: |
 |                                               |   [ARC217(0/5)](./atcoder/arc217/README.md)   | **[ARC218(3/7)](./atcoder/arc218/README.md)** |   [ARC219(2/7)](./atcoder/arc219/README.md)   |   [ARC220(1/5)](./atcoder/arc220/README.md)   |
-|   [ARC221(0/5)](./atcoder/arc221/README.md)   |                                               |                                               |                                               |                                               |
+|   [ARC221(0/5)](./atcoder/arc221/README.md)   |   [ARC222(0/6)](./atcoder/arc222/README.md)   |                                               |                                               |                                               |
 
 ---
 
