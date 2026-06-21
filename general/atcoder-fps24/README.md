@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 24 (25.00%)
+- **진행도:** 7 / 24 (29.17%)
 - **마지막 업데이트:** 2026-06-22
 
 ---
@@ -16,7 +16,7 @@
 | 3 | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1382 | Sequence | https://atcoder.jp/contests/fps-24/tasks/fps_24_c | [source code](./c/main.cpp) |
 | 4 | <img src="../../_assets/blue_0_4.svg" width="16px"> 1679 | Sequence 2 | https://atcoder.jp/contests/fps-24/tasks/fps_24_d | [source code](./d/main.cpp) |
 | 5 | <img src="../../_assets/blue_0_4.svg" width="16px"> 1665 | Sequence 3 | https://atcoder.jp/contests/fps-24/tasks/fps_24_e | [source code](./e/main.cpp) |
-| 6 | <img src="../../_assets/blue_2_4.svg" width="16px"> 1787 | Colored Paper | https://atcoder.jp/contests/fps-24/tasks/fps_24_f | |
+| 6 | <img src="../../_assets/blue_2_4.svg" width="16px"> 1787 | Colored Paper | https://atcoder.jp/contests/fps-24/tasks/fps_24_f | [source code](./f/main.cpp) |
 | 7 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1941 | Coin | https://atcoder.jp/contests/fps-24/tasks/fps_24_g | |
 | 8 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1991 | Jump | https://atcoder.jp/contests/fps-24/tasks/fps_24_h | |
 | 9 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1869 | Score | https://atcoder.jp/contests/fps-24/tasks/fps_24_i | [source code](./i/main.cpp) |
