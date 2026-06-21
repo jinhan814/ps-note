@@ -14,10 +14,9 @@ auto sol = [](int n, auto v) {
 		if (i == n) return 0;
 		int& ret = dp[i][j];
 		if (ret != -1) return ret;
-		ret = 0;
+		ret = self(self, i + 1, j);
 		ret += p[i][j];
 		ret += (n - j) - (p[i][n] - p[i][j]);
-		ret += self(self, i + 1, j);
 		if (j > 0) {
 			int val = self(self, i, j - 1);
 			if (v[i][j - 1] == '#') val++;
