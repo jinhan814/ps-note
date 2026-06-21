@@ -3,30 +3,25 @@ using namespace std;
 
 using i64 = long long;
 
-constexpr int mod = 998'244'353;
-
-constexpr int add(int a, int b) {
-	return a + b < mod ? a + b : a + b - mod;
-}
-
-constexpr int sub(int a, int b) {
-	return a < b ? a - b + mod : a - b;
-}
-
-constexpr int mul(int a, int b) {
-	return i64(a) * b % mod;
-}
-
-constexpr int pow(int x, int n) {
-	int ret = 1;
-	for (; n; n >>= 1) {
-		if (n & 1) ret = mul(ret, x);
-		x = mul(x, x);
-	}
-	return ret;
-}
-
-auto conv = [](auto a, auto b) {
+template<int mod = 119 << 23 | 1, int g = 3>
+auto conv(auto a, auto b) {
+	auto add = [&](int a, int b) {
+		return a + b < mod ? a + b : a + b - mod;
+	};
+	auto sub = [&](int a, int b) {
+		return a < b ? a - b + mod : a - b;
+	};
+	auto mul = [&](int a, int b) {
+		return i64(a) * b % mod;
+	};
+	auto pow = [&](int x, int n) {
+		int ret = 1;
+		for (; n; n >>= 1) {
+			if (n & 1) ret = mul(ret, x);
+			x = mul(x, x);
+		}
+		return ret;
+	};
 	auto ntt = [&](auto& f, bool inv) {
 		const int n = f.size();
 		for (int i = 1, j = 0; i < n; i++) {
@@ -36,7 +31,7 @@ auto conv = [](auto a, auto b) {
 			if (i < j) swap(f[i], f[j]);
 		}
 		for (int s = 2; s <= n; s <<= 1) {
-			int w_n = pow(3, (mod - 1) / s);
+			int w_n = pow(g, (mod - 1) / s);
 			if (inv) w_n = pow(w_n, mod - 2);
 			for (int i = 0; i < n; i += s) {
 				int w = 1;
@@ -63,7 +58,7 @@ auto conv = [](auto a, auto b) {
 	ntt(a, true);
 	a.resize(n);
 	return a;
-};
+}
 
 auto sol = [](int n, int m, auto v) {
 	auto rec = [&](const auto& self, int l, int r) {
