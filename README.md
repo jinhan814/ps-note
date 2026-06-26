@@ -28,7 +28,7 @@
 | [**EDPC**](./general/atcoder-edpc/README.md) | 26 / 26 (100.00%) | 2026-05-07 |
 | [**TDPC**](./general/atcoder-tdpc/README.md) | 20 / 20 (100.00%) | 2026-06-16 |
 | [**NDPC**](./general/atcoder-ndpc/README.md) | 12 / 20 (60.00%) | 2026-06-20 |
-| [**FPS24**](./general/atcoder-fps24/README.md) | 7 / 24 (29.17%) | 2026-06-22 |
+| [**FPS24**](./general/atcoder-fps24/README.md) | 9 / 24 (37.50%) | 2026-06-27 |
 
 **Library Checker**
 | Category | Progress | Last Update |
