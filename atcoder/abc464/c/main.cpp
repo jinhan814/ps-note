@@ -15,8 +15,10 @@ auto sol = [](int n, int m, auto v) {
 	for (int i = 1, p = 0; i <= m; i++) {
 		while (p < n && v[p][2] <= i) {
 			if (v[p][2] == i) {
-				if (--c[v[p][0]] == 0) cnt--;
-				if (c[v[p][1]]++ == 0) cnt++;
+				c[v[p][0]]--;
+				if (c[v[p][0]] == 0) cnt--;
+				if (c[v[p][1]] == 0) cnt++;
+				c[v[p][1]]++;
 			}
 			p++;
 		}
