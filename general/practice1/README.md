@@ -1,6 +1,6 @@
-# 🏆 재밌었던 문제들 + 재밌었던 DP 모음
+# 🏆 재밌었던 문제들 1 + 재밌었던 DP 모음
 
-[재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 문제 풀이 및 진행 현황
+[재밌었던 문제들 1](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590) 문제 풀이 및 진행 현황
 
 ## 📊 Progress
 

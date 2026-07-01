@@ -5,7 +5,7 @@
 ## 📂 Repository Structure
 
 **General**
-- [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590)
+- [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들 1](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590)
 - [**재밌었던 문제들 2**](./general/practice2/README.md): [재밌었던 문제들 2](https://www.acmicpc.net/workbook/view/22476) + [재밌었던 문제들 3](https://www.acmicpc.net/workbook/view/23261) + [괜찮았던 DP 모음](https://www.acmicpc.net/workbook/view/24832)
 - [**Class 8**](./general/class8/README.md): [solved.ac Class 8](https://solved.ac/class?class=8)
 - [**Class 9**](./general/class9/README.md): [solved.ac Class 9](https://solved.ac/class?class=9)
