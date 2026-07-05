@@ -62,7 +62,7 @@
 **AtCoder Regular Contest**
 | <img src="_assets/orange_3_4.svg" width="16px"> | <img src="_assets/red_3_4.svg" width="16px"> | <img src="_assets/bronze.svg" width="16px"> | <img src="_assets/silver.svg" width="16px"> | <img src="_assets/gold.svg" width="16px"> |
 | :---: | :---: | :---: | :---: | :---: |
-|                                               |   [ARC212(0/6)](./atcoder/arc212/README.md)   |   [ARC213(0/4)](./atcoder/arc213/README.md)   |   [ARC214(0/6)](./atcoder/arc214/README.md)   |   [ARC215(0/6)](./atcoder/arc215/README.md)   |
+|                                               |   [ARC212(0/6)](./atcoder/arc212/README.md)   |   [ARC213(0/4)](./atcoder/arc213/README.md)   | **[ARC214(4/6)](./atcoder/arc214/README.md)** |   [ARC215(0/6)](./atcoder/arc215/README.md)   |
 |   [ARC216(0/5)](./atcoder/arc216/README.md)   |   [ARC217(0/5)](./atcoder/arc217/README.md)   | **[ARC218(3/7)](./atcoder/arc218/README.md)** |   [ARC219(2/7)](./atcoder/arc219/README.md)   |   [ARC220(1/5)](./atcoder/arc220/README.md)   |
 |   [ARC221(0/5)](./atcoder/arc221/README.md)   |   [ARC222(0/6)](./atcoder/arc222/README.md)   |   [ARC223(0/6)](./atcoder/arc223/README.md)   |                                               |                                               |
 
