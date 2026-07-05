@@ -18,4 +18,4 @@
 | 5 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Let Me Tell You a Story | https://qoj.ac/problem/5931 | [source code](./let-me-tell-you-a-story/main.cpp) |
 | 6 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 반복되는 부분 문자열 | https://open.kattis.com/problems/substrings |  |
 | 7 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 좋은 부분 문자열 | https://codeforces.com/gym/100339/attachments | |
-| 8 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_h | |
+| 8 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://qoj.ac/problem/3226 | |
