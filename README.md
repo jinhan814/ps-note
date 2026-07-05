@@ -7,6 +7,7 @@
 **General**
 - [**재밌었던 문제들 1**](./general/practice1/README.md): [재밌었던 문제들 1](https://www.acmicpc.net/workbook/view/15194) + [재밌었던 DP 모음](https://www.acmicpc.net/workbook/view/19590)
 - [**재밌었던 문제들 2**](./general/practice2/README.md): [재밌었던 문제들 2](https://www.acmicpc.net/workbook/view/22476) + [재밌었던 문제들 3](https://www.acmicpc.net/workbook/view/23261) + [괜찮았던 DP 모음](https://www.acmicpc.net/workbook/view/24832)
+- [**재밌었던 문제들 3**](./general/practice3/README.md): 재밌었던 문제 모음
 - [**Class 8**](./general/class8/README.md): [solved.ac Class 8](https://solved.ac/class?class=8)
 - [**Class 9**](./general/class9/README.md): [solved.ac Class 9](https://solved.ac/class?class=9)
 - [**Class 10**](./general/class10/README.md): [solved.ac Class 10](https://solved.ac/class?class=10)
@@ -23,7 +24,8 @@
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
 | [**재밌었던 문제들 1**](./general/practice1/README.md) | 98 / 174 (56.32%) | 2026-06-27 |
-| [**재밌었던 문제들 2**](./general/practice2/README.md) | 5 / 5 (100.00%) | 2026-07-02 |
+| [**재밌었던 문제들 2**](./general/practice2/README.md) | 0 / 0 (0.00%) | 2026-07-02 |
+| [**재밌었던 문제들 3**](./general/practice3/README.md) | 5 / 5 (100.00%) | 2026-07-06 |
 | [**Class 8**](./general/class8/README.md) | 7 / 48 (14.58%) | 2026-05-12 |
 | [**Class 9**](./general/class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./general/class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
