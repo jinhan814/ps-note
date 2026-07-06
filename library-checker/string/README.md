@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 12 (0.00%)
-- **마지막 업데이트:** 2026-05-15
+- **진행도:** 1 / 12 (8.33%)
+- **마지막 업데이트:** 2026-07-07
 
 ---
 
@@ -14,7 +14,7 @@
 | 1 | Z Algorithm | https://judge.yosupo.jp/problem/zalgorithm | |
 | 2 | Enumerate Palindromes | https://judge.yosupo.jp/problem/enumerate_palindromes | |
 | 3 | Suffix Array | https://judge.yosupo.jp/problem/suffixarray | |
-| 4 | Number of Substrings | https://judge.yosupo.jp/problem/number_of_substrings | |
+| 4 | Number of Substrings | https://judge.yosupo.jp/problem/number_of_substrings | [source code](./number-of-substrings/main.cpp) |
 | 5 | Run Enumerate | https://judge.yosupo.jp/problem/runenumerate | |
 | 6 | Prefix-Substring LCS | https://judge.yosupo.jp/problem/prefix_substring_lcs | |
 | 7 | Lyndon Factorization | https://judge.yosupo.jp/problem/lyndon_factorization | |

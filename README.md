@@ -47,7 +47,7 @@
 | [**Set Power Series**](./library-checker/set-power-series/README.md) | 0 / 5 (0.00%) | 2026-05-15 |
 | [**Enumerative Combinatorics**](./library-checker/enumerative-combinatorics/README.md) | 1 / 17 (5.88%) | 2026-06-02 |
 | [**Linear Algebra**](./library-checker/linear-algebra/README.md) | 0 / 18 (0.00%) | 2026-05-15 |
-| [**String**](./library-checker/string/README.md) | 0 / 12 (0.00%) | 2026-05-15 |
+| [**String**](./library-checker/string/README.md) | 1 / 12 (8.33%) | 2026-07-07 |
 | [**Geometry**](./library-checker/geometry/README.md) | 0 / 9 (0.00%) | 2026-05-15 |
 | [**Big Integer**](./library-checker/big-integer/README.md) | 0 / 6 (0.00%) | 2026-05-15 |
 | [**Other**](./library-checker/other/README.md) | 1 / 7 (14.29%) | 2026-05-23 |
