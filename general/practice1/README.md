@@ -22,7 +22,7 @@
 | 9 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 초고속철도 | https://jungol.co.kr/problem/1479 | [source code](./high-speed-rail/main.cpp) |
 | 10 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 2,3 거듭제곱의 합 | https://qoj.ac/problem/1473 | [source code](./sum-of-powers-of-2-3/main.cpp) |
 | 11 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | K-Graph Oddity | https://codeforces.com/gym/101309 | [source code](./k-graph-oddity/main.cpp) |
-| 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 텔레점프 | https://codeforces.com/gym/100134 | |
+| 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 텔레점프 | https://codeforces.com/gym/100134 | [source code](./jumping-around/main.cpp) |
 | 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Teleporters | https://qoj.ac/problem/12666 | |
 | 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 마라톤 훈련 방해하기 | https://qoj.ac/problem/13044 | |
 | 15 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Hermes | https://qoj.ac/problem/13803 | [source code](./hermes/main.cpp) |
