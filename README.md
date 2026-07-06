@@ -25,7 +25,7 @@
 | :--- | :---: | :---: |
 | [**재밌었던 문제들 1**](./general/practice1/README.md) | 98 / 174 (56.32%) | 2026-07-06 |
 | [**재밌었던 문제들 2**](./general/practice2/README.md) | 0 / 176 (0.00%) | 2026-07-06 |
-| [**재밌었던 문제들 3**](./general/practice3/README.md) | 7 / 9 (77.78%) | 2026-07-07 |
+| [**재밌었던 문제들 3**](./general/practice3/README.md) | 7 / 10 (70.00%) | 2026-07-07 |
 | [**Class 8**](./general/class8/README.md) | 7 / 48 (14.58%) | 2026-05-12 |
 | [**Class 9**](./general/class9/README.md) | 12 / 48 (25.00%) | 2026-05-01 |
 | [**Class 10**](./general/class10/README.md) | 1 / 48 (2.08%) | 2026-04-29 |
