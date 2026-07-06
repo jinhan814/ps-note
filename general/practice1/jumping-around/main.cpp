@@ -29,7 +29,7 @@ auto sol = [](int a, int b, int c) {
 	}
 	for (int i = 1; i <= a - 1; i++) ret.push_back(p + i);
 	p += a - 1;
-	for (int i = 2; i <= b + 1; i += 2) ret.push_back(p + i);
+	for (int i = 2; i <= (b + 1) / 2 * 2; i += 2) ret.push_back(p + i);
 	for (int i = b / 2 * 2 + 1; i >= 1; i -= 2) ret.push_back(p + i);
 	return ret;
 };
