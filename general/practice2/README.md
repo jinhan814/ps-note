@@ -83,7 +83,7 @@
 | 70 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Game of Slots | - | |
 | 71 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 辺が先か，頂点が先か | - | |
 | 72 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Magical Girl Sayaka-chan | - | |
-| 73 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 은퇴한 자들의 게임 | - | |
+| 73 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 은퇴한 자들의 게임 | https://qoj.ac/contest/3726/problem/17963 | |
 | 74 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | AND Permutation | - | |
 | 75 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 여우 국수 | - | |
 | 76 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 사탕나무 | - | |
@@ -146,7 +146,7 @@
 | 133 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 이진 트리 | - | |
 | 134 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Ministarstvo | - | |
 | 135 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Library 3 | - | |
-| 136 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 두 배 | - | |
+| 136 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 두 배 | https://qoj.ac/contest/3868/problem/18671 | |
 | 137 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Merge Not Sort | - | |
 | 138 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Twin Friends | - | |
 | 139 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | n, 3n, 5n | - | |
@@ -176,9 +176,9 @@
 | 163 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 치터 잡기 | - | |
 | 164 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Walkable Strings | - | |
 | 165 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Sheriruth | - | |
-| 166 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 시장조성하기 | - | |
-| 167 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 스마트 창고 | - | |
-| 168 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 자동 광고 배치 시스템 | - | |
+| 166 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 시장조성하기 | https://qoj.ac/contest/3746/problem/17970 | |
+| 167 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 스마트 창고 | https://qoj.ac/problem/17971 | |
+| 168 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 자동 광고 배치 시스템 | https://qoj.ac/contest/3754/problem/17986 | |
 | 169 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ambulance | - | |
 | 170 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 안정적인 구조 | - | |
 | 171 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 거짓말쟁이 | - | |
