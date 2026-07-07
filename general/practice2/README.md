@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 176 (0.00%)
-- **마지막 업데이트:** 2026-07-06
+- **진행도:** 1 / 176 (0.57%)
+- **마지막 업데이트:** 2026-07-07
 
 ---
 
@@ -55,7 +55,7 @@
 | 42 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | StalinSort Algorithm | https://qoj.ac/problem/1456 | |
 | 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Cloyster | https://qoj.ac/problem/8086 | |
 | 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Hypno | https://qoj.ac/problem/8091 | |
-| 45 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Jigglypuff | https://qoj.ac/problem/8093 | |
+| 45 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Jigglypuff | https://qoj.ac/problem/8093 | [source code](./jigglypuff/main.cpp) |
 | 46 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Three Vectors | https://qoj.ac/problem/8564 | |
 | 47 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | AtCoder Quality Problem | - | |
 | 48 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Brackets | - | |
