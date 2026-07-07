@@ -115,7 +115,7 @@
 | 102 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Permutation | https://usaco.org/index.php?page=viewproblem2&cpid=1139 | |
 | 103 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Reverse Game | https://qoj.ac/problem/1644 | [source code](./reverse-game/main.cpp) |
 | 104 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 헬기 착륙장 | https://jungol.co.kr/problem/4806 | [source code](./helipad/main.cpp) |
-| 105 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 돌 가져가기 | - | |
+| 105 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 돌 가져가기 | https://qoj.ac/problem/18488 | |
 | 106 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Rabbit Jumping | https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2384 | |
 | 107 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 나의 라임 오렌지 나무 | - | [source code](./my-orange-tree/main.cpp) |
 | 108 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Hidden Pancakes | https://qoj.ac/problem/12460 | [source code](./hidden-pancakes/main.cpp) |
@@ -143,9 +143,9 @@
 | 130 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | GCD Harmony | https://qoj.ac/problem/4229 | |
 | 131 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 편지 배달 | - | |
 | 132 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 수 정렬하기, 근데 이제 제곱수를 곁들인 | - | [source code](./sort-with-squares/main.cpp) |
-| 133 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 니은숲 예술가 | - | [source code](./nieun-forest-artist/main.cpp) |
-| 134 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 대충 카드로 몬스터 잡는 게임 | - | [source code](./card-monster-game/main.cpp) |
-| 135 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Traveling Junkman Problem | - | |
+| 133 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 니은숲 예술가 | https://qoj.ac/problem/16888 | [source code](./nieun-forest-artist/main.cpp) |
+| 134 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 대충 카드로 몬스터 잡는 게임 | https://qoj.ac/contest/3864/problem/16893 | [source code](./card-monster-game/main.cpp) |
+| 135 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Traveling Junkman Problem | https://qoj.ac/contest/3864/problem/16894 | |
 | 136 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 디지털 회로 | https://qoj.ac/problem/4564 | |
 | 137 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 이분 그래프 놀이 | - | [source code](./bipartite-graph-game/main.cpp) |
 | 138 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 곰곰이와 테트리스 | - | [source code](./gomgom-tetris/main.cpp) |
