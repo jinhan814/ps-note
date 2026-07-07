@@ -38,10 +38,10 @@
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Unbalanced Parentheses | https://qoj.ac/problem/6454 | |
 | 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 동전 교환과 쿼리 | - | |
-| 28 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Mate | - | |
+| 28 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Mate | https://qoj.ac/problem/13698 | |
 | 29 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Pixel Triangles | - | |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Eulerian Flight Tour | https://qoj.ac/problem/3315 | |
-| 31 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Shortcut | - | |
+| 31 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Shortcut | https://usaco.org/index.php?page=viewproblem2&cpid=899 | |
 | 32 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Candy Boxes | - | |
 | 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Pipe Marbles | - | |
 | 34 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dangerous Skating | - | |
