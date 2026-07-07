@@ -37,18 +37,18 @@
 | 24 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Soccer | https://qoj.ac/problem/3144 | |
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Unbalanced Parentheses | https://qoj.ac/problem/6454 | |
-| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 동전 교환과 쿼리 | - | |
+| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 동전 교환과 쿼리 | https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2226 | |
 | 28 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Mate | https://qoj.ac/problem/13698 | |
 | 29 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Pixel Triangles | - | |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Eulerian Flight Tour | https://qoj.ac/problem/3315 | |
 | 31 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Shortcut | https://usaco.org/index.php?page=viewproblem2&cpid=899 | |
 | 32 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Candy Boxes | - | |
-| 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Pipe Marbles | - | |
-| 34 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dangerous Skating | - | |
-| 35 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Conveyor Belts | - | |
-| 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Cheese Game | - | |
-| 37 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Time is Mooney | - | |
-| 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Car washes | - | |
+| 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Pipe Marbles | https://dmoj.ca/problem/noi09p5 | |
+| 34 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Dangerous Skating | https://qoj.ac/problem/411 | |
+| 35 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Conveyor Belts | https://qoj.ac/problem/6255 | |
+| 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Cheese Game | https://qoj.ac/problem/3032 | |
+| 37 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Time is Mooney | https://usaco.org/index.php?page=viewproblem2&cpid=993 | |
+| 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Car washes | https://qoj.ac/problem/10714 | |
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Two Teams | - | |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Six Words | - | |
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Nine Judges | - | |
