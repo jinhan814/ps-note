@@ -33,7 +33,7 @@
 | 20 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 보드 색칠하기 | https://archive.topcoder.com/ProblemStatement/pm/11534 | |
 | 21 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 대문자 | - | |
 | 22 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Soldiers (Large) | - | |
-| 23 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 수열 순열 | - | |
+| 23 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 수열 순열 | https://archive.topcoder.com/ProblemStatement/pm/10815 | |
 | 24 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Soccer | https://qoj.ac/problem/3144 | |
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Unbalanced Parentheses | https://qoj.ac/problem/6454 | |
@@ -49,14 +49,14 @@
 | 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Cheese Game | https://qoj.ac/problem/3032 | |
 | 37 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Time is Mooney | https://usaco.org/index.php?page=viewproblem2&cpid=993 | |
 | 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Car washes | https://qoj.ac/problem/10714 | |
-| 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Two Teams | - | |
-| 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Six Words | - | |
-| 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Nine Judges | - | |
-| 42 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | StalinSort Algorithm | - | |
-| 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Cloyster | - | |
-| 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Hypno | - | |
-| 45 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Jigglypuff | - | |
-| 46 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Three Vectors | - | |
+| 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Two Teams | https://qoj.ac/problem/12312 | |
+| 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Six Words | https://qoj.ac/problem/12316 | |
+| 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Nine Judges | https://qoj.ac/problem/12319 | |
+| 42 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | StalinSort Algorithm | https://qoj.ac/problem/1456 | |
+| 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Cloyster | https://qoj.ac/problem/8086 | |
+| 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Hypno | https://qoj.ac/problem/8091 | |
+| 45 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Jigglypuff | https://qoj.ac/problem/8093 | |
+| 46 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Three Vectors | https://qoj.ac/problem/8564 | |
 | 47 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | AtCoder Quality Problem | - | |
 | 48 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Brackets | - | |
 | 49 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Ciphertext | - | |
