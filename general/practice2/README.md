@@ -33,7 +33,7 @@
 | 20 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 보드 색칠하기 | https://archive.topcoder.com/ProblemStatement/pm/11534 | |
 | 21 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 대문자 | - | |
 | 22 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Soldiers (Large) | - | |
-| 23 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 수열 순열 | https://archive.topcoder.com/ProblemStatement/pm/10815 | |
+| 23 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 수열 순열 | https://archive.topcoder.com/ProblemStatement/pm/10815 | [source code](./sequence-permutation/main.cpp) |
 | 24 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Soccer | https://qoj.ac/problem/3144 | |
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Unbalanced Parentheses | https://qoj.ac/problem/6454 | |
