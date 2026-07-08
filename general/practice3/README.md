@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 8 (75.00%)
-- **마지막 업데이트:** 2026-07-07
+- **진행도:** 6 / 9 (66.67%)
+- **마지막 업데이트:** 2026-07-09
 
 ---
 
@@ -19,3 +19,4 @@
 | 6 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 좋은 부분 문자열 | https://codeforces.com/gym/100339 | |
 | 7 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://qoj.ac/problem/3226 | [source code](./distance-sum/main.cpp) |
 | 8 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Jumping Lights | https://qoj.ac/problem/8012 | |
+| 9 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | |
