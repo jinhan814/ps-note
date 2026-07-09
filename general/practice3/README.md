@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 11 (54.55%)
+- **진행도:** 6 / 16 (37.50%)
 - **마지막 업데이트:** 2026-07-09
 
 ---
@@ -22,3 +22,8 @@
 | 9 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
 | 10 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
 | 11 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
+| 12 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Tree Kadane | - | |
+| 13 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 4-cycle (Hard) | - | |
+| 14 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 체리 컴퍼니 | - | |
+| 15 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 위치 복원하기 | - | |
+| 16 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Permutation Swap | - | |
