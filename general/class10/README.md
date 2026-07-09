@@ -20,14 +20,14 @@ solved.ac의 Class 10 문제 풀이 및 진행 현황
 | 7 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Bytean Road Race | https://qoj.ac/problem/11581 | |
 | 8 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 링월드 | https://2013.gcpc.nwerc.eu/ | |
 | 9 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Fencing the Herd | https://usaco.org/index.php?page=viewproblem2&cpid=534 | |
-| 10 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | The Year of Code Jam (Large) | https://qoj.ac/problem/5787 | |
+| 10 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | The Year of Code Jam | https://qoj.ac/problem/5787 | |
 | 11 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Mole Tunnels | https://qoj.ac/problem/12546 | |
 | 12 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | String Puzzle | https://qoj.ac/problem/3291 | |
 | 13 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 쉬운 최단경로 문제 | - | |
 | 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Double Clique | https://qoj.ac/problem/3015 | [source code](./double-clique/main.cpp) |
 | 15 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Utilitarianism | https://qoj.ac/problem/17872 | |
 | 16 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coin Collecting | https://qoj.ac/problem/2765 | |
-| 17 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Eat Economically | https://codeforces.com/problemset/gymProblem/102202/F | |
+| 17 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Eat Economically | https://qoj.ac/problem/18890 | |
 | 18 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 삼분 그래프 | - | |
 | 19 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Port Facility | https://qoj.ac/problem/361 | |
 | 20 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Max or Min | https://qoj.ac/problem/2371 | |
@@ -41,7 +41,7 @@ solved.ac의 Class 10 문제 풀이 및 진행 현황
 | 28 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Strongly Matchable | https://qoj.ac/problem/13116 | |
 | 29 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Intrinsic Interval | https://qoj.ac/problem/3066 | |
 | 30 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Journey from Petersburg to Moscow | https://qoj.ac/problem/11794 | |
-| 31 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 일반 그래프 매칭 | - | |
+| 31 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 일반 그래프 매칭 | https://judge.yosupo.jp/problem/general_matching | |
 | 32 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Duathlon | https://qoj.ac/problem/192 | |
 | 33 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 고압선 | http://jungol.co.kr/problem/3437 | |
 | 34 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Salty Fish | https://qoj.ac/problem/7578 | |
@@ -50,7 +50,7 @@ solved.ac의 Class 10 문제 풀이 및 진행 현황
 | 37 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Jungle Outpost | https://codeforces.com/gym/101309 | |
 | 38 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Fireworks | https://qoj.ac/problem/3 | |
 | 39 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 5차원 구사과 초콜릿 | - | |
-| 40 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Dev, Please Add This! | https://codeforces.com/gym/102059/problem/B | |
+| 40 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Dev, Please Add This! | https://qoj.ac/problem/18881 | |
 | 41 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Revenge of the Broken Door | https://atcoder.jp/contests/jag2017autumn/tasks/jag2017autumn_d | |
 | 42 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Four-Coloring | https://qoj.ac/problem/3318 | |
 | 43 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 꽃집 | - | |
