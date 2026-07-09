@@ -23,16 +23,16 @@
 | 10 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Test Data Analysis | - | |
 | 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | STANOVI | https://qoj.ac/problem/16379 | |
 | 12 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 코딩 대회 | https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_d | |
-| 13 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 선물상자 | https://qoj.ac/problem/2785/statement/ko | |
+| 13 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 선물상자 | https://qoj.ac/problem/2785 | |
 | 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Insider’s Information | https://qoj.ac/problem/12743 | |
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | ENDOR | https://qoj.ac/problem/13773 | |
 | 16 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 짝합 수열 | https://qoj.ac/problem/11571 | [source code](./k-even-sequence/main.cpp) |
-| 17 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Merlin QA (Large) | https://qoj.ac/problem/5985 | |
+| 17 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Merlin QA | https://qoj.ac/problem/5985 | |
 | 18 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 좋아하는 배열 | https://archive.topcoder.com/ProblemStatement/pm/14186 | |
 | 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 이진 탐색 | - | |
 | 20 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 보드 색칠하기 | https://archive.topcoder.com/ProblemStatement/pm/11534 | |
 | 21 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 대문자 | - | |
-| 22 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Soldiers (Large) | - | |
+| 22 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Soldiers | - | |
 | 23 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 수열 순열 | https://archive.topcoder.com/ProblemStatement/pm/10815 | [source code](./sequence-permutation/main.cpp) |
 | 24 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Soccer | https://qoj.ac/problem/3144 | |
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
