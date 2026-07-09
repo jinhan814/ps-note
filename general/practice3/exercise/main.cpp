@@ -3,6 +3,8 @@ using namespace std;
 
 using i64 = long long;
 
+constexpr i64 inf = i64(1) << 60;
+
 auto sol = [](int n, auto v) {
 	vector c(2 * n, 0);
 	iota(c.begin(), c.end(), 0);
@@ -10,7 +12,6 @@ auto sol = [](int n, auto v) {
 		if (v[i] != v[j]) return v[i] < v[j];
 		return i < j;
 	});
-	vector dp(2 * n + 2, vector(4, i64(1) << 60));
 	auto f = [&](int i, int j) {
 		if (j >= 2 * n) return false;
 		int a = c[i], b = c[j];
@@ -18,6 +19,7 @@ auto sol = [](int n, auto v) {
 		if (a % 2 == 0 && b == a + 1) return false;
 		return true;
 	};
+	vector dp(2 * n + 2, array{ inf, inf, inf, inf });
 	dp[0][0] = 0;
 	dp[0][3] = abs(v[c[1]] - v[c[2]]);
 	for (int i = 0; i < 2 * n; i++) {
