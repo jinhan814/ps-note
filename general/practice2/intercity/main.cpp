@@ -21,24 +21,19 @@ auto sol = [](int n, int m, int a, int b, auto adj) {
 	{
 		vector d(n + 1, -1); d[1] = 0;
 		deque q(1, 1);
-		set s{ 0 }; s.clear();
-		for (int i = 2; i <= n; i++) s.insert(i);
+		vector s(0, 0);
+		vector c(n + 1, false);
+		for (int i = 2; i <= n; i++) s.push_back(i);
 		while (q.size()) {
 			int cur = q.front(); q.pop_front();
-			vector buc(0, 0);
-			for (int nxt : adj[cur]) {
-				if (!s.count(nxt)) continue;
-				s.erase(nxt);
-				buc.push_back(nxt);
-			}
+			vector ns(0, 0);
+			for (int nxt : adj[cur]) c[nxt] = true;
 			for (int nxt : s) {
-				d[nxt] = d[cur] + 1;
-				q.push_back(nxt);
+				if (c[nxt]) ns.push_back(nxt);
+				else d[nxt] = d[cur] + 1, q.push_back(nxt);
 			}
-			s.clear();
-			for (int nxt : buc) {
-				s.insert(nxt);
-			}
+			for (int nxt : adj[cur]) c[nxt] = false;
+			s.swap(ns);
 		}
 		if (d[n] != -1) ret = min(ret, i64(d[n]) * b);
 	}
