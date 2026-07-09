@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 9 (66.67%)
+- **진행도:** 6 / 11 (54.55%)
 - **마지막 업데이트:** 2026-07-09
 
 ---
@@ -20,3 +20,5 @@
 | 7 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://qoj.ac/problem/3226 | [source code](./distance-sum/main.cpp) |
 | 8 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Jumping Lights | https://qoj.ac/problem/8012 | |
 | 9 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | |
+| 10 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
+| 11 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
