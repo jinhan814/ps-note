@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 16 (37.50%)
-- **마지막 업데이트:** 2026-07-09
+- **진행도:** 8 / 17 (47.06%)
+- **마지막 업데이트:** 2026-07-12
 
 ---
 
@@ -27,3 +27,4 @@
 | 14 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
+| 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
