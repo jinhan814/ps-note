@@ -28,3 +28,4 @@
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
 | 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
+| 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://codeforces.com/gym/106618 | [source code](./zigzag/main.cpp) |
