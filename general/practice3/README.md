@@ -29,4 +29,4 @@
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
 | 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
 | 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://codeforces.com/gym/106618 | [source code](./zigzag/main.cpp) |
-| 19 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | |
+| 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | |
