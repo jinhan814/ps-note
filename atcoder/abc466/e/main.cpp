@@ -6,18 +6,12 @@ using i64 = long long;
 auto sol = [](int n, int k, auto v) {
 	vector dp(2 * k + 1, i64(0));
 	for (auto [a, b] : v) {
-		vector ndp(2 * k + 1, i64(0));
-		for (int i = 0; i <= 2 * k; i++) {
-			if (i % 2 == 0) {
-				ndp[i] = dp[i] + a;
-				if (i > 0) ndp[i] = max(ndp[i], dp[i - 1] + a);
-			}
-			else {
-				ndp[i] = dp[i] + b;
-				if (i > 0) ndp[i] = max(ndp[i], dp[i - 1] + b);
-			}
+		for (int i = 2 * k; i >= 1; i--) {
+			dp[i] = max(dp[i], dp[i - 1]);
+			if (i % 2 == 0) dp[i] += a;
+			else dp[i] += b;
 		}
-		dp.swap(ndp);
+		dp[0] = dp[0] + a;
 	}
 	return *max_element(dp.begin(), dp.end());
 };
