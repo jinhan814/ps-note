@@ -10,8 +10,7 @@ auto sol = [](int n, string s) {
 	prv[n] = 0;
 	for (int i = 1; i <= n; i++) {
 		psum[i] = psum[i - 1] + (s[i - 1] == '1' ? 1 : -1);
-		if (prv[psum[i]] == -1) ret += i64(i) * (n - i + 1);
-		else ret += i64(i - prv[psum[i]] - 1) * (n - i + 1);
+		ret += i64(i - prv[psum[i]] - 1) * (n - i + 1);
 		prv[psum[i]] = i;
 	}
 	return ret;
