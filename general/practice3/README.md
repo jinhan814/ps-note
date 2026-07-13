@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 8 / 19 (42.11%)
+- **진행도:** 8 / 20 (40.00%)
 - **마지막 업데이트:** 2026-07-13
 
 ---
@@ -27,6 +27,7 @@
 | 14 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
 | 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
-| 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
-| 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://codeforces.com/gym/106618 | [source code](./zigzag/main.cpp) |
-| 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
+| 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Multiples | https://codeforces.com/gym/106618 | |
+| 18 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
+| 19 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://codeforces.com/gym/106618 | [source code](./zigzag/main.cpp) |
+| 20 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
