@@ -16,8 +16,8 @@ auto sol = [](int n, int m, int k, auto v) {
 	};
 	int p = lower_bound(v.begin(), v.end(), (k + 1) / 2) - v.begin();
 	i64 ret = f(p - 1) + g(p);
-	for (int i = p; i < p + m; i++) {
-		ret = min(ret, f(i - m - 1) + k + g(i));
+	for (int i = p; i <= p + m - 2; i++) {
+		ret = min(ret, f(i - m) + k + g(i + 1));
 	}
 	return ret;
 };
