@@ -23,7 +23,7 @@
 | 10 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Test Data Analysis | - | |
 | 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | STANOVI | https://qoj.ac/problem/16379 | |
 | 12 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 코딩 대회 | https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_d | |
-| 13 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 선물상자 | https://qoj.ac/problem/2785 | [source code](./mate/main.cpp) |
+| 13 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 선물상자 | https://qoj.ac/problem/2785 | |
 | 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Insider’s Information | https://qoj.ac/problem/12743 | |
 | 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | ENDOR | https://qoj.ac/problem/13773 | |
 | 16 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 짝합 수열 | https://qoj.ac/problem/11571 | [source code](./k-even-sequence/main.cpp) |
@@ -38,7 +38,7 @@
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Unbalanced Parentheses | https://qoj.ac/problem/6454 | |
 | 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 동전 교환과 쿼리 | https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2226 | |
-| 28 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Mate | https://qoj.ac/problem/13698 | |
+| 28 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Mate | https://qoj.ac/problem/13698 | [source code](./mate/main.cpp) |
 | 29 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Pixel Triangles | - | |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Eulerian Flight Tour | https://qoj.ac/problem/3315 | |
 | 31 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | Shortcut | https://usaco.org/index.php?page=viewproblem2&cpid=899 | |
