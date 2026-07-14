@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
-- **마지막 업데이트:** 2026-07-13
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-07-14
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/green_0_4.svg" width="16px"> 809 | Count Close Pairs | https://atcoder.jp/contests/abc466/tasks/abc466_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_3_4.svg" width="16px"> 664 | Placing Rooks | https://atcoder.jp/contests/abc466/tasks/abc466_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_4_4.svg" width="16px"> 1126 | Range Flip | https://atcoder.jp/contests/abc466/tasks/abc466_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_3_4.svg" width="16px"> 1892 | Many Mod Calculation | https://atcoder.jp/contests/abc466/tasks/abc466_f | |
+| F | <img src="../../_assets/blue_3_4.svg" width="16px"> 1892 | Many Mod Calculation | https://atcoder.jp/contests/abc466/tasks/abc466_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/bronze.svg" width="16px"> 3375 | Segment Sum Constraints | https://atcoder.jp/contests/abc466/tasks/abc466_g | |
