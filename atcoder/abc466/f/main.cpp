@@ -4,7 +4,7 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, i64 m, auto v) {
-	vector c(0, i64(0));
+	vector c(1, i64(m + 1));
 	for (i64 x : v) {
 		if (c.size() && c.back() <= x) continue;
 		c.push_back(x);
@@ -12,7 +12,7 @@ auto sol = [](int n, i64 m, auto v) {
 	vector dp(c.size(), i64(-1));
 	auto rec = [&](const auto& self, int i, i64 m) {
 		if (i == c.size() - 1) return m / c.back();
-		if (i > 0 && m == c[i - 1] - 1 && dp[i] != -1) return dp[i];
+		if (m == c[i - 1] - 1 && dp[i] != -1) return dp[i];
 		i64 ret = 0;
 		if (m >= c[i]) {
 			i64 v1 = m / c[i];
@@ -28,10 +28,10 @@ auto sol = [](int n, i64 m, auto v) {
 			}
 			ret += self(self, hi, m % c[i]);
 		}
-		if (i > 0 && m == c[i - 1] - 1) dp[i] = ret;
+		if (m == c[i - 1] - 1) dp[i] = ret;
 		return ret;
 	};
-	return rec(rec, 0, m);
+	return rec(rec, 1, m);
 };
 
 int main() {
