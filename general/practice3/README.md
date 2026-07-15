@@ -23,11 +23,11 @@
 | 10 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Let Me Tell You a Story | https://qoj.ac/problem/5931 | [source code](./let-me-tell-you-a-story/main.cpp) |
 | 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 좋은 부분 문자열 | https://codeforces.com/gym/100339 | |
 | 12 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://qoj.ac/problem/3226 | [source code](./distance-sum/main.cpp) |
-| 13 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Jumping Lights | https://qoj.ac/problem/8012 | |
-| 14 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
-| 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
-| 16 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
-| 17 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Multiples | https://codeforces.com/gym/106618 | [source code](./multiples/main.cpp) |
-| 18 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
-| 19 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://codeforces.com/gym/106618 | [source code](./zigzag/main.cpp) |
-| 20 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
+| 13 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
+| 14 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
+| 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | |
+| 16 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Multiples | https://codeforces.com/gym/106618 | [source code](./multiples/main.cpp) |
+| 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://codeforces.com/gym/106618 | [source code](./gapcheon-bike-path/main.cpp) |
+| 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://codeforces.com/gym/106618 | [source code](./zigzag/main.cpp) |
+| 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
+| 20 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/problemset/problem/451/E | |
