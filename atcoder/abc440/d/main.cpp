@@ -3,17 +3,17 @@ using namespace std;
 
 auto sol = [](int n, int q, auto v, auto qs) {
 	sort(v.begin(), v.end());
-	v.push_back(2'000'000'000);
+	v.push_back(2'000'000'001);
 	auto calc = [&](int a, int b) {
 		int p = lower_bound(v.begin(), v.end(), a) - v.begin();
 		int lo = p - 1, hi = n;
 		while (lo + 1 < hi) {
 			int mid = (lo + hi) / 2;
-			if ((v[mid] - a + 1) - (mid - p + 1) < b) lo = mid;
+			if ((v[mid] - a) - (mid - p) < b) lo = mid;
 			else hi = mid;
 		}
-		int cnt = (v[hi] - a + 1) - (hi - p + 1);
-		return v[hi] - 1 - (cnt - b);
+		int cnt = (v[hi] - a) - (hi - p);
+		return (v[hi] - 1) - (cnt - b);
 	};
 	vector ret(q, 0);
 	for (int i = 0; i < q; i++) {
