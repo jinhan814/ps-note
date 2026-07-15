@@ -30,4 +30,4 @@
 | 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://qoj.ac/problem/18932 | [source code](./gapcheon-bike-path/main.cpp) |
 | 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://qoj.ac/problem/18935 | [source code](./zigzag/main.cpp) |
 | 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
-| 20 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/problemset/problem/451/E | [source code](./devu-and-flowers/main.cpp) |
+| 20 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/contest/451/problem/E | [source code](./devu-and-flowers/main.cpp) |
