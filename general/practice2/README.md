@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 3 / 176 (1.70%)
-- **마지막 업데이트:** 2026-07-09
+- **진행도:** 7 / 176 (3.98%)
+- **마지막 업데이트:** 2026-07-15
 
 ---
 
@@ -37,7 +37,7 @@
 | 24 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Soccer | https://qoj.ac/problem/3144 | |
 | 25 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 우물 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Unbalanced Parentheses | https://qoj.ac/problem/6454 | |
-| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 동전 교환과 쿼리 | https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2226 | |
+| 27 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 동전 교환과 쿼리 | https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2226 | [source code](./coin-changing-again/main.cpp) |
 | 28 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Mate | https://qoj.ac/problem/13698 | [source code](./mate/main.cpp) |
 | 29 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Pixel Triangles | - | |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Eulerian Flight Tour | https://qoj.ac/problem/3315 | |
