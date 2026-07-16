@@ -3,18 +3,18 @@ using namespace std;
 
 auto sol = [](int n, auto adj) {
 	vector ret(0, 0);
-	auto rec = [&](const auto& self, auto cur) -> void {
+	auto rec = [&](const auto& self, auto buc) -> void {
 		vector cand(0, pair(0, 0));
-		for (int x : cur) {
+		for (int x : buc) {
 			if (x) ret.push_back(x);
 			for (auto [a, b] : adj[x]) cand.push_back(pair(a, b));
 		}
 		sort(cand.begin(), cand.end());
 		for (int i = 0, j = 0; i < cand.size(); i = j) {
 			while (j < cand.size() && cand[i].first == cand[j].first) j++;
-			vector nxt(0, 0);
-			for (int k = i; k < j; k++) nxt.push_back(cand[k].second);
-			self(self, nxt);
+			vector nbuc(0, 0);
+			for (int k = i; k < j; k++) nbuc.push_back(cand[k].second);
+			self(self, nbuc);
 		}
 	};
 	rec(rec, vector(1, 0));
