@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
-- **마지막 업데이트:** 2026-07-16
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-07-17
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_1_4.svg" width="16px"> 511 | 1D puyopuyo | https://atcoder.jp/contests/abc438/tasks/abc438_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 768 | Tail of Snake | https://atcoder.jp/contests/abc438/tasks/abc438_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1292 | Heavy Buckets | https://atcoder.jp/contests/abc438/tasks/abc438_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_3_4.svg" width="16px"> 1879 | Sum of Mex | https://atcoder.jp/contests/abc438/tasks/abc438_f | |
+| F | <img src="../../_assets/blue_3_4.svg" width="16px"> 1879 | Sum of Mex | https://atcoder.jp/contests/abc438/tasks/abc438_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/orange_1_4.svg" width="16px"> 2480 | Sum of Min | https://atcoder.jp/contests/abc438/tasks/abc438_g | |
