@@ -58,10 +58,11 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		norm();
 	};
 	auto calc = [&] {
-		if (cnt_v == 0) return acc_v;
-		if (cnt_pq != cnt_v) return acc_v + acc_pq;
-		i64 ret = acc_v + acc_pq - pq1.begin()->first;
-		if (cnt_v != n) ret += prev(pq2.end())->first;
+		i64 ret = acc_v + acc_pq;
+		if (pq1.size() && cnt_pq == cnt_v) {
+			ret -= pq1.begin()->first;
+			if (pq2.size()) ret += prev(pq2.end())->first;
+		}
 		return ret;
 	};
 	vector ret(q, i64(0));
