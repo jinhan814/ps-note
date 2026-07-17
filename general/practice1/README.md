@@ -183,5 +183,5 @@
 | 170 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 高速道路の通行料金 (Highway Tolls) | https://atcoder.jp/contests/joi2024yo2/tasks/joi2024_yo2_e | [source code](./highway-tolls/main.cpp) |
 | 171 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 名前 (Name) | https://atcoder.jp/contests/joig2024-open/tasks/joig2024_e | [source code](./name/main.cpp) |
 | 172 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 점프 | - | |
-| 173 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Simple Tree Decomposition Problem | https://codeforces.com/gym/105401/problem/L | |
+| 173 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Simple Tree Decomposition Problem | https://qoj.ac/problem/17885 | |
 | 174 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 오장원전 | - | |
