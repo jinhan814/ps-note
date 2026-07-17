@@ -50,7 +50,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | [source code](./ice-skates/main.cpp) |
 | 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
 | 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | https://codeforces.com/contest/678/problem/F | [source code](./halfplane-territory-2/main.cpp) |
-| 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
+| 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | https://www.luogu.com.cn/problem/P4331 | |
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | [source code](./operation-optimization/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | [source code](./dinosaur-footprint/main.cpp) |
 | 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | https://qoj.ac/problem/17862 | |
