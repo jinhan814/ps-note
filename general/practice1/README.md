@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 100 / 174 (57.47%)
-- **마지막 업데이트:** 2026-07-06
+- **진행도:** 102 / 174 (58.62%)
+- **마지막 업데이트:** 2026-07-17
 
 ---
 
@@ -151,7 +151,7 @@
 | 138 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 곰곰이와 테트리스 | - | [source code](./gomgom-tetris/main.cpp) |
 | 139 | <img src="https://static.solved.ac/tier_small/12.svg" height="16px"> | 곰곰아 선 넘지마 | - | [source code](./gomgom-dont-cross-the-line/main.cpp) |
 | 140 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 슈퍼 블랙잭 | - | |
-| 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | https://qoj.ac/problem/5157 | |
+| 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | https://qoj.ac/problem/5157 | [source code](./high-quality-tree/main.cpp) |
 | 142 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 겨울 숲과 마법 불꽃 | - | [source code](./winter-forest-magic/main.cpp) |
 | 143 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Long Nim | - | [source code](./long-nim/main.cpp) |
 | 144 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Bribing Friends | https://usaco.org/index.php?page=viewproblem2&cpid=1257 | |

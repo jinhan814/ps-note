@@ -23,7 +23,7 @@
 **General**
 | Category | Progress | Last Update |
 | :--- | :---: | :---: |
-| [**재밌었던 문제들 1**](./general/practice1/README.md) | 100 / 174 (57.47%) | 2026-07-06 |
+| [**재밌었던 문제들 1**](./general/practice1/README.md) | 102 / 174 (58.62%) | 2026-07-17 |
 | [**재밌었던 문제들 2**](./general/practice2/README.md) | 7 / 176 (3.98%) | 2026-07-15 |
 | [**재밌었던 문제들 3**](./general/practice3/README.md) | 13 / 20 (65.00%) | 2026-07-17 |
 | [**Class 8**](./general/class8/README.md) | 7 / 48 (14.58%) | 2026-05-12 |
