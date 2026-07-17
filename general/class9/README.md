@@ -54,7 +54,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | [source code](./operation-optimization/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | [source code](./dinosaur-footprint/main.cpp) |
 | 43 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Coloring Roads | https://qoj.ac/problem/17862 | |
-| 44 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 히스토그램에서 가장 큰 직사각형과 쿼리 | - | |
+| 44 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 히스토그램에서 가장 큰 직사각형과 쿼리 | https://codeforces.com/contest/484/problem/E | |
 | 45 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 팀의 난이도 | https://codeforces.com/gym/100287 | |
 | 46 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 휴가 | https://qoj.ac/problem/1151 | |
 | 47 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Robotic Cow Herd | https://usaco.org/index.php?page=viewproblem2&cpid=674 | |
