@@ -36,7 +36,7 @@ solved.ac의 Class 10 문제 풀이 및 진행 현황
 | 23 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Bomas | https://qoj.ac/problem/3163 | |
 | 24 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | 트리 색칠 | - | |
 | 25 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Prefixuffix | https://qoj.ac/problem/13311 | |
-| 26 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | RNG | - | |
+| 26 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | RNG | https://www.codechef.com/problems/RNG | |
 | 27 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Blazing New Trails | https://qoj.ac/problem/6448 | |
 | 28 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Strongly Matchable | https://qoj.ac/problem/13116 | |
 | 29 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Intrinsic Interval | https://qoj.ac/problem/3066 | |
