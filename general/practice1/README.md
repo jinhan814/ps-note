@@ -58,7 +58,7 @@
 | 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | https://qoj.ac/problem/5774 | [source code](./modern-art-plagiarism/main.cpp) |
 | 46 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
 | 47 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Balanced Diet | https://qoj.ac/problem/4362 | |
-| 48 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Fox and Card Game | https://codeforces.com/problemset/problem/388/C | [source code](./fox-and-card-game/main.cpp) |
+| 48 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Fox and Card Game | https://codeforces.com/contest/388/problem/C | [source code](./fox-and-card-game/main.cpp) |
 | 49 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 별 모으기 | https://qoj.ac/contest/1173/problem/5885 | [source code](./kingdom-rush/main.cpp) |
 | 50 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Popeala | https://qoj.ac/problem/5535 | [source code](./popeala/main.cpp) |
 | 51 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Skinny Polygon | https://qoj.ac/problem/181 | |
