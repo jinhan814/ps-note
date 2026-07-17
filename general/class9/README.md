@@ -43,7 +43,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | It’s a Mod, Mod, Mod, Mod World | https://qoj.ac/problem/3004 | |
 | 31 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 평행우주 | - | |
 | 32 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 별이 빛나는 밤에 | - | |
-| 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 싼 비용 | - | |
+| 33 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 싼 비용 | https://archive.topcoder.com/ProblemStatement/pm/6482 | |
 | 34 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 전령들 | https://oj.uz/problem/view/CEOI09_harbingers | [source code](./harbingers/main.cpp) |
 | 35 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 최단 경로들 | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | [source code](./ploughing/main.cpp) |
