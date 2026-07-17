@@ -39,7 +39,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 26 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Touch The Sky | https://qoj.ac/problem/17686 | |
 | 27 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 조화로운 행렬 | https://jungol.co.kr/problem/3236 | |
 | 28 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 나는 행복합니다 | - | |
-| 29 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | XOR MST | https://codeforces.com/problemset/problem/888/G | |
+| 29 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | XOR MST | https://codeforces.com/contest/888/problem/G | |
 | 30 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | It’s a Mod, Mod, Mod, Mod World | https://qoj.ac/problem/3004 | |
 | 31 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 평행우주 | - | |
 | 32 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 별이 빛나는 밤에 | - | |
@@ -49,7 +49,7 @@ solved.ac의 Class 9 문제 풀이 및 진행 현황
 | 36 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ploughing | https://qoj.ac/problem/481 | [source code](./ploughing/main.cpp) |
 | 37 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Ice Skates | https://qoj.ac/problem/592 | [source code](./ice-skates/main.cpp) |
 | 38 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
-| 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | https://codeforces.com/problemset/problem/678/F | [source code](./halfplane-territory-2/main.cpp) |
+| 39 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 반평면 땅따먹기 2 | https://codeforces.com/contest/678/problem/F | [source code](./halfplane-territory-2/main.cpp) |
 | 40 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | BOJ 수열 1 | - | |
 | 41 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 연산 최적화 | https://github.com/jwvg0425/SoftCon/tree/master | [source code](./operation-optimization/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 공룡 발자국 | https://jungol.co.kr/problem/3233 | [source code](./dinosaur-footprint/main.cpp) |
