@@ -12,7 +12,7 @@
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Tree Kadane | https://qoj.ac/problem/18340 | |
-| 2 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 4-cycle (Hard) | https://judge.yosupo.jp/problem/counting_c4 | |
+| 2 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 4-cycle | https://judge.yosupo.jp/problem/counting_c4 | |
 | 3 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 체리 컴퍼니 | - | |
 | 4 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 위치 복원하기 | - | |
 | 5 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Permutation Swap | - | |
