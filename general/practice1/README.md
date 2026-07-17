@@ -178,7 +178,7 @@
 | 165 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 두 팀으로 나누기 | - | [source code](./split-two-teams/main.cpp) |
 | 166 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | C.S.G. | - | |
 | 167 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 등수 | - | |
-| 168 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cloud Retainer's Game | https://qoj.ac/problem/6439 | |
+| 168 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cloud Retainer's Game | https://qoj.ac/problem/6439 | [source code](./cloud-retainers-game/main.cpp) |
 | 169 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | LR | - | |
 | 170 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 高速道路の通行料金 (Highway Tolls) | https://atcoder.jp/contests/joi2024yo2/tasks/joi2024_yo2_e | [source code](./highway-tolls/main.cpp) |
 | 171 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 名前 (Name) | https://atcoder.jp/contests/joig2024-open/tasks/joig2024_e | [source code](./name/main.cpp) |
