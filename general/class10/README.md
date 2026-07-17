@@ -54,7 +54,7 @@ solved.ac의 Class 10 문제 풀이 및 진행 현황
 | 41 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Revenge of the Broken Door | https://atcoder.jp/contests/jag2017autumn/tasks/jag2017autumn_d | |
 | 42 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Four-Coloring | https://qoj.ac/problem/3318 | |
 | 43 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 꽃집 | - | |
-| 44 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 수열과 쿼리 26 | - | |
+| 44 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | 수열과 쿼리 26 | https://www.luogu.com.cn/problem/U575809 | |
 | 45 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | Dynamic Diameter | https://qoj.ac/problem/943 | |
 | 46 | <img src="https://static.solved.ac/tier_small/25.svg" height="16px"> | LCS 5 | - | |
 | 47 | <img src="https://static.solved.ac/tier_small/26.svg" height="16px"> | Escape | https://qoj.ac/problem/12582 | |
