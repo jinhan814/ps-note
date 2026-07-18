@@ -8,8 +8,8 @@ auto sol = [](int n, int m, auto a, auto b) {
 	vector p2(m + 1, 0);
 	for (int i = 0; i < n; i++) p1[i + 1] = p1[i] + a[i] - 1;
 	for (int i = 0; i < m; i++) p2[i + 1] = p2[i] + b[i] - 1;
-	vector c1(n + 1, inf);
-	vector c2(m + 1, inf);
+	vector c1(n, inf);
+	vector c2(m, inf);
 	vector dp(n + 1, vector(m + 1, inf));
 	c1[0] = 0;
 	c2[0] = 0;
