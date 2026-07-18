@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 13 / 20 (65.00%)
-- **마지막 업데이트:** 2026-07-16
+- **진행도:** 14 / 22 (63.64%)
+- **마지막 업데이트:** 2026-07-18
 
 ---
 
@@ -31,3 +31,5 @@
 | 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://qoj.ac/problem/18935 | [source code](./zigzag/main.cpp) |
 | 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/contest/451/problem/E | [source code](./devu-and-flowers/main.cpp) |
+| 21 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Kindergarten | https://codeforces.com/contest/484/problem/D | [source code](./kindergarten/main.cpp) |
+| 22 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Forged in the Barrens | https://qoj.ac/problem/6610 | |
