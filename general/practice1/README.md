@@ -128,7 +128,7 @@
 | 115 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 카드컨트롤 (Hard) | - | [source code](./card-control-hard/main.cpp) |
 | 116 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 문자열 이동하기 | - | [source code](./moving-brackets/main.cpp) |
 | 117 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Paired Up | https://qoj.ac/problem/2152 | |
-| 118 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Energy Stones | - | |
+| 118 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Energy Stones | https://www.luogu.com.cn/problem/U291800 | |
 | 119 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | XCopy | https://qoj.ac/problem/8098 | |
 | 120 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 解読 (Deciphering) | https://atcoder.jp/contests/joisc2011/tasks/joisc2011_deciphering | [source code](./deciphering/main.cpp) |
 | 121 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 誘拐 (Abduction) | https://atcoder.jp/contests/joisc2009/tasks/joisc2009_abduction | [source code](./abduction/main.cpp) |
@@ -153,7 +153,7 @@
 | 140 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 슈퍼 블랙잭 | - | |
 | 141 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | High-quality Tree | https://qoj.ac/problem/5157 | [source code](./high-quality-tree/main.cpp) |
 | 142 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 겨울 숲과 마법 불꽃 | - | [source code](./winter-forest-magic/main.cpp) |
-| 143 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Long Nim | - | [source code](./long-nim/main.cpp) |
+| 143 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Long Nim | https://qoj.ac/problem/18173 | [source code](./long-nim/main.cpp) |
 | 144 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Bribing Friends | https://usaco.org/index.php?page=viewproblem2&cpid=1257 | |
 | 145 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 지뢰 피하기 | - | |
 | 146 | <img src="https://static.solved.ac/tier_small/13.svg" height="16px"> | 효율적인 애니메이션 감상 | - | [source code](./efficient-animation/main.cpp) |
