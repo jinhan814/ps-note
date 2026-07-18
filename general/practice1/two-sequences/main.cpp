@@ -1,16 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using i64 = long long;
+constexpr int inf = 2'000'000'000;
 
 auto sol = [](int n, int m, auto a, auto b) {
 	vector p1(n + 1, 0);
 	vector p2(m + 1, 0);
 	for (int i = 0; i < n; i++) p1[i + 1] = p1[i] + a[i] - 1;
 	for (int i = 0; i < m; i++) p2[i + 1] = p2[i] + b[i] - 1;
-	vector c1(n + 1, i64(1) << 60);
-	vector c2(m + 1, i64(1) << 60);
-	vector dp(n + 1, vector(m + 1, i64(1) << 40));
+	vector c1(n + 1, inf);
+	vector c2(m + 1, inf);
+	vector dp(n + 1, vector(m + 1, inf));
 	c1[0] = 0;
 	c2[0] = 0;
 	dp[0][0] = 0;
