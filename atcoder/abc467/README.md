@@ -11,8 +11,8 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_2_4.svg" width="16px"> 177 | Obesity | https://atcoder.jp/contests/abc467/tasks/abc467_a | |
-| B | <img src="../../_assets/gray_1_4.svg" width="16px"> 127 | Keep the Change | https://atcoder.jp/contests/abc467/tasks/abc467_b | |
+| A | <img src="../../_assets/gray_2_4.svg" width="16px"> 177 | Obesity | https://atcoder.jp/contests/abc467/tasks/abc467_a | [source code](./a/main.cpp) |
+| B | <img src="../../_assets/gray_1_4.svg" width="16px"> 127 | Keep the Change | https://atcoder.jp/contests/abc467/tasks/abc467_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/brown_4_4.svg" width="16px"> 752 | Adjacent Sums (easy) | https://atcoder.jp/contests/abc467/tasks/abc467_c | |
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 1039 | Concentric Circles | https://atcoder.jp/contests/abc467/tasks/abc467_d | |
 | E | <img src="../../_assets/blue_1_4.svg" width="16px"> 1714 | Adjacent Sums (hard) | https://atcoder.jp/contests/abc467/tasks/abc467_e | |
