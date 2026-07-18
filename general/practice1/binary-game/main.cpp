@@ -12,5 +12,5 @@ auto sol = [](string a, string b) {
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
 	string a, b; cin >> a >> b;
-	cout << (sol(a, b) ? "VICTORY" : "DEFEAT") << '\n';
+	cout << (sol(a, b) ? "YES" : "NO") << '\n';
 }

@@ -33,7 +33,7 @@
 | 20 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | ダンジョン | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e | |
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Mountain Climbing | https://usaco.org/index.php?page=viewproblem2&cpid=108 | [source code](./mountain-climbing/main.cpp) |
 | 22 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 바이너리 스도쿠 | https://usaco.org/index.php?page=viewproblem2&cpid=92 | [source code](./binary-sudoku/main.cpp) |
-| 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 | - | [source code](./cleaning-up/main.cpp) |
+| 23 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 식당 | https://www.luogu.com.cn/problem/P2943 | [source code](./cleaning-up/main.cpp) |
 | 24 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Watching | https://qoj.ac/problem/12900 | [source code](./watching/main.cpp) |
 | 25 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 무한 게임 | - | |
 | 26 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 두 교수 | https://www.spoj.com/problems/TWOPROF/en/ | |
@@ -44,10 +44,10 @@
 | 31 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Red John Game | https://qoj.ac/problem/15747 | [source code](./red-john-game/main.cpp) |
 | 32 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 小籠包 (Xiao Long Bao) | https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_f | [source code](./xiao-long-bao/main.cpp) |
 | 33 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Computer Network | - | [source code](./computer-network/main.cpp) |
-| 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | - | |
+| 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | https://dmoj.ca/problem/ccc14s5 | |
 | 35 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Spy Network | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 | https://qoj.ac/problem/5621 | [source code](./mancala/main.cpp) |
-| 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | - | [source code](./binary-game/main.cpp) |
+| 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | https://codeforces.com/contest/297/problem/A | [source code](./binary-game/main.cpp) |
 | 38 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Bank | https://oj.uz/problem/view/IZhO14_bank | [source code](./bank/main.cpp) |
 | 39 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | K blocks | https://oj.uz/problem/view/IZhO14_blocks | [source code](./k-blocks/main.cpp) |
 | 40 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 채우기 | - | [source code](./filling-brackets/main.cpp) |
