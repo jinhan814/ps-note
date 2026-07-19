@@ -4,10 +4,15 @@ using namespace std;
 auto sol = [](string s) {
 	string t;
 	for (int i = s.size() - 1; i >= 0; i--) {
-		t.push_back(s[i]);
-		int p = 0;
-		while (p < 3 && t.size() >= p + 1 && t[t.size() - (p + 1)] == "ABC"[p]) p++;
-		while (p--) t.pop_back();
+		if (s[i] != 'A') {
+			t.push_back(s[i]);
+		}
+		else {
+			if (t.empty() || t.back() != 'B') continue;
+			t.pop_back();
+			if (t.empty() || t.back() != 'C') continue;
+			t.pop_back();
+		}
 	}
 	return t.size();
 };
