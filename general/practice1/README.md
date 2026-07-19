@@ -44,7 +44,7 @@
 | 31 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Red John Game | https://qoj.ac/problem/15747 | [source code](./red-john-game/main.cpp) |
 | 32 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 小籠包 (Xiao Long Bao) | https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_f | [source code](./xiao-long-bao/main.cpp) |
 | 33 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Computer Network | - | [source code](./computer-network/main.cpp) |
-| 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | https://dmoj.ca/problem/ccc14s5 | |
+| 34 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Lazy Fox | https://dmoj.ca/problem/ccc14s5 | [source code](./lazy-fox/main.cpp) |
 | 35 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Spy Network | - | |
 | 36 | <img src="https://static.solved.ac/tier_small/15.svg" height="16px"> | 만칼라 | https://qoj.ac/problem/5621 | [source code](./mancala/main.cpp) |
 | 37 | <img src="https://static.solved.ac/tier_small/14.svg" height="16px"> | 바이너리 게임 | https://codeforces.com/contest/297/problem/A | [source code](./binary-game/main.cpp) |
