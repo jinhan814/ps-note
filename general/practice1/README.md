@@ -103,7 +103,7 @@
 | 90 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 소가 길을 건너간 이유 2020 | - | |
 | 91 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Ancient Books | https://qoj.ac/problem/2761 | |
 | 92 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Martian DNA | https://qoj.ac/problem/40 | |
-| 93 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Cup of Jamshid | https://oj.uz/problem/view/IOI17_cup | |
+| 93 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Cup of Jamshid | https://oj.uz/problem/view/IOI17_cup | [source code](./cup-of-jamshid/main.cpp) |
 | 94 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Human Pyramid | - | |
 | 95 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Xortest Path | https://qoj.ac/problem/877 | [source code](./xortest-path/main.cpp) |
 | 96 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Hop | https://qoj.ac/problem/13412 | |
