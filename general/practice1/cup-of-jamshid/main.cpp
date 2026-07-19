@@ -9,9 +9,7 @@ vector<int> find_cup() {
 	int acc = 0;
 	for (int bit = 0; bit <= 30; bit++) {
 		int res = ask_shahrasb((1 << bit) - lim, -lim);
-		if (val >> bit & 1) res += 1 << bit;
-		else res -= 1 << bit;
-		if (res == val) acc ^= 1 << bit;
+		if (res == (val ^ (1 << bit))) acc ^= 1 << bit;
 	}
 	return { acc - lim, (val ^ acc) - lim };
 }
