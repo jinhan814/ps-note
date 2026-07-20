@@ -32,4 +32,4 @@
 | 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/contest/451/problem/E | [source code](./devu-and-flowers/main.cpp) |
 | 21 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Kindergarten | https://codeforces.com/contest/484/problem/D | [source code](./kindergarten/main.cpp) |
-| 22 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Forged in the Barrens | https://qoj.ac/problem/6610 | |
+| 22 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Min Perimeter | https://qoj.ac/problem/5809 | [source code](./min-perimeter/main.cpp) |
