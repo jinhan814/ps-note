@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-07-19
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-07-21
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 1039 | Concentric Circles | https://atcoder.jp/contests/abc467/tasks/abc467_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/blue_1_4.svg" width="16px"> 1714 | Adjacent Sums (hard) | https://atcoder.jp/contests/abc467/tasks/abc467_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2053 | Email Scheduling Optimization | https://atcoder.jp/contests/abc467/tasks/abc467_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/orange_1_4.svg" width="16px"> 2542 | Many Sweets Problem | https://atcoder.jp/contests/abc467/tasks/abc467_g | |
+| G | <img src="../../_assets/orange_1_4.svg" width="16px"> 2542 | Many Sweets Problem | https://atcoder.jp/contests/abc467/tasks/abc467_g | [source code](./g/main.cpp) |
