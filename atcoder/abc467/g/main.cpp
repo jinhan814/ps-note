@@ -45,18 +45,18 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		}
 	}
 	fenwick tree(n);
-	vector tree_sum(sz << 1, fenwick(0));
-	vector tree_cnt(sz << 1, fenwick(0));
+	vector t1(sz << 1, fenwick(0));
+	vector t2(sz << 1, fenwick(0));
 	for (int i = 1; i < sz << 1; i++) {
-		tree_sum[i] = fenwick(buc[i].size());
-		tree_cnt[i] = fenwick(buc[i].size());
+		t1[i] = fenwick(buc[i].size());
+		t2[i] = fenwick(buc[i].size());
 	}
 	for (int i = 0; i < n; i++) {
 		tree.update(i + 1, v[i]);
 		for (int j = i | sz; j; j >>= 1) {
 			int p = buc[j].end() - lower_bound(buc[j].begin(), buc[j].end(), v[i]);
-			tree_sum[j].update(p, v[i]);
-			tree_cnt[j].update(p, 1);
+			t1[j].update(p, v[i]);
+			t2[j].update(p, 1);
 		}
 	}
 	auto update = [&](int i, int x) {
@@ -67,10 +67,10 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		for (i |= sz; i; i >>= 1) {
 			int p1 = buc[i].end() - lower_bound(buc[i].begin(), buc[i].end(), p);
 			int p2 = buc[i].end() - lower_bound(buc[i].begin(), buc[i].end(), x);
-			tree_sum[i].update(p1, -p);
-			tree_sum[i].update(p2, x);
-			tree_cnt[i].update(p1, -1);
-			tree_cnt[i].update(p2, 1);
+			t1[i].update(p1, -p);
+			t1[i].update(p2, x);
+			t2[i].update(p1, -1);
+			t2[i].update(p2, 1);
 		}
 	};
 	auto query = [&](const auto& tree, int l, int r, int x) {
@@ -98,11 +98,11 @@ auto sol = [](int n, int q, auto v, auto qs) {
 			int lo = 0, hi = buc[1].size();
 			while (lo + 1 < hi) {
 				int mid = (lo + hi) / 2;
-				if (query(tree_sum, l, r, buc[1][mid]) >= k) lo = mid;
+				if (query(t1, l, r, buc[1][mid]) >= k) lo = mid;
 				else hi = mid;
 			}
-			i64 acc = query(tree_sum, l, r, buc[1][lo]);
-			int cnt = query(tree_cnt, l, r, buc[1][lo]);
+			i64 acc = query(t1, l, r, buc[1][lo]);
+			int cnt = query(t2, l, r, buc[1][lo]);
 			ret[iter] = cnt - (acc - k) / buc[1][lo];
 		}
 	}
@@ -115,12 +115,8 @@ int main() {
 	vector v(n, 0);
 	vector qs(q, tuple(0, 0, 0, 0, i64(0)));
 	for (int i = 0; i < n; i++) cin >> v[i];
-	for (auto& [i, x, l, r, k] : qs) {
-		cin >> i >> x >> l >> r >> k;
-		i--;
-		l--;
-		r--;
-	}
+	for (auto& [i, x, l, r, k] : qs) cin >> i >> x >> l >> r >> k;
+	for (auto& [i, x, l, r, k] : qs) i--, l--, r--;
 	auto res = sol(n, q, v, qs);
 	for (int i = 0; i < q; i++) cout << res[i] << '\n';
 }
