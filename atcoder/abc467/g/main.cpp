@@ -33,18 +33,16 @@ auto sol = [](int n, int q, auto v, auto qs) {
 	for (int i = sz - 1; i >= 1; i--) {
 		const auto& v1 = buc[i << 1];
 		const auto& v2 = buc[i << 1 | 1];
-		int p1 = 0;
-		int p2 = 0;
 		auto push = [&](int x) {
 			if (buc[i].size() && buc[i].back() == x) return;
 			buc[i].push_back(x);
 		};
-		while (p1 < v1.size() && p2 < v2.size()) {
-			if (v1[p1] <= v2[p2]) push(v1[p1++]);
+		for (int p1 = 0, p2 = 0; p1 < v1.size() || p2 < v2.size();) {
+			if (p2 == v2.size()) push(v1[p1++]);
+			else if (p1 == v1.size()) push(v2[p2++]);
+			else if (v1[p1] < v2[p2]) push(v1[p1++]);
 			else push(v2[p2++]);
 		}
-		while (p1 < v1.size()) push(v1[p1++]);
-		while (p2 < v2.size()) push(v2[p2++]);
 	}
 	fenwick tree(n);
 	vector tree_sum(sz << 1, fenwick(0));
@@ -80,13 +78,11 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		for (l |= sz, r |= sz; l <= r; l >>= 1, r >>= 1) {
 			if (l & 1) {
 				int p = buc[l].end() - lower_bound(buc[l].begin(), buc[l].end(), x);
-				ret += tree[l].query(p);
-				l++;
+				ret += tree[l++].query(p);
 			}
 			if (~r & 1) {
 				int p = buc[r].end() - lower_bound(buc[r].begin(), buc[r].end(), x);
-				ret += tree[r].query(p);
-				r--;
+				ret += tree[r--].query(p);
 			}
 		}
 		return ret;
