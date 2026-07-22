@@ -18,8 +18,6 @@ auto sol = [](int n, auto v) {
 			return x;
 		}
 	}
-	assert(0);
-	return -1;
 };
 
 int main() {
