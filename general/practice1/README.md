@@ -136,7 +136,7 @@
 | 123 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Drought | https://usaco.org/index.php?page=viewproblem2&cpid=1185 | |
 | 124 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 단어의 개수 | - | [source code](./count-words/main.cpp) |
 | 125 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 이야기 배열 | - | |
-| 126 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Coins and Boxes | https://qoj.ac/problem/2541 | |
+| 126 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Coins and Boxes | https://qoj.ac/problem/2541 | [source code](./coins-and-boxes/main.cpp) |
 | 127 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Animal Observation (hard version) | https://codeforces.com/contest/1304/problem/F2 | [source code](./animal-observation-hard/main.cpp) |
 | 128 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Copy and Paste 3 | https://qoj.ac/problem/3504 | |
 | 129 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Il Derby della Madonnina | https://qoj.ac/problem/3861 | |
