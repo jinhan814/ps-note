@@ -53,7 +53,7 @@
 | 40 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 채우기 | https://codeforces.com/contest/3/problem/D | [source code](./filling-brackets/main.cpp) |
 | 41 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 핀볼 | https://oj.uz/problem/view/JOI14_pinball | [source code](./pinball/main.cpp) |
 | 42 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | 쇼핑 | https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_f | [source code](./shopping/main.cpp) |
-| 43 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 262144 | https://usaco.org/index.php?page=viewproblem2&cpid=648 | |
+| 43 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 262144 | https://www.luogu.com.cn/problem/P3147 | |
 | 44 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Candy Store | https://qoj.ac/problem/5850 | [source code](./candy-store/main.cpp) |
 | 45 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Modern Art Plagiarism | https://qoj.ac/problem/5774 | [source code](./modern-art-plagiarism/main.cpp) |
 | 46 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Boat | https://qoj.ac/problem/2 | |
