@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 108 / 174 (62.07%)
-- **마지막 업데이트:** 2026-07-23
+- **진행도:** 109 / 174 (62.64%)
+- **마지막 업데이트:** 2026-07-24
 
 ---
 
@@ -27,7 +27,7 @@
 | 14 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | 마라톤 훈련 방해하기 | https://qoj.ac/problem/13044 | |
 | 15 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | Hermes | https://qoj.ac/problem/13803 | [source code](./hermes/main.cpp) |
 | 16 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Utopia Divided | https://qoj.ac/problem/13815 | |
-| 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | お土産購入計画 (Gifts) | https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_f | |
+| 17 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | お土産購入計画 (Gifts) | https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_f | [source code](./gifts/main.cpp) |
 | 18 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | JOI 깃발 | https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_f | [source code](./joi-flag/main.cpp) |
 | 19 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 博覧会 | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_d | [source code](./exhibition/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | ダンジョン | https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e | |
