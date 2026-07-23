@@ -11,7 +11,6 @@ auto sol = [](int n, int m, int k, auto v) {
 			ret.push_back(pair(a, b));
 		}
 		sort(ret.begin(), ret.end());
-		ret.erase(unique(ret.begin(), ret.end()), ret.end());
 		return ret;
 	};
 	map cache{ pair(tuple(0, 0, 0, vector(0, pair(0, 0))), 0) };
@@ -32,7 +31,7 @@ auto sol = [](int n, int m, int k, auto v) {
 			int res = self(self, nx, ny, nk, buc);
 			if (!flag) buc.pop_back();
 			if (res == -1) continue;
-			if (v[nx][ny] != '.' && !flag) res += v[nx][ny] - '0';
+			if (!flag && v[nx][ny] != '.') res += v[nx][ny] - '0';
 			ret = max(ret, res);
 		}
 		return cache[tuple(x, y, k, buc)] = ret;
