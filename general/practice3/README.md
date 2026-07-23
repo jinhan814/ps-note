@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 15 / 22 (68.18%)
-- **마지막 업데이트:** 2026-07-21
+- **진행도:** 15 / 20 (75.00%)
+- **마지막 업데이트:** 2026-07-23
 
 ---
 
@@ -21,15 +21,13 @@
 | 8 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Defective Script | https://codeforces.com/gym/105537/problem/D | [source code](./defective-script/main.cpp) |
 | 9 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Probabilistic Sorting | https://qoj.ac/problem/18921 | [source code](./probabilistic-sorting/main.cpp) |
 | 10 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Let Me Tell You a Story | https://qoj.ac/problem/5931 | [source code](./let-me-tell-you-a-story/main.cpp) |
-| 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | 좋은 부분 문자열 | https://codeforces.com/gym/100339 | |
-| 12 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://qoj.ac/problem/3226 | [source code](./distance-sum/main.cpp) |
-| 13 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
-| 14 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 스파이 | - | |
-| 15 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | [source code](./quadrants/main.cpp) |
-| 16 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Multiples | https://qoj.ac/problem/18927 | [source code](./multiples/main.cpp) |
-| 17 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://qoj.ac/problem/18932 | [source code](./gapcheon-bike-path/main.cpp) |
-| 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://qoj.ac/problem/18935 | [source code](./zigzag/main.cpp) |
-| 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
-| 20 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/contest/451/problem/E | [source code](./devu-and-flowers/main.cpp) |
-| 21 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Kindergarten | https://codeforces.com/contest/484/problem/D | [source code](./kindergarten/main.cpp) |
-| 22 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Min Perimeter | https://qoj.ac/problem/5809 | [source code](./min-perimeter/main.cpp) |
+| 11 | <img src="https://static.solved.ac/tier_small/22.svg" height="16px"> | Distance Sum | https://qoj.ac/problem/3226 | [source code](./distance-sum/main.cpp) |
+| 12 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Exercise | https://qoj.ac/problem/14109 | [source code](./exercise/main.cpp) |
+| 13 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Quadrants | https://qoj.ac/problem/15471 | [source code](./quadrants/main.cpp) |
+| 14 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Multiples | https://qoj.ac/problem/18927 | [source code](./multiples/main.cpp) |
+| 15 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Gapcheon Bike Path | https://qoj.ac/problem/18932 | [source code](./gapcheon-bike-path/main.cpp) |
+| 16 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Zigzag | https://qoj.ac/problem/18935 | [source code](./zigzag/main.cpp) |
+| 17 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 큰 수 만들기 | https://codeforces.com/gym/100515 | [source code](./max-number/main.cpp) |
+| 18 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 꽃 구매하기 | https://codeforces.com/contest/451/problem/E | [source code](./devu-and-flowers/main.cpp) |
+| 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Kindergarten | https://codeforces.com/contest/484/problem/D | [source code](./kindergarten/main.cpp) |
+| 20 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Min Perimeter | https://qoj.ac/problem/5809 | [source code](./min-perimeter/main.cpp) |
