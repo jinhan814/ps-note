@@ -7,7 +7,7 @@ auto sol = [](int n, int m, int k, auto v) {
 		for (auto [a, b] : buc) {
 			if (a < x - k) continue;
 			if (b < y - k) continue;
-			if (a <= x && b <= y && a + b < x + y - k) continue;
+			if (a + b < x + y - k) continue;
 			ret.push_back(pair(a, b));
 		}
 		sort(ret.begin(), ret.end());
