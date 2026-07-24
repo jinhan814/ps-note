@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 16 / 21 (76.19%)
-- **마지막 업데이트:** 2026-07-23
+- **진행도:** 17 / 22 (77.27%)
+- **마지막 업데이트:** 2026-07-24
 
 ---
 
@@ -32,3 +32,4 @@
 | 19 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | Kindergarten | https://codeforces.com/contest/484/problem/D | [source code](./kindergarten/main.cpp) |
 | 20 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Min Perimeter | https://qoj.ac/problem/5809 | [source code](./min-perimeter/main.cpp) |
 | 21 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | 다다스의 부분수열 | https://doj.kr/ko/problems/168 | [source code](./dadas-subsequence/main.cpp) |
+| 22 | <img src="https://static.solved.ac/tier_small/17.svg" height="16px"> | 다다스와 모그의 이진수열 | https://doj.kr/ko/problems/368 | [source code](./dadas-binary-sequence/main.cpp) |
