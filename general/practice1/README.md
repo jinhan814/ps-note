@@ -96,7 +96,7 @@
 | 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | [source code](./eight-sins/main.cpp) |
 | 84 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Greedy Algorithm | https://qoj.ac/problem/1461 | [source code](./greedy-algorithm/main.cpp) |
 | 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation | https://qoj.ac/problem/1992 | |
-| 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | https://qoj.ac/problem/3552 | |
+| 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | https://qoj.ac/problem/3552 | [source code](./building-4/main.cpp) |
 | 87 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Exercise | https://qoj.ac/problem/1996 | |
 | 88 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Balanced Sequence | https://qoj.ac/problem/236 | [source code](./balanced-sequence/main.cpp) |
 | 89 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Compressed Spanning Subtrees | https://qoj.ac/problem/11743 | |
