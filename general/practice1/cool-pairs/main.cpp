@@ -12,10 +12,11 @@ auto sol = [](int n, i64 k, auto a, auto b) {
 		i++;
 	}
 	ret[a[i]][0] = -1;
-	int j = n, rem = n - a[i] - k;
-	while (rem > 0) {
+	k -= n - a[i];
+	int j = n;
+	while (k < 0) {
 		ret[b[j]][1] = 1;
-		if (a[i] < b[j]) rem--;
+		if (a[i] < b[j]) k++;
 		j--;
 	}
 	return ret;
