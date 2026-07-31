@@ -91,13 +91,13 @@
 | 78 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Ladder Game | https://qoj.ac/problem/10949 | |
 | 79 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Disposable Switches | https://qoj.ac/problem/2413 | |
 | 80 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Reordering the Documents | https://qoj.ac/problem/1191 | |
-| 81 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cool Pairs | https://qoj.ac/problem/12213 | |
+| 81 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cool Pairs | https://qoj.ac/problem/12213 | [source code](./cool-pairs/main.cpp) |
 | 82 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Best Tree | https://qoj.ac/problem/832 | [source code](./best-tree/main.cpp) |
 | 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | [source code](./eight-sins/main.cpp) |
 | 84 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Greedy Algorithm | https://qoj.ac/problem/1461 | [source code](./greedy-algorithm/main.cpp) |
 | 85 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Delegation | https://qoj.ac/problem/1992 | |
 | 86 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Building 4 | https://qoj.ac/problem/3552 | [source code](./building-4/main.cpp) |
-| 87 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Exercise | https://qoj.ac/problem/1996 | |
+| 87 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Exercise | https://qoj.ac/problem/1996 | [source code](./exercise/main.cpp) |
 | 88 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Balanced Sequence | https://qoj.ac/problem/236 | [source code](./balanced-sequence/main.cpp) |
 | 89 | <img src="https://static.solved.ac/tier_small/24.svg" height="16px"> | Compressed Spanning Subtrees | https://qoj.ac/problem/11743 | |
 | 90 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 소가 길을 건너간 이유 2020 | - | |
