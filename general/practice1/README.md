@@ -90,7 +90,7 @@
 | 77 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | Find the Array | https://qoj.ac/problem/2373 | |
 | 78 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Ladder Game | https://qoj.ac/problem/10949 | |
 | 79 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Disposable Switches | https://qoj.ac/problem/2413 | |
-| 80 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Reordering the Documents | https://qoj.ac/problem/1191 | |
+| 80 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Reordering the Documents | https://qoj.ac/problem/1191 | [source code](./reordering-the-documents/main.cpp) |
 | 81 | <img src="https://static.solved.ac/tier_small/19.svg" height="16px"> | Cool Pairs | https://qoj.ac/problem/12213 | [source code](./cool-pairs/main.cpp) |
 | 82 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Best Tree | https://qoj.ac/problem/832 | [source code](./best-tree/main.cpp) |
 | 83 | <img src="https://static.solved.ac/tier_small/21.svg" height="16px"> | Eight Sins | https://qoj.ac/problem/12318 | [source code](./eight-sins/main.cpp) |
