@@ -15,8 +15,8 @@ auto sol = [](int n, auto v) {
 			cnt -= q.back().second;
 			q.pop_back();
 		}
-		cnt++;
 		q.push_front(pair(l, acc));
+		cnt++;
 		ret = max(ret, cnt);
 	}
 	return ret;
