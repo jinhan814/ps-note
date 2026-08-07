@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 69 | Maximal Value | https://atcoder.jp/contests/abc468/tasks/abc468_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 69 | Maximal Value | https://atcoder.jp/contests/abc468/tasks/abc468_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_2_4.svg" width="16px"> 163 | Corridor Watch | https://atcoder.jp/contests/abc468/tasks/abc468_b | |
 | C | <img src="../../_assets/brown_1_4.svg" width="16px"> 486 | Between P and Q | https://atcoder.jp/contests/abc468/tasks/abc468_c | |
 | D | <img src="../../_assets/green_0_4.svg" width="16px"> 835 | Pre-Palindrome | https://atcoder.jp/contests/abc468/tasks/abc468_d | |
