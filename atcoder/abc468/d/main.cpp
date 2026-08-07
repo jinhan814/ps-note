@@ -3,20 +3,14 @@ using namespace std;
 
 auto sol = [](string s) {
 	int ret = 0;
-	for (int i = 0; i < s.size(); i++) {
-		int cnt = 0;
-		for (int l = i, r = i; l >= 0 && r < s.size(); l--, r++) {
-			if (s[l] != s[r]) cnt++;
-			if (cnt > 1) break;
-			ret++;
-		}
-	}
-	for (int i = 1; i < s.size(); i++) {
-		int cnt = 0;
-		for (int l = i - 1, r = i; l >= 0 && r < s.size(); l--, r++) {
-			if (s[l] != s[r]) cnt++;
-			if (cnt > 1) break;
-			ret++;
+	for (int x = 0; x <= 1; x++) {
+		for (int i = x; i < s.size(); i++) {
+			int cnt = 0;
+			for (int l = i - x, r = i; l >= 0 && r < s.size(); l--, r++) {
+				if (s[l] != s[r]) cnt++;
+				if (cnt > 1) break;
+				ret++;
+			}
 		}
 	}
 	return ret;
