@@ -9,7 +9,7 @@ auto sol = [](int n, string s) {
 	}
 	vector ret(n + 1, 0);
 	for (int i = 1, j = 1; i <= n; i++) {
-		while (j < n && j < i + p[j]) j++;
+		while (j < n && j < i + p[j]) j = i + p[j];
 		ret[i] = j;
 	}
 	return ret;
