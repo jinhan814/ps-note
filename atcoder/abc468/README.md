@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
-- **마지막 업데이트:** 2026-08-07
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-08-10
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_0_4.svg" width="16px"> 835 | Pre-Palindrome | https://atcoder.jp/contests/abc468/tasks/abc468_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_4_4.svg" width="16px"> 1145 | Sum of Average | https://atcoder.jp/contests/abc468/tasks/abc468_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_1_4.svg" width="16px"> 1714 | Chmax | https://atcoder.jp/contests/abc468/tasks/abc468_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1979 | Restricted Permutation | https://atcoder.jp/contests/abc468/tasks/abc468_g | |
+| G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1979 | Restricted Permutation | https://atcoder.jp/contests/abc468/tasks/abc468_g | [source code](./g/main.cpp) |
