@@ -5,8 +5,8 @@ using i64 = long long;
 
 constexpr int mod = 998'244'353;
 
-constexpr int add(int a, int b) {
-	return a + b < mod ? a + b : a + b - mod;
+constexpr int sub(int a, int b) {
+	return a < b ? a - b + mod : a - b;
 }
 
 constexpr int mul(int a, int b) {
@@ -15,18 +15,21 @@ constexpr int mul(int a, int b) {
 
 auto sol = [](int n, string s) {
 	if (s[0] != 'o' || s[n - 1] != 'o') return 0;
-	vector dp(n + 1, 1);
-	for (int i = 2; i <= n; i++) {
-		dp[i] = mul(i - 2, dp[i - 1]);
-		for (int j = 0; j <= i - 1; j++) {
-			int val = mul(dp[j], dp[i - j - 1]);
-			dp[i] = add(dp[i], mul(2, val));
+	vector fac(n + 1, 1);
+	for (int i = 1; i <= n; i++) {
+		fac[i] = mul(fac[i - 1], i);
+	}
+	vector dp(n + 1, 0);
+	for (int i = 1; i <= n; i++) {
+		dp[i] = fac[i];
+		for (int j = 2; j <= i - 1; j++) {
+			dp[i] = sub(dp[i], mul(dp[j], fac[i - j + 1]));
 		}
 	}
 	int ret = 1;
 	for (int i = 1, x = 0; i < n; i++) {
 		if (s[i] == 'x') x++;
-		else ret = mul(ret, mul(2, dp[x])), x = 0;
+		else ret = mul(ret, dp[x + 2]), x = 0;
 	}
 	return ret;
 };
