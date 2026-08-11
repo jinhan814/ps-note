@@ -3,10 +3,11 @@ using namespace std;
 
 auto sol = [](int n, int m, auto v) {
 	int ret = 0;
-	for (int x : v[0]) {
+	for (int p = 0; p <= 1; p++) {
 		vector buc(0, array{ 0, 0 });
 		for (int i = 1; i < m; i++) {
-			if (v[i][0] == x || v[i][1] == x) continue;
+			if (v[i][0] == v[0][p]) continue;
+			if (v[i][1] == v[0][p]) continue;
 			buc.push_back(v[i]);
 		}
 		if (buc.empty()) {
@@ -26,8 +27,10 @@ auto sol = [](int n, int m, auto v) {
 	}
 	bool flag = true;
 	for (int i = 1; i < m; i++) {
-		if (v[i][0] == v[0][0] || v[i][1] == v[0][0]) continue;
-		if (v[i][0] == v[0][1] || v[i][1] == v[0][1]) continue;
+		if (v[i][0] == v[0][0]) continue;
+		if (v[i][1] == v[0][0]) continue;
+		if (v[i][0] == v[0][1]) continue;
+		if (v[i][1] == v[0][1]) continue;
 		flag = false;
 		break;
 	}
