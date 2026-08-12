@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 57 | Fizz | https://atcoder.jp/contests/abc470/tasks/abc470_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 57 | Fizz | https://atcoder.jp/contests/abc470/tasks/abc470_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_1_4.svg" width="16px"> 105 | Monocolor | https://atcoder.jp/contests/abc470/tasks/abc470_b | |
 | C | <img src="../../_assets/green_3_4.svg" width="16px"> 1096 | Inc, Dec, Xor | https://atcoder.jp/contests/abc470/tasks/abc470_c | |
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 896 | Inverse and Swap | https://atcoder.jp/contests/abc470/tasks/abc470_d | |
