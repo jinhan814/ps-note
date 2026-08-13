@@ -32,8 +32,7 @@ auto sol = [](int n, int m, string s, auto v) {
 	bool flag = true;
 	vector c(n, false);
 	for (int i = 0; i < n; i++) {
-		if (c[i]) continue;
-		if (adj[i].empty()) continue;
+		if (c[i] || adj[i].empty()) continue;
 		int sz = 0;
 		vector cnt(26, 0);
 		auto rec = [&](const auto& self, int cur) -> void {
