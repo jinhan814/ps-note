@@ -41,7 +41,6 @@ auto sol = [](int n, int m, string s, auto v) {
 			cnt[s[cur] - 'a']++;
 			for (int nxt : adj[cur]) {
 				if (c[nxt]) continue;
-				c[nxt] = true;
 				self(self, nxt);
 			}
 		};
