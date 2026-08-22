@@ -21,7 +21,7 @@ auto sol = [](int n, int m, auto adj) {
 		}
 		return false;
 	};
-	if (!rec(rec, 1, 0) == -1) return vector(0, 0);
+	if (!rec(rec, 1, 0)) return vector(0, 0);
 	vector ret(0, 0);
 	while (a != b) ret.push_back(a), a = par[a];
 	ret.push_back(a);
