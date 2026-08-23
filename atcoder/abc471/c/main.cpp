@@ -4,9 +4,9 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, auto v) {
-	set s(v.begin(), v.end());
 	i64 ret = 0;
 	int x = 0;
+	set s(v.begin(), v.end());
 	while (s.size()) {
 		auto it = s.lower_bound(x);
 		if (it == s.end()) it--;
