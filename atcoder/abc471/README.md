@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 73 | Nine or Nein | https://atcoder.jp/contests/abc471/tasks/abc471_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 73 | Nine or Nein | https://atcoder.jp/contests/abc471/tasks/abc471_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_1_4.svg" width="16px"> 142 | Survey Tabulation | https://atcoder.jp/contests/abc471/tasks/abc471_b | |
 | C | <img src="../../_assets/brown_1_4.svg" width="16px"> 488 | Cookies and Greedy Takahashi | https://atcoder.jp/contests/abc471/tasks/abc471_c | |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 752 | Chargers | https://atcoder.jp/contests/abc471/tasks/abc471_d | |
