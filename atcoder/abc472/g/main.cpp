@@ -1,4 +1,4 @@
-G#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 auto sol = [](int n, int m, auto v) {
