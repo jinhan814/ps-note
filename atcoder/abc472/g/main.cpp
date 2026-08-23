@@ -22,9 +22,6 @@ auto sol = [](int n, int m, auto v) {
 			else if (~mask >> (m - 1) & 1) {
 				ret = self(self, i, j + 1, nmask) + f(i, j);
 			}
-			else {
-				ret = -(1 << 30);
-			}
 		}
 		else {
 			ret = self(self, i, j + 1, nmask | 1);
