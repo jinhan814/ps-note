@@ -127,7 +127,7 @@
 | 114 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Leader-based Team Distribution | - | |
 | 115 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | 카드컨트롤 (Hard) | - | [source code](./card-control-hard/main.cpp) |
 | 116 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | 괄호 문자열 이동하기 | - | [source code](./moving-brackets/main.cpp) |
-| 117 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Paired Up | https://qoj.ac/problem/2152 | |
+| 117 | <img src="https://static.solved.ac/tier_small/20.svg" height="16px"> | Paired Up | https://qoj.ac/problem/2152 | [source code](./paired-up/main.cpp) |
 | 118 | <img src="https://static.solved.ac/tier_small/18.svg" height="16px"> | Energy Stones | https://www.luogu.com.cn/problem/U291800 | |
 | 119 | <img src="https://static.solved.ac/tier_small/23.svg" height="16px"> | XCopy | https://qoj.ac/problem/8098 | |
 | 120 | <img src="https://static.solved.ac/tier_small/16.svg" height="16px"> | 解読 (Deciphering) | https://atcoder.jp/contests/joisc2011/tasks/joisc2011_deciphering | [source code](./deciphering/main.cpp) |
