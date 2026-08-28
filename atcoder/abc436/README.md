@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 782 | Teleport Maze | https://atcoder.jp/contests/abc436/tasks/abc436_d | |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1061 | Minimum Swap | https://atcoder.jp/contests/abc436/tasks/abc436_e | |
 | F | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1406 | Starry Landscape Photo | https://atcoder.jp/contests/abc436/tasks/abc436_f | |
-| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2203 | Linear Inequation | https://atcoder.jp/contests/abc436/tasks/abc436_g | |
+| G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2203 | Linear Inequation | https://atcoder.jp/contests/abc436/tasks/abc436_g | [source code](./g/main.cpp) |
