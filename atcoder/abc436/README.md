@@ -11,8 +11,8 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 46 | o-padding | https://atcoder.jp/contests/abc436/tasks/abc436_a | |
-| B | <img src="../../_assets/gray_2_4.svg" width="16px"> 163 | Magic Square | https://atcoder.jp/contests/abc436/tasks/abc436_b | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 46 | o-padding | https://atcoder.jp/contests/abc436/tasks/abc436_a | [source code](./a/main.cpp) |
+| B | <img src="../../_assets/gray_2_4.svg" width="16px"> 163 | Magic Square | https://atcoder.jp/contests/abc436/tasks/abc436_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/brown_0_4.svg" width="16px"> 418 | 2x2 Placing | https://atcoder.jp/contests/abc436/tasks/abc436_c | |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 782 | Teleport Maze | https://atcoder.jp/contests/abc436/tasks/abc436_d | |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1061 | Minimum Swap | https://atcoder.jp/contests/abc436/tasks/abc436_e | |
