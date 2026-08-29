@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_0_4.svg" width="16px"> 870 | 183183 | https://atcoder.jp/contests/abc433/tasks/abc433_d | |
 | E | <img src="../../_assets/blue_1_4.svg" width="16px"> 1703 | Max Matrix 2 | https://atcoder.jp/contests/abc433/tasks/abc433_e | |
 | F | <img src="../../_assets/blue_0_4.svg" width="16px"> 1654 | 1122 Subsequence 2 | https://atcoder.jp/contests/abc433/tasks/abc433_f | |
-| G | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2085 | Substring Game | https://atcoder.jp/contests/abc433/tasks/abc433_g | |
+| G | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2085 | Substring Game | https://atcoder.jp/contests/abc433/tasks/abc433_g | [source code](./g/main.cpp) |
