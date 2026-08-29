@@ -8,7 +8,6 @@ struct segtree {
 		while (i >>= 1) tree[i] = min(tree[i << 1], tree[i << 1 | 1]);
 	}
 	int query(int l, int r) const {
-		if (l > r) return 1 << 30;
 		int ret = 1 << 30;
 		for (l |= sz, r |= sz; l <= r; l >>= 1, r >>= 1) {
 			if (l & 1) ret = min(ret, tree[l++]);
@@ -79,7 +78,7 @@ auto sol = [](string s) {
 		for (int i = 1; i < cand.size(); i++) {
 			int a = cand[i - 1] + 1;
 			int b = cand[i];
-			int val = min((int)s.size() - sa[a], tree.query(a, b - 1));
+			int val = a == b ? s.size() - sa[a] : tree.query(a, b - 1);
 			bool res = self(self, a, b, val);
 			if ((val - x) % 2 == 0) res = !res;
 			if (!res) return true;
