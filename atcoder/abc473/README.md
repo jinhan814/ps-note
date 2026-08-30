@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 60 | Second Half Sum | https://atcoder.jp/contests/abc473/tasks/abc473_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 60 | Second Half Sum | https://atcoder.jp/contests/abc473/tasks/abc473_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_1_4.svg" width="16px"> 115 | Old Maid | https://atcoder.jp/contests/abc473/tasks/abc473_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/gray_2_4.svg" width="16px"> 211 | Change Schools | https://atcoder.jp/contests/abc473/tasks/abc473_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 977 | Coefficient Stair | https://atcoder.jp/contests/abc473/tasks/abc473_d | [source code](./d/main.cpp) |
