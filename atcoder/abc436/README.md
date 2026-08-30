@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-08-29
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-08-30
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_0_4.svg" width="16px"> 418 | 2x2 Placing | https://atcoder.jp/contests/abc436/tasks/abc436_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 782 | Teleport Maze | https://atcoder.jp/contests/abc436/tasks/abc436_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1061 | Minimum Swap | https://atcoder.jp/contests/abc436/tasks/abc436_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1406 | Starry Landscape Photo | https://atcoder.jp/contests/abc436/tasks/abc436_f | |
+| F | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1406 | Starry Landscape Photo | https://atcoder.jp/contests/abc436/tasks/abc436_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2203 | Linear Inequation | https://atcoder.jp/contests/abc436/tasks/abc436_g | [source code](./g/main.cpp) |
