@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
-- **마지막 업데이트:** 2026-08-29
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-08-30
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 977 | Coefficient Stair | https://atcoder.jp/contests/abc473/tasks/abc473_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1087 | K-Divisible Subarrays | https://atcoder.jp/contests/abc473/tasks/abc473_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1378 | A/AB Insertion | https://atcoder.jp/contests/abc473/tasks/abc473_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1973 | Wipeout | https://atcoder.jp/contests/abc473/tasks/abc473_g | |
+| G | <img src="../../_assets/blue_4_4.svg" width="16px"> 1973 | Wipeout | https://atcoder.jp/contests/abc473/tasks/abc473_g | [source code](./g/main.cpp) |
