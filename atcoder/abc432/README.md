@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/blue_2_4.svg" width="16px"> 1776 | Suddenly, A Tempest | https://atcoder.jp/contests/abc432/tasks/abc432_d | |
 | E | <img src="../../_assets/green_4_4.svg" width="16px"> 1197 | Clamp | https://atcoder.jp/contests/abc432/tasks/abc432_e | |
 | F | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2300 | Candy Redistribution | https://atcoder.jp/contests/abc432/tasks/abc432_f | |
-| G | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2021 | Sum of Binom(A, B) | https://atcoder.jp/contests/abc432/tasks/abc432_g | |
+| G | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2021 | Sum of Binom(A, B) | https://atcoder.jp/contests/abc432/tasks/abc432_g | [source code](./g/main.cpp) |
