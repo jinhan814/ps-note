@@ -2,22 +2,22 @@
 using namespace std;
 
 auto sol = [](int n, int m, auto a, auto b) {
-	vector d(n * m + 1, pair(-1, -1));
-	vector c(n * m + 1, vector(0, pair(0, 0)));
+	vector pos(n * m + 1, pair(-1, -1));
+	vector buc(n * m + 1, vector(0, pair(0, 0)));
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
-			if (a[i] == b[j]) d[a[i]] = pair(i, j);
-			else c[min(a[i], b[j])].push_back(pair(i, j));
+			if (a[i] == b[j]) pos[a[i]] = pair(i, j);
+			else buc[min(a[i], b[j])].push_back(pair(i, j));
 		}
 	}
 	vector v(n, vector(m, 0));
-	vector buc(0, pair(0, 0));
+	vector cand(0, pair(0, 0));
 	for (int x = n * m; x >= 1; x--) {
-		for (auto p : c[x]) buc.push_back(p);
-		if (d[x] != pair(-1, -1)) buc.push_back(d[x]);
-		if (buc.empty()) return vector(0, vector(0, 0));
-		auto [i, j] = buc.back();
-		buc.pop_back();
+		for (auto p : buc[x]) cand.push_back(p);
+		if (pos[x] != pair(-1, -1)) cand.push_back(pos[x]);
+		if (cand.empty()) return vector(0, vector(0, 0));
+		auto [i, j] = cand.back();
+		cand.pop_back();
 		v[i][j] = x;
 	}
 	for (int i = 0; i < n; i++) {
