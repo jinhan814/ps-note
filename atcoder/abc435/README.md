@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
-- **마지막 업데이트:** 2026-07-23
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-09-06
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/gray_3_4.svg" width="16px"> 298 | Domino | https://atcoder.jp/contests/abc435/tasks/abc435_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 747 | Reachability Query 2 | https://atcoder.jp/contests/abc435/tasks/abc435_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1103 | Cover query | https://atcoder.jp/contests/abc435/tasks/abc435_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1455 | Cat exercise | https://atcoder.jp/contests/abc435/tasks/abc435_f | |
+| F | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1455 | Cat exercise | https://atcoder.jp/contests/abc435/tasks/abc435_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/orange_1_4.svg" width="16px"> 2550 | Domino Arrangement | https://atcoder.jp/contests/abc435/tasks/abc435_g | |
