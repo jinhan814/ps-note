@@ -4,22 +4,20 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, auto v) {
-	sort(v.begin(), v.end(), [](auto a, auto b) {
-		return a[0] - a[1] < b[0] - b[1];
-	});
+	vector c(n, 0);
+	i64 acc = 0;
 	int mn = 1 << 30;
-	vector p1(n + 1, i64(0));
-	vector p2(n + 1, i64(0));
 	for (int i = 0; i < n; i++) {
+		c[i] = v[i][1] - v[i][0];
+		acc += v[i][0];
 		mn = min(mn, v[i][0]);
-		p1[i + 1] = p1[i] + v[i][0];
-		p2[i + 1] = p2[i] + v[i][1];
 	}
-	i64 ret = i64(1) << 60;
-	for (int x = 1; x <= n; x++) {
-		i64 val = p1[x] + (p2[n] - p2[x]);
-		if (n - x > x) val += i64(n - 2 * x) * mn;
-		ret = min(ret, val);
+	sort(c.begin(), c.end());
+	i64 ret = acc;
+	for (int i = 1; i <= n; i++) {
+		acc += c[i - 1];
+		int cnt = max(2 * i - n, 0);
+		ret = min(ret, acc + i64(cnt) * mn);
 	}
 	return ret;
 };
