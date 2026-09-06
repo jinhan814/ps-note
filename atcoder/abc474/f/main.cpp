@@ -5,8 +5,10 @@ using i64 = long long;
 
 auto sol = [](int n, auto v) {
 	vector c(n + 1, array{ i64(0), i64(0) });
-	i64 sa = 0, sb = 0;
-	i64 lo = 0, hi = 2'000'000'000;
+	i64 lo = *max_element(v.begin() + 1, v.end());
+	i64 hi = 2 * lo;
+	i64 sa = 0;
+	i64 sb = 0;
 	for (int i = n; i >= 1; i--) {
 		auto& [a, b] = c[i];
 		a = 1;
