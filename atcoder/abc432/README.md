@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-09-13
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-09-16
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_4_4.svg" width="16px"> 752 | Candy Tribulation | https://atcoder.jp/contests/abc432/tasks/abc432_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/blue_2_4.svg" width="16px"> 1776 | Suddenly, A Tempest | https://atcoder.jp/contests/abc432/tasks/abc432_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_4_4.svg" width="16px"> 1197 | Clamp | https://atcoder.jp/contests/abc432/tasks/abc432_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2300 | Candy Redistribution | https://atcoder.jp/contests/abc432/tasks/abc432_f | |
+| F | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2300 | Candy Redistribution | https://atcoder.jp/contests/abc432/tasks/abc432_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2021 | Sum of Binom(A, B) | https://atcoder.jp/contests/abc432/tasks/abc432_g | [source code](./g/main.cpp) |
