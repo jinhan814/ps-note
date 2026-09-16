@@ -4,8 +4,8 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, int m, i64 k, auto v) {
-	for (int i = 1; i < n; i++) v[i] += v[i - 1];
 	int ret = 0;
+	for (int i = 1; i < n; i++) v[i] += v[i - 1];
 	for (int i = 1; i <= n; i++) {
 		for (int j = i; j <= n; j++) {
 			if (i > m || j < m) continue;

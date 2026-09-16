@@ -14,7 +14,7 @@
 | A | <img src="../../_assets/gray_0_4.svg" width="16px"> 73 | mnclr | https://atcoder.jp/contests/abc475/tasks/abc475_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_2_4.svg" width="16px"> 205 | Change | https://atcoder.jp/contests/abc475/tasks/abc475_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/brown_4_4.svg" width="16px"> 744 | Walk the Line | https://atcoder.jp/contests/abc475/tasks/abc475_c | [source code](./c/main.cpp) |
-| D | <img src="../../_assets/green_1_4.svg" width="16px"> 918 | Alphametic Prime | https://atcoder.jp/contests/abc475/tasks/abc475_d | |
+| D | <img src="../../_assets/green_1_4.svg" width="16px"> 918 | Alphametic Prime | https://atcoder.jp/contests/abc475/tasks/abc475_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/blue_2_4.svg" width="16px"> 1782 | Quiz Competition: Qualifiers | https://atcoder.jp/contests/abc475/tasks/abc475_e | |
 | F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1945 | Rectangle Filling | https://atcoder.jp/contests/abc475/tasks/abc475_f | |
 | G | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2379 | Has Many Divisors | https://atcoder.jp/contests/abc475/tasks/abc475_g | |
