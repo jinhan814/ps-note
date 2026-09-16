@@ -19,7 +19,7 @@ auto sol = [](int n, auto v) {
 	vector ret(0, tuple(0, 0, 0));
 	vector buc(0, 0);
 	int mask = (1 << n) - 1;
-	auto f = [&] {
+	auto push = [&] {
 		for (int i = 1; i < buc.size(); i++) {
 			if (v[buc[i]] <= 0) continue;
 			ret.push_back(tuple(buc[i], buc[0], v[buc[i]]));
@@ -41,7 +41,7 @@ auto sol = [](int n, auto v) {
 			if (dp[mask] != dp[mask ^ 1 << i] + (s == 0)) continue;
 			buc.push_back(i);
 			mask ^= 1 << i;
-			if (v[i] == s) f();
+			if (v[i] == s) push();
 			break;
 		}
 	}
