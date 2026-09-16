@@ -11,7 +11,7 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 73 | mnclr | https://atcoder.jp/contests/abc475/tasks/abc475_a | |
+| A | <img src="../../_assets/gray_0_4.svg" width="16px"> 73 | mnclr | https://atcoder.jp/contests/abc475/tasks/abc475_a | [source code](./a/main.cpp) |
 | B | <img src="../../_assets/gray_2_4.svg" width="16px"> 205 | Change | https://atcoder.jp/contests/abc475/tasks/abc475_b | |
 | C | <img src="../../_assets/brown_4_4.svg" width="16px"> 744 | Walk the Line | https://atcoder.jp/contests/abc475/tasks/abc475_c | |
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 918 | Alphametic Prime | https://atcoder.jp/contests/abc475/tasks/abc475_d | |
