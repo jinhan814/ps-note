@@ -6,13 +6,11 @@ using i64 = long long;
 auto sol = [](int n, int m, auto a, auto b) {
 	vector p1(n + 2, vector(n + 2, i64(0)));
 	vector p2(n + 2, vector(n + 2, i64(0)));
-	vector c(n + 1, i64(0));
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
 			int val = i64(a[i]) * b[j] % m;
 			p1[i][j] = val + p1[i - 1][j - 1];
 			p2[i][j] = val + p2[i - 1][j + 1];
-			c[1] += i64(val) * max(i - 1, j - 1);
 		}
 	}
 	for (int j = 2; j <= n; j++) {
@@ -33,6 +31,14 @@ auto sol = [](int n, int m, auto a, auto b) {
 		}
 		for (int j = 1; j <= n; j++) {
 			p2[i][j] += p2[i][j + 1];
+		}
+	}
+	vector c(n + 1, i64(0));
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= n; j++) {
+			int v1 = i64(a[i]) * b[j] % m;
+			int v2 = max(i - 1, j - 1);
+			c[1] += i64(v1) * v2;
 		}
 	}
 	for (int i = 2; i <= n; i++) {
