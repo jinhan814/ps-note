@@ -4,8 +4,8 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, int m, auto a, auto b) {
-	vector p1(n + 2, vector(n + 2, i64(0)));
-	vector p2(n + 2, vector(n + 2, i64(0)));
+	vector p1(n + 1, vector(n + 2, i64(0)));
+	vector p2(n + 1, vector(n + 2, i64(0)));
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
 			int val = i64(a[i]) * b[j] % m;
