@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-09-24
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-09-28
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 918 | Alphametic Prime | https://atcoder.jp/contests/abc475/tasks/abc475_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/blue_2_4.svg" width="16px"> 1782 | Quiz Competition: Qualifiers | https://atcoder.jp/contests/abc475/tasks/abc475_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1945 | Rectangle Filling | https://atcoder.jp/contests/abc475/tasks/abc475_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2379 | Has Many Divisors | https://atcoder.jp/contests/abc475/tasks/abc475_g | |
+| G | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2379 | Has Many Divisors | https://atcoder.jp/contests/abc475/tasks/abc475_g | [source code](./g/main.cpp) |
