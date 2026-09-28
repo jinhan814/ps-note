@@ -4,7 +4,7 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](i64 n, i64 m) {
-	auto f = [&](i64 n, auto cand) {
+	auto calc = [&](i64 n, auto cand) {
 		auto rec = [&](const auto& self, int dep, int lim, int cnt, i64 x) {
 			if (dep == cand.size()) return pair(cnt, x);
 			pair ret(1, i64(1));
@@ -26,14 +26,14 @@ auto sol = [](i64 n, i64 m) {
 		c.erase(lower_bound(c.begin(), c.end(), p));
 		i64 acc = 1;
 		for (int i = 0; i < cnt && acc <= n; i++) {
-			auto res = f(n / acc, c);
+			auto res = calc(n / acc, c);
 			res.first *= i + 1;
 			res.second *= acc;
 			ret = max(ret, res);
 			acc *= p;
 		}
 	}
-	if (m > 1) ret = max(ret, f(n, cand));
+	if (m > 1) ret = max(ret, calc(n, cand));
 	return ret.second;
 };
 
