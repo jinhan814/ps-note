@@ -49,8 +49,7 @@ auto sol = [](int n, int q, auto v, auto adj, auto qs) {
 		return a[2] > b[2];
 	});
 	vector c(n + 1, false);
-	vector cnt(n + 1, 0);
-	vector psum(n + 1, n);
+	vector cnt(n + 1, 0), psum(n + 1, n);
 	auto update = [&](int i) {
 		if (!c[i]) {
 			c[i] = true;
