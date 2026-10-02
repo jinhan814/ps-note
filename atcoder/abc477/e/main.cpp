@@ -29,7 +29,7 @@ auto sol = [](int n, int q, auto a, auto b, auto qs) {
 		if (p2 == n + 1) return b[p1];
 		int ret = b[p1] + b[p2];
 		i64 d = p[p2 - 1] - p[p1 - 1];
-		if (2 * d > p[n]) d = p[n] - d;
+		if (d > p[n] - d) d = p[n] - d;
 		if (ret > d) ret = d;
 		return ret;
 	};
