@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
-- **마지막 업데이트:** 2026-10-09
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-10-11
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_3_4.svg" width="16px"> 668 | Sort Subarray | https://atcoder.jp/contests/abc478/tasks/abc478_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/green_1_4.svg" width="16px"> 937 | Range Set Insertion Query | https://atcoder.jp/contests/abc478/tasks/abc478_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_3_4.svg" width="16px"> 1473 | lt and le | https://atcoder.jp/contests/abc478/tasks/abc478_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_0_4.svg" width="16px"> 1656 | Min-First Search | https://atcoder.jp/contests/abc478/tasks/abc478_f | |
+| F | <img src="../../_assets/blue_0_4.svg" width="16px"> 1656 | Min-First Search | https://atcoder.jp/contests/abc478/tasks/abc478_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/orange_2_4.svg" width="16px"> 2610 | Division Point Hull | https://atcoder.jp/contests/abc478/tasks/abc478_g | |
