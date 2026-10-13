@@ -12,7 +12,7 @@
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
 | A | <img src="../../_assets/gray_0_4.svg" width="16px"> 64 | Odd Index Sum | https://atcoder.jp/contests/abc479/tasks/abc479_a | [source code](./a/main.cpp) |
-| B | <img src="../../_assets/gray_1_4.svg" width="16px"> 132 | Longest Rainy Streak | https://atcoder.jp/contests/abc479/tasks/abc479_b | |
+| B | <img src="../../_assets/gray_1_4.svg" width="16px"> 132 | Longest Rainy Streak | https://atcoder.jp/contests/abc479/tasks/abc479_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/brown_0_4.svg" width="16px"> 455 | Bento Packing | https://atcoder.jp/contests/abc479/tasks/abc479_c | |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 735 | Back and Forth Distance | https://atcoder.jp/contests/abc479/tasks/abc479_d | |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1117 | Cut and Add | https://atcoder.jp/contests/abc479/tasks/abc479_e | |
