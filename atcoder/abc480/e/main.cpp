@@ -21,10 +21,7 @@ auto sol = [](i64 n) {
 		for (int i = 1; x > 0; i++) {
 			while (x > 0) {
 				i128 val = 1;
-				for (int j = 0; j < k; j++) {
-					val *= i + x * j;
-					if (val > n) break;
-				}
+				for (int j = 0; j < k && val <= n; j++) val *= i + x * j;
 				if (val <= n) break;
 				x--;
 			}
