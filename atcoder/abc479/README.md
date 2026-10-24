@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
-- **마지막 업데이트:** 2026-10-13
+- **진행도:** 6 / 7 (85.71%)
+- **마지막 업데이트:** 2026-10-24
 
 ---
 
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/brown_0_4.svg" width="16px"> 455 | Bento Packing | https://atcoder.jp/contests/abc479/tasks/abc479_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_4_4.svg" width="16px"> 735 | Back and Forth Distance | https://atcoder.jp/contests/abc479/tasks/abc479_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/green_3_4.svg" width="16px"> 1117 | Cut and Add | https://atcoder.jp/contests/abc479/tasks/abc479_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1947 | Narrow Passage | https://atcoder.jp/contests/abc479/tasks/abc479_f | |
+| F | <img src="../../_assets/blue_4_4.svg" width="16px"> 1947 | Narrow Passage | https://atcoder.jp/contests/abc479/tasks/abc479_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/yellow_4_4.svg" width="16px"> 2375 | Tuning | https://atcoder.jp/contests/abc479/tasks/abc479_g | |
