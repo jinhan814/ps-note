@@ -7,23 +7,21 @@ auto sol = [](int n, int m, auto v) {
 	i64 val = 0;
 	for (int i = 0; i < n; i++) val += v[i];
 	val /= m;
-	vector dp(1 << n, 1 << 30);
-	dp[0] = 0;
-	for (int mask = 1; mask < 1 << n; mask++) {
-		i64 x = 0;
+	vector dp(1 << n, -1);
+	auto rec = [&](const auto& self, int mask) -> int {
+		if (mask == 0) return 0;
+		int& ret = dp[mask];
+		if (ret != -1) return ret;
+		ret = 0;
+		i64 acc = 0;
 		for (int i = 0; i < n; i++) {
-			if (mask >> i & 1) continue;
-			x += v[i];
+			if (~mask >> i & 1) acc += v[i];
+			else ret = max(ret, self(self, mask ^ 1 << i));
 		}
-		x %= val;
-		for (int i = 0; i < n; i++) {
-			if (~mask >> i & 1) continue;
-			int v1 = dp[mask ^ 1 << i];
-			int v2 = (v[i] + x - 1) / val;
-			dp[mask] = min(dp[mask], v1 + v2);
-		}
-	}
-	return dp.back();
+		if (acc % val == 0) ret++;
+		return ret;
+	};
+	return m - rec(rec, (1 << n) - 1);
 };
 
 int main() {
