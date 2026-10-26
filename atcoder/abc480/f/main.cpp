@@ -4,31 +4,26 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, int m, auto v) {
-	vector acc(1 << n, i64(0));
-	for (int i = 0; i < n; i++) acc[1 << i] += v[i];
-	for (int i = 0; i < n; i++) {
-		for (int mask = 0; mask < 1 << n; mask++) {
-			if (~mask >> i & 1) continue;
-			acc[mask] += acc[mask ^ 1 << i];
+	i64 val = 0;
+	for (int i = 0; i < n; i++) val += v[i];
+	val /= m;
+	vector dp(1 << n, 1 << 30);
+	dp[0] = 0;
+	for (int mask = 1; mask < 1 << n; mask++) {
+		i64 x = 0;
+		for (int i = 0; i < n; i++) {
+			if (mask >> i & 1) continue;
+			x += v[i];
 		}
-	}
-	i64 val = acc.back() / m;
-	vector dp(1 << n, -1);
-	auto rec = [&](const auto& self, int mask) -> int {
-		if (mask == 0) return 0;
-		int& ret = dp[mask];
-		if (ret != -1) return ret;
-		ret = 1 << 30;
-		i64 x = (acc.back() - acc[mask]) % val;
+		x %= val;
 		for (int i = 0; i < n; i++) {
 			if (~mask >> i & 1) continue;
-			int v1 = self(self, mask ^ 1 << i);
+			int v1 = dp[mask ^ 1 << i];
 			int v2 = (v[i] + x - 1) / val;
-			ret = min(ret, v1 + v2);
+			dp[mask] = min(dp[mask], v1 + v2);
 		}
-		return ret;
-	};
-	return rec(rec, (1 << n) - 1);
+	}
+	return dp.back();
 };
 
 int main() {
