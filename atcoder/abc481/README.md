@@ -4,7 +4,7 @@
 
 ## 📊 Progress
 
-- **진행도:** 5 / 7 (71.43%)
+- **진행도:** 6 / 7 (85.17%)
 - **마지막 업데이트:** 2026-10-27
 
 ---
@@ -16,5 +16,5 @@
 | C | <img src="../../_assets/gray_3_4.svg" width="16px"> 281 | Bank Accounts | https://atcoder.jp/contests/abc481/tasks/abc481_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/brown_3_4.svg" width="16px"> 717 | Autopilot | https://atcoder.jp/contests/abc481/tasks/abc481_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1379 | Most Brilliant Starry Sky | https://atcoder.jp/contests/abc481/tasks/abc481_e | [source code](./e/main.cpp) |
-| F | <img src="../../_assets/blue_0_4.svg" width="16px"> 1641 | Evil Shortest Path | https://atcoder.jp/contests/abc481/tasks/abc481_f | |
+| F | <img src="../../_assets/blue_0_4.svg" width="16px"> 1641 | Evil Shortest Path | https://atcoder.jp/contests/abc481/tasks/abc481_f | [source code](./f/main.cpp) |
 | G | <img src="../../_assets/orange_3_4.svg" width="16px"> 2648 | Half-Baked | https://atcoder.jp/contests/abc481/tasks/abc481_g | |
