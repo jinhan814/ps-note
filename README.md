@@ -65,7 +65,7 @@
 | **[ABC466(6/7)](./atcoder/abc466/README.md)** | **[ABC467(7/7)](./atcoder/abc467/README.md)** | **[ABC468(7/7)](./atcoder/abc468/README.md)** | **[ABC469(6/7)](./atcoder/abc469/README.md)** | **[ABC470(7/7)](./atcoder/abc470/README.md)** |
 | **[ABC471(6/7)](./atcoder/abc471/README.md)** | **[ABC472(7/7)](./atcoder/abc472/README.md)** | **[ABC473(7/7)](./atcoder/abc473/README.md)** | **[ABC474(7/7)](./atcoder/abc474/README.md)** | **[ABC475(7/7)](./atcoder/abc475/README.md)** |
 | **[ABC476(6/7)](./atcoder/abc476/README.md)** | **[ABC477(7/7)](./atcoder/abc477/README.md)** | **[ABC478(6/7)](./atcoder/abc478/README.md)** |   [ABC479(6/7)](./atcoder/abc479/README.md)   |   [ABC480(6/7)](./atcoder/abc480/README.md)   |
-|   [ABC481(0/7)](./atcoder/abc481/README.md)   |                                               |                                               |                                               |                                               |
+|   [ABC481(5/7)](./atcoder/abc481/README.md)   |                                               |                                               |                                               |                                               |
 
 **AtCoder Regular Contest**
 | <img src="_assets/orange_3_4.svg" width="16px"> | <img src="_assets/red_3_4.svg" width="16px"> | <img src="_assets/bronze.svg" width="16px"> | <img src="_assets/silver.svg" width="16px"> | <img src="_assets/gold.svg" width="16px"> |
