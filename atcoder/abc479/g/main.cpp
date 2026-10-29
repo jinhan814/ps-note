@@ -17,9 +17,7 @@ auto sol = [](int n, auto v) {
 		}
 		if (c.empty()) continue;
 		sort(c.begin(), c.end(), [](auto a, auto b) {
-			i64 v1 = i64(a[0]) * b[1];
-			i64 v2 = i64(b[0]) * a[1];
-			return v1 < v2;
+			return i64(a[0]) * b[1] < i64(b[0]) * a[1];
 		});
 		int p = 0;
 		while (p + 1 < c.size() && acc - 2 * c[p][1] > 0) {
