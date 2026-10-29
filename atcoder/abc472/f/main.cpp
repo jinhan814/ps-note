@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using i64 = long long;
 using i128 = __int128;
+using i64 = long long;
 using f64 = double;
 
 auto sol = [](int n, int q, auto v, auto qs) {
