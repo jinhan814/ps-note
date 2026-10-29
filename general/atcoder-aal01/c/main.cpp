@@ -14,13 +14,12 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		--i |= sz;
 		while (tree[i] < x) {
 			if ((i & i + 1) == 0) return n + 1;
-			x -= tree[i];
-			i++;
+			x -= tree[i++];
 			if (~i & 1) i >>= 1;
 		}
 		while (i < sz) {
 			i <<= 1;
-			if (tree[i] < x) x -= tree[i], i++;
+			if (tree[i] < x) x -= tree[i++];
 		}
 		return i - sz + 1;
 	};
@@ -28,13 +27,12 @@ auto sol = [](int n, int q, auto v, auto qs) {
 		--i |= sz;
 		while (tree[i] < x) {
 			if (i == (i & -i)) return 0;
-			x -= tree[i];
-			i--;
+			x -= tree[i--];
 			if (i & 1) i >>= 1;
 		}
 		while (i < sz) {
 			i = i << 1 | 1;
-			if (tree[i] < x) x -= tree[i], i--;
+			if (tree[i] < x) x -= tree[i--];
 		}
 		return i - sz + 1;
 	};
