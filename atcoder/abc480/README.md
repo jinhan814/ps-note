@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-10-26
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-10-29
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 984 | Concatenation of Prefixes | https://atcoder.jp/contests/abc480/tasks/abc480_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1409 | Product-Bounded Arithmetic Sequences | https://atcoder.jp/contests/abc480/tasks/abc480_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/blue_3_4.svg" width="16px"> 1849 | Cake Cutting | https://atcoder.jp/contests/abc480/tasks/abc480_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2103 | Zonal Score Minimization | https://atcoder.jp/contests/abc480/tasks/abc480_g | |
+| G | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2103 | Zonal Score Minimization | https://atcoder.jp/contests/abc480/tasks/abc480_g | [source code](./g/main.cpp) |
