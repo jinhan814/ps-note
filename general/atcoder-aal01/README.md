@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 24 (0.00%)
-- **마지막 업데이트:** 2026-10-29
+- **진행도:** 7 / 24 (29.17%)
+- **마지막 업데이트:** 2026-10-30
 
 ---
 
@@ -17,7 +17,7 @@
 | 4 | <img src="../../_assets/cyan_0_4.svg" width="16px"> 1211 | Inversion Count | https://atcoder.jp/contests/aalc001/tasks/aalc001_d | [source code](./d/main.cpp) |
 | 5 | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1333 | RGB | https://atcoder.jp/contests/aalc001/tasks/aalc001_e | [source code](./e/main.cpp) |
 | 6 | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1386 | Run | https://atcoder.jp/contests/aalc001/tasks/aalc001_f | [source code](./f/main.cpp) |
-| 7 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1572 | Sum of k-th Powers | https://atcoder.jp/contests/aalc001/tasks/aalc001_g | |
+| 7 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1572 | Sum of k-th Powers | https://atcoder.jp/contests/aalc001/tasks/aalc001_g | [source code](./g/main.cpp) |
 | 8 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1534 | Add and Mod | https://atcoder.jp/contests/aalc001/tasks/aalc001_h | |
 | 9 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1967 | Subarray | https://atcoder.jp/contests/aalc001/tasks/aalc001_i | |
 | 10 | <img src="../../_assets/blue_1_4.svg" width="16px"> 1750 | Long Binary String | https://atcoder.jp/contests/aalc001/tasks/aalc001_j | |
