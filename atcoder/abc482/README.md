@@ -11,8 +11,8 @@
 
 | No. | Difficulty | Title | Problem Link | Source Code |
 | :---: | :--- | :--- | :--- | :---: |
-| A | <img src="../../_assets/gray_1_4.svg" width="16px"> 80 | Nigiri | https://atcoder.jp/contests/abc482/tasks/abc482_a | |
-| B | <img src="../../_assets/gray_2_4.svg" width="16px"> 239 | Blank Bingo | https://atcoder.jp/contests/abc482/tasks/abc482_b | |
+| A | <img src="../../_assets/gray_1_4.svg" width="16px"> 80 | Nigiri | https://atcoder.jp/contests/abc482/tasks/abc482_a | [source code](./a/main.cpp) |
+| B | <img src="../../_assets/gray_2_4.svg" width="16px"> 239 | Blank Bingo | https://atcoder.jp/contests/abc482/tasks/abc482_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/brown_4_4.svg" width="16px"> 749 | Band Count | https://atcoder.jp/contests/abc482/tasks/abc482_c | |
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 993 | Wannabe Zombie | https://atcoder.jp/contests/abc482/tasks/abc482_d | |
 | E | <img src="../../_assets/blue_0_4.svg" width="16px"> 1623 | Diameter Endpoint Colors | https://atcoder.jp/contests/abc482/tasks/abc482_e | |
