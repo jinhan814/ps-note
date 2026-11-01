@@ -1,6 +1,6 @@
-# 🏆 Atcoder AAL 01: 24 Problems on Segment Tree
+# 🏆 Atcoder AAL 01: Let's Use Segtree
 
-[Atcoder AAL 01: 24 Problems on Segment Tree](https://atcoder.jp/contests/aalc001) 문제 풀이 및 진행 현황
+[Atcoder AAL 01: Let's Use Segtree](https://atcoder.jp/contests/aalc001) 문제 풀이 및 진행 현황
 
 ## 📊 Progress
 

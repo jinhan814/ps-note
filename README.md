@@ -15,7 +15,7 @@
 - [**TDPC**](./general/atcoder-tdpc/README.md): [AtCoder Typical DP Contest](https://atcoder.jp/contests/tdpc)
 - [**NDPC**](./general/atcoder-ndpc/README.md): [AtCoder Next DP Contest](https://atcoder.jp/contests/ndpc)
 - [**FPS24**](./general/atcoder-fps24/README.md): [AtCoder FPS 24: 24 Problems on Formal Power Series](https://atcoder.jp/contests/fps-24)
-- [**AAL01**](./general/atcoder-aal01/README.md): [Atcoder AAL 01: 24 Problems on Segment Tree](https://atcoder.jp/contests/aalc001)
+- [**AAL01**](./general/atcoder-aal01/README.md): [Atcoder AAL 01: Let's Use Segtree](https://atcoder.jp/contests/aalc001)
 
 ---
 
