@@ -2,38 +2,26 @@
 using namespace std;
 
 auto sol = [](int n, int q, auto v, auto qs) {
-	vector c1(0, 0);
-	vector c2(0, 0);
-	for (auto [a, b] : v) {
-		c1.push_back(a);
-		c2.push_back(b);
-	}
-	sort(c1.begin(), c1.end());
-	sort(c2.begin(), c2.end());
-	c1.erase(unique(c1.begin(), c1.end()), c1.end());
-	c2.erase(unique(c2.begin(), c2.end()), c2.end());
-	vector p1(c1.size() + 1, 0);
-	vector p2(c2.size() + 1, 0);
-	for (auto [a, b] : v) {
-		a = lower_bound(c1.begin(), c1.end(), a) - c1.begin();
-		b = lower_bound(c2.begin(), c2.end(), b) - c2.begin();
-		p1[a + 1]++;
-		p2[b + 1]++;
-	}
-	for (int i = 1; i <= c1.size(); i++) p1[i] += p1[i - 1];
-	for (int i = 1; i <= c2.size(); i++) p2[i] += p2[i - 1];
 	vector ret(q, 0);
-	for (int i = 0; i < q; i++) {
-		auto [op, a, b] = qs[i];
-		if (op == 1) {
-			a = lower_bound(c1.begin(), c1.end(), a) - c1.begin();
-			b = upper_bound(c1.begin(), c1.end(), b) - c1.begin();
-			ret[i] = p1[b] - p1[a];
+	for (int iter = 0; iter < 2; iter++) {
+		vector c(0, 0);
+		for (int i = 0; i < n; i++) c.push_back(v[i][iter]);
+		sort(c.begin(), c.end());
+		c.erase(unique(c.begin(), c.end()), c.end());
+		vector p(c.size() + 1, 0);
+		for (int i = 0; i < n; i++) {
+			auto it = lower_bound(c.begin(), c.end(), v[i][iter]);
+			p[it - c.begin() + 1]++;
 		}
-		else {
-			a = lower_bound(c2.begin(), c2.end(), a) - c2.begin();
-			b = upper_bound(c2.begin(), c2.end(), b) - c2.begin();
-			ret[i] = p2[b] - p2[a];
+		for (int i = 0; i < c.size(); i++) {
+			p[i + 1] += p[i];
+		}
+		for (int i = 0; i < q; i++) {
+			auto [op, l, r] = qs[i];
+			if (op != iter + 1) continue;
+			l = lower_bound(c.begin(), c.end(), l) - c.begin();
+			r = upper_bound(c.begin(), c.end(), r) - c.begin();
+			ret[i] = p[r] - p[l];
 		}
 	}
 	return ret;
