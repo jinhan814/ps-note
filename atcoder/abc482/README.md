@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 0 / 7 (0.00%)
-- **마지막 업데이트:** 2026-10-31
+- **진행도:** 5 / 7 (71.43%)
+- **마지막 업데이트:** 2026-11-01
 
 ---
 
@@ -15,6 +15,6 @@
 | B | <img src="../../_assets/gray_2_4.svg" width="16px"> 239 | Blank Bingo | https://atcoder.jp/contests/abc482/tasks/abc482_b | [source code](./b/main.cpp) |
 | C | <img src="../../_assets/brown_4_4.svg" width="16px"> 749 | Band Count | https://atcoder.jp/contests/abc482/tasks/abc482_c | [source code](./c/main.cpp) |
 | D | <img src="../../_assets/green_2_4.svg" width="16px"> 993 | Wannabe Zombie | https://atcoder.jp/contests/abc482/tasks/abc482_d | [source code](./d/main.cpp) |
-| E | <img src="../../_assets/blue_0_4.svg" width="16px"> 1623 | Diameter Endpoint Colors | https://atcoder.jp/contests/abc482/tasks/abc482_e | |
+| E | <img src="../../_assets/blue_0_4.svg" width="16px"> 1623 | Diameter Endpoint Colors | https://atcoder.jp/contests/abc482/tasks/abc482_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2312 | Mod M Divisor | https://atcoder.jp/contests/abc482/tasks/abc482_f | |
 | G | <img src="../../_assets/orange_4_4.svg" width="16px"> 2774 | Degree Harmony 2 | https://atcoder.jp/contests/abc482/tasks/abc482_g | |
