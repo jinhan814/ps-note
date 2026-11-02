@@ -23,25 +23,18 @@ auto sol = [](i64 n, int m) {
 	while (dq.size()) {
 		auto [i, j] = dq.front(); dq.pop_front();
 		int nj = j + 1 < p.size() ? j + 1 : 0;
-		if (j == 0) {
-			for (int ni : { i64(i), i64(i) * p[j] % m }) {
-				if (d[ni][nj] <= d[i][j] + 1) continue;
-				d[ni][nj] = d[i][j] + 1;
-				dq.push_back(pair(ni, nj));
-			}
-		}
-		else {
-			for (int ni : { i64(i), i64(i) * p[j] % m }) {
-				if (d[ni][nj] <= d[i][j]) continue;
-				d[ni][nj] = d[i][j];
-				dq.push_front(pair(ni, nj));
-			}
+		int val = d[i][j] + (j == 0);
+		for (int ni : { i64(i), i64(i) * p[j] % m }) {
+			if (d[ni][nj] <= val) continue;
+			d[ni][nj] = val;
+			if (j == 0) dq.push_back(pair(ni, nj));
+			else dq.push_front(pair(ni, nj));
 		}
 	}
-	d[1][0] = 1;
 	vector ret(m, -1);
 	for (int i = 0; i < m; i++) {
 		int mn = *min_element(d[i].begin(), d[i].end());
+		if (mn < 1) mn = 1;
 		if (mn != 1 << 30) ret[i] = mn;
 	}
 	return ret;
