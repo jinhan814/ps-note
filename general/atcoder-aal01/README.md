@@ -1,11 +1,11 @@
-# 🏆 Atcoder AAL 01: Let's Use Segtree
+# 🏆 Atcoder AAL 01: Let's Use Segment Tree
 
-[Atcoder AAL 01: Let's Use Segtree](https://atcoder.jp/contests/aalc001) 문제 풀이 및 진행 현황
+[Atcoder AAL 01: Let's Use Segment Tree](https://atcoder.jp/contests/aalc001) 문제 풀이 및 진행 현황
 
 ## 📊 Progress
 
-- **진행도:** 7 / 24 (29.17%)
-- **마지막 업데이트:** 2026-10-30
+- **진행도:** 9 / 24 (37.50%)
+- **마지막 업데이트:** 2026-11-03
 
 ---
 
@@ -18,8 +18,8 @@
 | 5 | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1333 | RGB | https://atcoder.jp/contests/aalc001/tasks/aalc001_e | [source code](./e/main.cpp) |
 | 6 | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1386 | Run | https://atcoder.jp/contests/aalc001/tasks/aalc001_f | [source code](./f/main.cpp) |
 | 7 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1572 | Sum of k-th Powers | https://atcoder.jp/contests/aalc001/tasks/aalc001_g | [source code](./g/main.cpp) |
-| 8 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1534 | Add and Mod | https://atcoder.jp/contests/aalc001/tasks/aalc001_h | |
-| 9 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1967 | Subarray | https://atcoder.jp/contests/aalc001/tasks/aalc001_i | |
+| 8 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1534 | Add and Mod | https://atcoder.jp/contests/aalc001/tasks/aalc001_h | [source code](./h/main.cpp) |
+| 9 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1967 | Subarray | https://atcoder.jp/contests/aalc001/tasks/aalc001_i | [source code](./i/main.cpp) |
 | 10 | <img src="../../_assets/blue_1_4.svg" width="16px"> 1750 | Long Binary String | https://atcoder.jp/contests/aalc001/tasks/aalc001_j | |
 | 11 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1867 | Multiset | https://atcoder.jp/contests/aalc001/tasks/aalc001_k | |
 | 12 | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2083 | Swap between Arrays | https://atcoder.jp/contests/aalc001/tasks/aalc001_l | |
