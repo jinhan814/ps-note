@@ -40,8 +40,8 @@ auto sol = [](int n, int q, auto v, auto qs) {
 	vector ret(0, 0);
 	for (auto [op, a, b] : qs) {
 		if (op == 1) update(a, b);
-		if (op == 2) ret.push_back(query1(a, b));
-		if (op == 3) ret.push_back(query2(a, b));
+		else if (op == 2) ret.push_back(query1(a, b));
+		else ret.push_back(query2(a, b));
 	}
 	return ret;
 };

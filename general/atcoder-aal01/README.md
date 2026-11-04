@@ -20,8 +20,8 @@
 | 7 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1572 | Sum of k-th Powers | https://atcoder.jp/contests/aalc001/tasks/aalc001_g | [source code](./g/main.cpp) |
 | 8 | <img src="../../_assets/cyan_4_4.svg" width="16px"> 1534 | Add and Mod | https://atcoder.jp/contests/aalc001/tasks/aalc001_h | [source code](./h/main.cpp) |
 | 9 | <img src="../../_assets/blue_4_4.svg" width="16px"> 1967 | Subarray | https://atcoder.jp/contests/aalc001/tasks/aalc001_i | [source code](./i/main.cpp) |
-| 10 | <img src="../../_assets/blue_1_4.svg" width="16px"> 1750 | Long Binary String | https://atcoder.jp/contests/aalc001/tasks/aalc001_j | |
-| 11 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1867 | Multiset | https://atcoder.jp/contests/aalc001/tasks/aalc001_k | |
+| 10 | <img src="../../_assets/blue_1_4.svg" width="16px"> 1750 | Long Binary String | https://atcoder.jp/contests/aalc001/tasks/aalc001_j | [source code](./j/main.cpp) |
+| 11 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1867 | Multiset | https://atcoder.jp/contests/aalc001/tasks/aalc001_k | [source code](./k/main.cpp) |
 | 12 | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2083 | Swap between Arrays | https://atcoder.jp/contests/aalc001/tasks/aalc001_l | |
 | 13 | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2017 | NAND | https://atcoder.jp/contests/aalc001/tasks/aalc001_m | |
 | 14 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2186 | Times Tables | https://atcoder.jp/contests/aalc001/tasks/aalc001_n | |
