@@ -28,7 +28,7 @@
 | 15 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2405 | Minimum Value | https://atcoder.jp/contests/aalc001/tasks/aalc001_o | |
 | 16 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2448 | Connect the Dots | https://atcoder.jp/contests/aalc001/tasks/aalc001_p | |
 | 17 | <img src="../../_assets/red_1_4.svg" width="16px"> 2945 | Number of Moves | https://atcoder.jp/contests/aalc001/tasks/aalc001_q | |
-| 18 | <img src="../../_assets/orange_3_4.svg" width="16px"> 2670 | Connectivity | https://atcoder.jp/contests/aalc001/tasks/aalc001_r | |
+| 18 | <img src="../../_assets/orange_3_4.svg" width="16px"> 2670 | Connectivity | https://atcoder.jp/contests/aalc001/tasks/aalc001_r | [source code](./r/main.cpp) |
 | 19 | <img src="../../_assets/red_0_4.svg" width="16px"> 2858 | Absolute Value | https://atcoder.jp/contests/aalc001/tasks/aalc001_s | |
 | 20 | <img src="../../_assets/red_0_4.svg" width="16px"> 2878 | K-Inversion Count | https://atcoder.jp/contests/aalc001/tasks/aalc001_t | |
 | 21 | <img src="../../_assets/bronze.svg" width="16px"> 3506 | Second | https://atcoder.jp/contests/aalc001/tasks/aalc001_u | |
