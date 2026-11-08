@@ -24,7 +24,7 @@
 | 11 | <img src="../../_assets/blue_3_4.svg" width="16px"> 1867 | Multiset | https://atcoder.jp/contests/aalc001/tasks/aalc001_k | [source code](./k/main.cpp) |
 | 12 | <img src="../../_assets/yellow_1_4.svg" width="16px"> 2083 | Swap between Arrays | https://atcoder.jp/contests/aalc001/tasks/aalc001_l | [source code](./l/main.cpp) |
 | 13 | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2017 | NAND | https://atcoder.jp/contests/aalc001/tasks/aalc001_m | [source code](./m/main.cpp) |
-| 14 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2186 | Times Tables | https://atcoder.jp/contests/aalc001/tasks/aalc001_n | |
+| 14 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2186 | Times Tables | https://atcoder.jp/contests/aalc001/tasks/aalc001_n | [source code](./n/main.cpp) |
 | 15 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2405 | Minimum Value | https://atcoder.jp/contests/aalc001/tasks/aalc001_o | |
 | 16 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2448 | Connect the Dots | https://atcoder.jp/contests/aalc001/tasks/aalc001_p | |
 | 17 | <img src="../../_assets/red_1_4.svg" width="16px"> 2945 | Number of Moves | https://atcoder.jp/contests/aalc001/tasks/aalc001_q | |
