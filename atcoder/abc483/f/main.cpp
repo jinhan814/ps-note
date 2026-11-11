@@ -4,29 +4,17 @@ using namespace std;
 using i64 = long long;
 
 auto sol = [](int n, int q, auto v, auto qs) {
-	vector acc(401, vector(400, 0));
 	vector p(500'001, i64(0));
-	int cnt = 0;
-	for (auto [a, b] : v) {
-		if (b > 400) continue;
-		for (int x = 0; x < b; x++) acc[b][x] += (x + a) % b;
+	sort(v.begin(), v.end());
+	for (int i = 0, j = 0; i < n; i = j) {
+		while (j < n && v[i] == v[j]) j++;
+		auto [a, b] = v[i];
+		p[0] += i64(j - i) * a;
+		for (int x = b - a; x <= 500'000; x += b) p[x] -= i64(j - i) * b;
 	}
-	for (auto [a, b] : v) {
-		if (b <= 400) continue;
-		cnt++;
-		p[0] += a;
-		for (int i = b - a; i <= 500'000; i += b) p[i] -= b;
-	}
-	for (int i = 1; i <= 500'000; i++) {
-		p[i] += p[i - 1] + cnt;
-	}
-	auto calc = [&](int x) {
-		i64 ret = p[x];
-		for (int i = 1; i <= 400; i++) ret += acc[i][x % i];
-		return ret;
-	};
+	for (int i = 1; i <= 500'000; i++) p[i] += p[i - 1] + n;
 	vector ret(q, i64(0));
-	for (int i = 0; i < q; i++) ret[i] = calc(qs[i]);
+	for (int i = 0; i < q; i++) ret[i] = p[qs[i]];
 	return ret;
 };
 
