@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 6 / 7 (85.71%)
-- **마지막 업데이트:** 2026-11-15
+- **진행도:** 7 / 7 (100.00%)
+- **마지막 업데이트:** 2026-11-16
 
 ---
 
@@ -17,4 +17,4 @@
 | D | <img src="../../_assets/green_3_4.svg" width="16px"> 1100 | Move One Card Left | https://atcoder.jp/contests/abc484/tasks/abc484_d | [source code](./d/main.cpp) |
 | E | <img src="../../_assets/cyan_1_4.svg" width="16px"> 1285 | Subsegment Sum Finder | https://atcoder.jp/contests/abc484/tasks/abc484_e | [source code](./e/main.cpp) |
 | F | <img src="../../_assets/cyan_2_4.svg" width="16px"> 1389 | Make them monochrome | https://atcoder.jp/contests/abc484/tasks/abc484_f | [source code](./f/main.cpp) |
-| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2257 | Wildcard Construction | https://atcoder.jp/contests/abc484/tasks/abc484_g | |
+| G | <img src="../../_assets/yellow_3_4.svg" width="16px"> 2257 | Wildcard Construction | https://atcoder.jp/contests/abc484/tasks/abc484_g | [source code](./g/main.cpp) |
