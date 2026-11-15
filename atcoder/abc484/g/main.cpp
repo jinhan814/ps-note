@@ -11,12 +11,11 @@ auto sol = [](string s, string a, string b) {
 	int sz = max(a.size(), b.size());
 	vector p(sz + 1, 1);
 	for (int i = 1; i <= sz; i++) p[i] = p[i - 1] * 3;
+	vector nxt(p[sz] << sz, array{ 0, 0 });
 	vector c(p[sz] << sz, -1); c[1 << sz] = 0;
 	vector v(1, pair(0, 1));
-	vector nxt(0, array{ 0, 0 });
 	for (int iter = 0; iter < v.size(); iter++) {
 		auto [s1, s2] = v[iter];
-		nxt.push_back(array{ 0, 0 });
 		for (int x = 0; x <= 1; x++) {
 			int ns1 = ((s1 << 1) & ((1 << sz) - 1)) | x;
 			int ns2 = s2 * 3 % p[sz];
