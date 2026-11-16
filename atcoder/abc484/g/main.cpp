@@ -8,58 +8,48 @@ constexpr int add(int a, int b) {
 }
 
 auto sol = [](string s, string a, string b) {
-	int sz = max(a.size(), b.size());
-	vector p(sz + 1, 1);
-	for (int i = 1; i <= sz; i++) p[i] = p[i - 1] * 3;
-	vector nxt(p[sz] << sz, array{ 0, 0 });
-	vector c(p[sz] << sz, -1); c[1 << sz] = 0;
-	vector v(1, pair(0, 1));
+	vector nxt(0, array{ -1, -1 });
+	vector c(1 << a.size(), vector(1 << b.size(), -1)); c[1][1] = 0;
+	vector v(1, pair(1, 1));
 	for (int iter = 0; iter < v.size(); iter++) {
 		auto [s1, s2] = v[iter];
+		nxt.push_back(array{ 0, 0 });
 		for (int x = 0; x <= 1; x++) {
-			int ns1 = ((s1 << 1) & ((1 << sz) - 1)) | x;
-			int ns2 = s2 * 3 % p[sz];
-			if (s2 / p[a.size() - 1] % 3 != 0) {
-				bool flag = true;
-				for (int i = 0; i < a.size(); i++) {
-					if (a[i] == '?') continue;
-					if ((ns1 >> (a.size() - i - 1) & 1) == a[i] - 48) continue;
-					flag = false;
-					break;
-				}
-				if (flag) ns2++;
+			int ns1 = 0, ns2 = 0;
+			for (int i = 0; i < a.size(); i++) {
+				if (~s1 >> i & 1) continue;
+				if (a[i] == 49 - x) continue;
+				if (i + 1 < a.size()) ns1 |= 1 << (i + 1);
+				else ns1 |= 1, ns2 |= 1;
 			}
-			if (s2 / p[b.size() - 1] % 3 == 1 && ns2 % 3 == 0) {
-				bool flag = true;
-				for (int i = 0; i < b.size(); i++) {
-					if (b[i] == '?') continue;
-					if ((ns1 >> (b.size() - i - 1) & 1) == b[i] - 48) continue;
-					flag = false;
-					break;
-				}
-				if (flag) ns2 += 2;
+			for (int i = 0; i < b.size(); i++) {
+				if (~s2 >> i & 1) continue;
+				if (b[i] == 49 - x) continue;
+				if (i + 1 < b.size()) ns2 |= 1 << (i + 1);
+				else ns1 |= 1;
 			}
-			if (c[ns1 | ns2 << sz] == -1) {
-				c[ns1 | ns2 << sz] = v.size();
+			if (c[ns1][ns2] == -1) {
+				c[ns1][ns2] = v.size();
 				v.push_back(pair(ns1, ns2));
 			}
-			nxt[iter][x] = c[ns1 | ns2 << sz];
+			nxt[iter][x] = c[ns1][ns2];
 		}
 	}
-	vector dp(v.size(), 0);
-	for (int i = 0; i < v.size(); i++) {
-		auto [s1, s2] = v[i];
-		if (s2 % 3 != 0) dp[i] = 1;
-	}
-	for (int iter = s.size() - 1; iter >= 0; iter--) {
+	vector dp(v.size(), 0); dp[0] = 1;
+	for (char c : s) {
 		vector ndp(v.size(), 0);
 		for (int i = 0; i < v.size(); i++) {
-			if (s[iter] != '1') ndp[i] = add(ndp[i], dp[nxt[i][0]]);
-			if (s[iter] != '0') ndp[i] = add(ndp[i], dp[nxt[i][1]]);
+			if (c != '1') ndp[nxt[i][0]] = add(ndp[nxt[i][0]], dp[i]);
+			if (c != '0') ndp[nxt[i][1]] = add(ndp[nxt[i][1]], dp[i]);
 		}
 		dp.swap(ndp);
 	}
-	return dp[0];
+	int ret = 0;
+	for (int i = 0; i < v.size(); i++) {
+		auto [s1, s2] = v[i];
+		if ((s1 | s2) & 1) ret = add(ret, dp[i]);
+	}
+	return ret;
 };
 
 int main() {
