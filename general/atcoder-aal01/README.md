@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-- **진행도:** 16 / 24 (66.67%)
-- **마지막 업데이트:** 2026-11-10
+- **진행도:** 17 / 24 (70.83%)
+- **마지막 업데이트:** 2026-11-17
 
 ---
 
@@ -26,7 +26,7 @@
 | 13 | <img src="../../_assets/yellow_0_4.svg" width="16px"> 2017 | NAND | https://atcoder.jp/contests/aalc001/tasks/aalc001_m | [source code](./m/main.cpp) |
 | 14 | <img src="../../_assets/yellow_2_4.svg" width="16px"> 2186 | Times Tables | https://atcoder.jp/contests/aalc001/tasks/aalc001_n | [source code](./n/main.cpp) |
 | 15 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2405 | Minimum Value | https://atcoder.jp/contests/aalc001/tasks/aalc001_o | [source code](./o/main.cpp) |
-| 16 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2448 | Connect the Dots | https://atcoder.jp/contests/aalc001/tasks/aalc001_p | |
+| 16 | <img src="../../_assets/orange_0_4.svg" width="16px"> 2448 | Connect the Dots | https://atcoder.jp/contests/aalc001/tasks/aalc001_p | [source code](./p/main.cpp) |
 | 17 | <img src="../../_assets/red_1_4.svg" width="16px"> 2945 | Number of Moves | https://atcoder.jp/contests/aalc001/tasks/aalc001_q | |
 | 18 | <img src="../../_assets/orange_3_4.svg" width="16px"> 2670 | Connectivity | https://atcoder.jp/contests/aalc001/tasks/aalc001_r | [source code](./r/main.cpp) |
 | 19 | <img src="../../_assets/red_0_4.svg" width="16px"> 2858 | Absolute Value | https://atcoder.jp/contests/aalc001/tasks/aalc001_s | |
