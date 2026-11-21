@@ -6,11 +6,11 @@ auto sol = [](int n, auto a, auto b, auto c, auto v) {
 	sort(a.begin(), a.end(), cmp);
 	sort(b.begin(), b.end(), cmp);
 	sort(c.begin(), c.end(), cmp);
-	vector dp(n * (n + 1) * (n + 1) * (n + 1) * 3, -1);
+	vector dp(n, vector(n + 1, vector(n + 1, vector(n + 1, array{ -1, -1, -1 }))));
 	auto rec = [&](const auto& self, int iter, int i, int j, int k, int f) {
 		if (i > n || j > n || k > n) return -(1 << 30);
 		if (iter == n) return 0;
-		int& ret = dp[(((iter * (n + 1) + i) * (n + 1) + j) * (n + 1) + k) * 3 + f];
+		int& ret = dp[iter][i][j][k][f];
 		if (ret != -1) return ret;
 		ret = max({
 			self(self, iter, i + 1, j, k, f),
