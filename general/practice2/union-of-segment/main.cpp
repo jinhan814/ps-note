@@ -6,9 +6,9 @@ auto sol = [](int n, int q, auto v, auto qs) {
 	iota(c.begin(), c.end(), 0);
 	sort(c.begin(), c.end(), [&](int i, int j) { return qs[i][1] < qs[j][1]; });
 	sort(v.begin(), v.end(), [](auto a, auto b) { return a[1] < b[1]; });
+	vector ret(q, false);
 	vector dp(1'000'001, -1);
 	dp[0] = 0;
-	vector ret(q, false);
 	for (int i = 0, j = 0; i < q; i++) {
 		int p = c[i];
 		while (j < n && v[j][1] <= qs[p][1]) {
