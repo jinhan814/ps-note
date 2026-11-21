@@ -104,7 +104,7 @@
 | 91 | <img src="../../_assets/24.svg" height="16px"> | Ancient Books | https://qoj.ac/problem/2761 | |
 | 92 | <img src="../../_assets/22.svg" height="16px"> | Martian DNA | https://qoj.ac/problem/40 | |
 | 93 | <img src="../../_assets/21.svg" height="16px"> | Cup of Jamshid | https://oj.uz/problem/view/IOI17_cup | [source code](./cup-of-jamshid/main.cpp) |
-| 94 | <img src="../../_assets/18.svg" height="16px"> | Human Pyramid | - | |
+| 94 | <img src="../../_assets/18.svg" height="16px"> | Human Pyramid | - | [source code](./human-pyramid/main.cpp) |
 | 95 | <img src="../../_assets/21.svg" height="16px"> | Xortest Path | https://qoj.ac/problem/877 | [source code](./xortest-path/main.cpp) |
 | 96 | <img src="../../_assets/22.svg" height="16px"> | Hop | https://qoj.ac/problem/13412 | |
 | 97 | <img src="../../_assets/16.svg" height="16px"> | Rymdpromenad | https://github.com/Kodsport/swedish-olympiad-2018/tree/master/lager/rymdpromenad | [source code](./rymdpromenad/main.cpp) |
