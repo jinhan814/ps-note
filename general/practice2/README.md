@@ -150,7 +150,7 @@
 | 137 | <img src="../../_assets/18.svg" height="16px"> | Merge Not Sort | - | |
 | 138 | <img src="../../_assets/19.svg" height="16px"> | Twin Friends | - | |
 | 139 | <img src="../../_assets/18.svg" height="16px"> | n, 3n, 5n | - | |
-| 140 | <img src="../../_assets/16.svg" height="16px"> | 선분의 합집합 | - | |
+| 140 | <img src="../../_assets/16.svg" height="16px"> | 선분의 합집합 | - | [source code](./union-of-segment/main.cpp) |
 | 141 | <img src="../../_assets/17.svg" height="16px"> | 아이보리와 함께 푸는 스도쿠 | - | |
 | 142 | <img src="../../_assets/19.svg" height="16px"> | 가중치 복사 버그 | - | |
 | 143 | <img src="../../_assets/22.svg" height="16px"> | 보물 찾기 게임 | - | |
