@@ -9,14 +9,12 @@ auto sol = [](int n, int m) {
 	for (int i = 2; i <= n; i++) {
 		if (!s[i]) continue;
 		for (int j = i * i; j <= n; j += i) s[j] = false;
-		auto ndp = dp;
-		for (int p = i; p <= n; p *= i) {
-			for (int x = p; x <= n; x++) {
-				ndp[x] += i64(p) * dp[x - p] % m;
-				if (ndp[x] >= m) ndp[x] -= m;
+		for (int x = n; x >= i; x--) {
+			for (int p = i; p <= x; p *= i) {
+				dp[x] += i64(p) * dp[x - p] % m;
+				if (dp[x] >= m) dp[x] -= m;
 			}
 		}
-		dp.swap(ndp);
 	}
 	int ret = 0;
 	for (int x = 0; x <= n; x++) {
