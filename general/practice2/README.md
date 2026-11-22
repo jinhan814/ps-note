@@ -130,7 +130,7 @@
 | 117 | <img src="../../_assets/19.svg" height="16px"> | Malvika and Animesh play Red-Blue cards Game | - | |
 | 118 | <img src="../../_assets/24.svg" height="16px"> | 두 순열 (Hard) | - | |
 | 119 | <img src="../../_assets/21.svg" height="16px"> | Rigged Lottery | - | |
-| 120 | <img src="../../_assets/14.svg" height="16px"> | 시간낭비 | - | |
+| 120 | <img src="../../_assets/14.svg" height="16px"> | 시간낭비 | - | [source code](./waste-of-time/main.cpp) |
 | 121 | <img src="../../_assets/21.svg" height="16px"> | Galaxy Quest | - | |
 | 122 | <img src="../../_assets/26.svg" height="16px"> | 서바이벌 게임 | - | |
 | 123 | <img src="../../_assets/22.svg" height="16px"> | Liquid Distribution | - | |
