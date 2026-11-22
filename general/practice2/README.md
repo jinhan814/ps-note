@@ -98,7 +98,7 @@
 | 85 | <img src="../../_assets/15.svg" height="16px"> | 飴 2 (Candies 2) | - | |
 | 86 | <img src="../../_assets/17.svg" height="16px"> | 카드 게임과 쿼리 | - | |
 | 87 | <img src="../../_assets/14.svg" height="16px"> | SKK 문자열 | - | |
-| 88 | <img src="../../_assets/16.svg" height="16px"> | Y | - | |
+| 88 | <img src="../../_assets/16.svg" height="16px"> | Y | - | [source code](./y/main.cpp) |
 | 89 | <img src="../../_assets/21.svg" height="16px"> | XOR Island | - | |
 | 90 | <img src="../../_assets/21.svg" height="16px"> | Soccer Match | - | |
 | 91 | <img src="../../_assets/23.svg" height="16px"> | Team Change | - | |
