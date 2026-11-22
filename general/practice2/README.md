@@ -154,7 +154,7 @@
 | 141 | <img src="../../_assets/17.svg" height="16px"> | 아이보리와 함께 푸는 스도쿠 | - | |
 | 142 | <img src="../../_assets/19.svg" height="16px"> | 가중치 복사 버그 | - | |
 | 143 | <img src="../../_assets/22.svg" height="16px"> | 보물 찾기 게임 | - | |
-| 144 | <img src="../../_assets/15.svg" height="16px"> | 용감한 용사 수호 | - | |
+| 144 | <img src="../../_assets/15.svg" height="16px"> | 용감한 용사 수호 | - | [source code](./brave-suho/main.cpp) |
 | 145 | <img src="../../_assets/20.svg" height="16px"> | Zbunjenost | - | |
 | 146 | <img src="../../_assets/22.svg" height="16px"> | Levelling Locks | - | |
 | 147 | <img src="../../_assets/16.svg" height="16px"> | 팀 구성 | - | |
