@@ -45,7 +45,7 @@
 | 32 | <img src="../../_assets/21.svg" height="16px"> | 小籠包 (Xiao Long Bao) | https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_f | [source code](./xiao-long-bao/main.cpp) |
 | 33 | <img src="../../_assets/17.svg" height="16px"> | Computer Network | - | [source code](./computer-network/main.cpp) |
 | 34 | <img src="../../_assets/18.svg" height="16px"> | Lazy Fox | https://dmoj.ca/problem/ccc14s5 | [source code](./lazy-fox/main.cpp) |
-| 35 | <img src="../../_assets/19.svg" height="16px"> | Spy Network | - | |
+| 35 | <img src="../../_assets/19.svg" height="16px"> | Spy Network | - | [source code](./spy-network/main.cpp) |
 | 36 | <img src="../../_assets/15.svg" height="16px"> | 만칼라 | https://qoj.ac/problem/5621 | [source code](./mancala/main.cpp) |
 | 37 | <img src="../../_assets/14.svg" height="16px"> | 바이너리 게임 | https://codeforces.com/contest/297/problem/A | [source code](./binary-game/main.cpp) |
 | 38 | <img src="../../_assets/20.svg" height="16px"> | Bank | https://oj.uz/problem/view/IZhO14_bank | [source code](./bank/main.cpp) |
