@@ -142,7 +142,7 @@
 | 129 | <img src="../../_assets/17.svg" height="16px"> | 포닉스와 달구 | - | |
 | 130 | <img src="../../_assets/21.svg" height="16px"> | Island Hopping | - | |
 | 131 | <img src="../../_assets/20.svg" height="16px"> | Smaller Averages | - | |
-| 132 | <img src="../../_assets/15.svg" height="16px"> | 아이템 2 | - | |
+| 132 | <img src="../../_assets/15.svg" height="16px"> | 아이템 2 | - | [source code](./item-2/main.cpp) |
 | 133 | <img src="../../_assets/17.svg" height="16px"> | 이진 트리 | - | |
 | 134 | <img src="../../_assets/22.svg" height="16px"> | Ministarstvo | - | |
 | 135 | <img src="../../_assets/22.svg" height="16px"> | Library 3 | - | |
