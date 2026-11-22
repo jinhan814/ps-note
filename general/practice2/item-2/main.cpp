@@ -5,9 +5,7 @@ using i64 = long long;
 
 auto sol = [](int n, int m, auto v) {
 	vector p(n + 1, i64(0));
-	for (int i = 0; i < n; i++) {
-		p[i + 1] = p[i] + v[i];
-	}
+	for (int i = 0; i < n; i++) p[i + 1] = p[i] + v[i];
 	vector dp(n + 1, -(i64(1) << 60));
 	for (int i = 0; i <= m; i++) dp[i] = p[i];
 	for (int i = m + 1; i <= n; i++) {
@@ -15,13 +13,12 @@ auto sol = [](int n, int m, auto v) {
 		dp[i] = max(dp[i], dp[i - m] + p[i] - p[i - m]);
 		dp[i] = max(dp[i], dp[i - 1] + v[i - 1]);
 	}
-	for (int i = 1; i <= n; i++) {
-		dp[i] = max(dp[i], dp[i - 1]);
-	}
-	i64 ret = dp[n];
+	i64 ret = 0;
 	for (int i = n - m + 1; i <= n; i++) {
+		dp[i] = max(dp[i], dp[i - 1]);
 		ret = max(ret, dp[i - 1] + p[n] - p[i - 1]);
 	}
+	ret = max(ret, dp[n]);
 	return ret;
 };
 
