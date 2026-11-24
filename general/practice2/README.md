@@ -114,7 +114,7 @@
 | 101 | <img src="../../_assets/21.svg" height="16px"> | Sloppy city planning | - | |
 | 102 | <img src="../../_assets/13.svg" height="16px"> | 시로코와 은행털기 | - | |
 | 103 | <img src="../../_assets/20.svg" height="16px"> | White-Black Tree | - | |
-| 104 | <img src="../../_assets/16.svg" height="16px"> | Dice Grid | - | |
+| 104 | <img src="../../_assets/16.svg" height="16px"> | Dice Grid | - | [source code](./dice-grid/main.cpp) |
 | 105 | <img src="../../_assets/14.svg" height="16px"> | Melons | - | |
 | 106 | <img src="../../_assets/16.svg" height="16px"> | 치즈 | - | |
 | 107 | <img src="../../_assets/21.svg" height="16px"> | Cat Exercise | - | |
