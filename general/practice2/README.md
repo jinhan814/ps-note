@@ -82,7 +82,7 @@
 | 69 | <img src="../../_assets/21.svg" height="16px"> | [Political Development](https://acmicpc.net/problem/22196) | - | |
 | 70 | <img src="../../_assets/22.svg" height="16px"> | [Game of Slots](https://acmicpc.net/problem/22270) | - | |
 | 71 | <img src="../../_assets/22.svg" height="16px"> | [辺が先か，頂点が先か](https://acmicpc.net/problem/22368) | - | |
-| 72 | <img src="../../_assets/17.svg" height="16px"> | [Magical Girl Sayaka-chan](https://acmicpc.net/problem/22516) | - | |
+| 72 | <img src="../../_assets/17.svg" height="16px"> | [Magical Girl Sayaka-chan](https://acmicpc.net/problem/22516) | - | [source code](./magical-girl-sayaka/main.cpp) |
 | 73 | <img src="../../_assets/25.svg" height="16px"> | [은퇴한 자들의 게임](https://acmicpc.net/problem/22883) | https://qoj.ac/problem/17963 | |
 | 74 | <img src="../../_assets/22.svg" height="16px"> | [AND Permutation](https://acmicpc.net/problem/22922) | - | |
 | 75 | <img src="../../_assets/22.svg" height="16px"> | [여우 국수](https://acmicpc.net/problem/23047) | - | |
