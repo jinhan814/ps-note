@@ -76,9 +76,9 @@
 | 63 | <img src="../../_assets/18.svg" height="16px"> | [Atomic Energy](https://acmicpc.net/problem/21337) | https://qoj.ac/problem/2360 | |
 | 64 | <img src="../../_assets/22.svg" height="16px"> | [The Firm Knapsack Problem](https://acmicpc.net/problem/21644) | https://qoj.ac/problem/4304 | |
 | 65 | <img src="../../_assets/24.svg" height="16px"> | [MalnaRISC](https://acmicpc.net/problem/21810) | https://qoj.ac/problem/5289 | |
-| 66 | <img src="../../_assets/24.svg" height="16px"> | [The short shank; Redemption](https://acmicpc.net/problem/21848) | - | |
-| 67 | <img src="../../_assets/19.svg" height="16px"> | [Modulo Permutations](https://acmicpc.net/problem/21913) | - | |
-| 68 | <img src="../../_assets/21.svg" height="16px"> | [회의실](https://acmicpc.net/problem/22031) | - | |
+| 66 | <img src="../../_assets/24.svg" height="16px"> | [The short shank; Redemption](https://acmicpc.net/problem/21848) | https://qoj.ac/problem/2424 | |
+| 67 | <img src="../../_assets/19.svg" height="16px"> | [Modulo Permutations](https://acmicpc.net/problem/21913) | https://qoj.ac/problem/1651 | |
+| 68 | <img src="../../_assets/21.svg" height="16px"> | [회의실](https://acmicpc.net/problem/22031) | https://qoj.ac/problem/2556 | |
 | 69 | <img src="../../_assets/21.svg" height="16px"> | [Political Development](https://acmicpc.net/problem/22196) | - | |
 | 70 | <img src="../../_assets/22.svg" height="16px"> | [Game of Slots](https://acmicpc.net/problem/22270) | - | |
 | 71 | <img src="../../_assets/22.svg" height="16px"> | [辺が先か，頂点が先か](https://acmicpc.net/problem/22368) | - | |
