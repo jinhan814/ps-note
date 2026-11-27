@@ -65,17 +65,17 @@
 | 52 | <img src="../../_assets/22.svg" height="16px"> | [≤ or ≥](https://acmicpc.net/problem/19288) | https://qoj.ac/problem/11700 | |
 | 53 | <img src="../../_assets/22.svg" height="16px"> | [Colourings](https://acmicpc.net/problem/19486) | https://qoj.ac/problem/6573 | |
 | 54 | <img src="../../_assets/21.svg" height="16px"> | [Eel and Grid](https://acmicpc.net/problem/19523) | https://qoj.ac/problem/12655 | |
-| 55 | <img src="../../_assets/19.svg" height="16px"> | [Edge Coloring](https://acmicpc.net/problem/19527) | - | |
-| 56 | <img src="../../_assets/20.svg" height="16px"> | [Arranging Shoes](https://acmicpc.net/problem/19914) | - | |
-| 57 | <img src="../../_assets/23.svg" height="16px"> | [Steel Slicing 2](https://acmicpc.net/problem/20034) | - | |
-| 58 | <img src="../../_assets/18.svg" height="16px"> | [Gap](https://acmicpc.net/problem/20537) | - | |
-| 59 | <img src="../../_assets/21.svg" height="16px"> | [Rikka with Game Theory](https://acmicpc.net/problem/20804) | - | |
+| 55 | <img src="../../_assets/19.svg" height="16px"> | [Edge Coloring](https://acmicpc.net/problem/19527) | https://qoj.ac/problem/12659 | |
+| 56 | <img src="../../_assets/20.svg" height="16px"> | [Arranging Shoes](https://acmicpc.net/problem/19914) | https://qoj.ac/problem/2670 | |
+| 57 | <img src="../../_assets/23.svg" height="16px"> | [Steel Slicing 2](https://acmicpc.net/problem/20034) | https://qoj.ac/problem/3310 | |
+| 58 | <img src="../../_assets/18.svg" height="16px"> | [Gap](https://acmicpc.net/problem/20537) | https://qoj.ac/problem/4 | |
+| 59 | <img src="../../_assets/21.svg" height="16px"> | [Rikka with Game Theory](https://acmicpc.net/problem/20804) | https://qoj.ac/problem/11526 | |
 | 60 | <img src="../../_assets/14.svg" height="16px"> | [메이플스토리](https://acmicpc.net/problem/20925) | - | |
-| 61 | <img src="../../_assets/22.svg" height="16px"> | [Hiring and Firing](https://acmicpc.net/problem/21054) | - | |
+| 61 | <img src="../../_assets/22.svg" height="16px"> | [Hiring and Firing](https://acmicpc.net/problem/21054) | https://qoj.ac/problem/882 | |
 | 62 | <img src="../../_assets/19.svg" height="16px"> | [ABC](https://acmicpc.net/problem/21291) | - | |
-| 63 | <img src="../../_assets/18.svg" height="16px"> | [Atomic Energy](https://acmicpc.net/problem/21337) | - | |
-| 64 | <img src="../../_assets/22.svg" height="16px"> | [The Firm Knapsack Problem](https://acmicpc.net/problem/21644) | - | |
-| 65 | <img src="../../_assets/24.svg" height="16px"> | [MalnaRISC](https://acmicpc.net/problem/21810) | - | |
+| 63 | <img src="../../_assets/18.svg" height="16px"> | [Atomic Energy](https://acmicpc.net/problem/21337) | https://qoj.ac/problem/2360 | |
+| 64 | <img src="../../_assets/22.svg" height="16px"> | [The Firm Knapsack Problem](https://acmicpc.net/problem/21644) | https://qoj.ac/problem/4304 | |
+| 65 | <img src="../../_assets/24.svg" height="16px"> | [MalnaRISC](https://acmicpc.net/problem/21810) | https://qoj.ac/problem/5289 | |
 | 66 | <img src="../../_assets/24.svg" height="16px"> | [The short shank; Redemption](https://acmicpc.net/problem/21848) | - | |
 | 67 | <img src="../../_assets/19.svg" height="16px"> | [Modulo Permutations](https://acmicpc.net/problem/21913) | - | |
 | 68 | <img src="../../_assets/21.svg" height="16px"> | [회의실](https://acmicpc.net/problem/22031) | - | |
