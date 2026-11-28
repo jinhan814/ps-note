@@ -2,13 +2,10 @@
 using namespace std;
 
 int main() {
-	map cache{ pair(tuple(0, 0, 0, 0), 0) };
-	cache.clear();
 	auto ask = [&](int a, int b, int c, int d) {
-		if (cache.count(tuple(a, b, c, d))) return cache[tuple(a, b, c, d)];
 		cout << "? " << a << ' ' << b << ' ' << c << ' ' << d << endl;
 		int x; cin >> x;
-		return cache[tuple(a, b, c, d)] = x;
+		return x;
 	};
 	auto rec = [&](const auto& self, int l, int r) {
 		if (r - l <= 0) return 0;
