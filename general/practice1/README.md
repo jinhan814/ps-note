@@ -120,7 +120,7 @@
 | 107 | <img src="../../_assets/18.svg" height="16px"> | [나의 라임 오렌지 나무](https://acmicpc.net/problem/22900) | - | [source code](./my-orange-tree/main.cpp) |
 | 108 | <img src="../../_assets/20.svg" height="16px"> | [Hidden Pancakes](https://acmicpc.net/problem/22911) | https://qoj.ac/problem/12460 | [source code](./hidden-pancakes/main.cpp) |
 | 109 | <img src="../../_assets/17.svg" height="16px"> | [달팽이는 그늘에서 쉬고 싶다](https://acmicpc.net/problem/22977) | - | [source code](./snail-wants-to-rest/main.cpp) |
-| 110 | <img src="../../_assets/19.svg" height="16px"> | [Secret Sequence](https://acmicpc.net/problem/23072) | https://scc21.kattis.com/contests/scc21/problems/secretsequence | |
+| 110 | <img src="../../_assets/19.svg" height="16px"> | [Secret Sequence](https://acmicpc.net/problem/23072) | https://scc21.kattis.com/contests/scc21/problems/secretsequence | [source code](./secret-sequence/main.cpp) |
 | 111 | <img src="../../_assets/20.svg" height="16px"> | [King](https://acmicpc.net/problem/23458) | https://qoj.ac/problem/5045 | [source code](./king/main.cpp) |
 | 112 | <img src="../../_assets/20.svg" height="16px"> | [Misunderstood Missing](https://acmicpc.net/problem/23668) | https://qoj.ac/problem/10210 | |
 | 113 | <img src="../../_assets/18.svg" height="16px"> | [Vertex Merge Game](https://acmicpc.net/problem/23736) | - | |
